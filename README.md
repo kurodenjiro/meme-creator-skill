@@ -25,6 +25,14 @@ npm run dev
 python python/server.py
 ```
 
+## Deploy (Vercel)
+
+1. Import `https://github.com/kurodenjiro/meme-creator-skill` as a Vercel project (root directory: repo root).
+2. Add environment variables from `.env.example` (at minimum `PUBLIC_SUPABASE_URL`, `PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `OPENAI_API_KEY`, and `IMAGE_DIR=files/gallery-dl/twitter/boldleonidas`).
+3. Deploy. The app uses `@sveltejs/adapter-vercel` and bundles meme images for `/api/image/*`.
+
+Note: the image archive is ~220MB in git, which can approach Vercel deployment size limits on smaller plans.
+
 ## Common Commands
 
 ```sh
