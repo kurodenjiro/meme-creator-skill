@@ -1,5 +1,6 @@
 import { json } from '@sveltejs/kit';
 import { generateMemeImage } from '$lib/server/meme-pipeline';
+import { formatOpenAIError } from '$lib/server/openai-errors';
 import type { MemeScript } from '$lib/types/meme';
 import type { RequestHandler } from './$types';
 
@@ -32,7 +33,6 @@ export const POST: RequestHandler = async ({ request }) => {
 			model
 		});
 	} catch (e: unknown) {
-		const msg = e instanceof Error ? e.message : String(e);
-		return json({ error: msg }, { status: 500 });
+		return json({ error: formatOpenAIError(e) }, { status: 500 });
 	}
 };

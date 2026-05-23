@@ -76,6 +76,45 @@ function buildSearchQuery(trend: string, characters: Character[]): string {
 	return `${names} ${trend}`.trim();
 }
 
+function chatModel(): string {
+	return env.OPENAI_CHAT_MODEL || 'openai/gpt-4o-mini';
+}
+
+function imageModel(): string {
+	if (env.OPENAI_IMAGE_MODEL) return env.OPENAI_IMAGE_MODEL;
+	const base = env.OPENAI_BASE_URL || '';
+	if (base.includes('ai-gateway.vercel')) return 'openai/gpt-image-1';
+	return 'gpt-image-1';
+}
+
+/** Vercel AI Gateway rejects response_format json_object — parse from text instead. */
+function parseJsonFromModel<T>(raw: string): T {
+	const trimmed = raw.trim();
+	try {
+		return JSON.parse(trimmed) as T;
+	} catch {
+		const fenced = trimmed.match(/```(?:json)?\s*([\s\S]*?)```/i);
+		if (fenced?.[1]) return JSON.parse(fenced[1].trim()) as T;
+		const start = trimmed.indexOf('{');
+		const end = trimmed.lastIndexOf('}');
+		if (start >= 0 && end > start) {
+			return JSON.parse(trimmed.slice(start, end + 1)) as T;
+		}
+		throw new Error('Model did not return valid JSON');
+	}
+}
+
+function summarizeReference(r: MemeReference, i: number): string {
+	const layout =
+		typeof r.layout === 'string'
+			? r.layout.slice(0, 200)
+			: JSON.stringify(r.layout).slice(0, 200);
+	return `Reference ${i + 1} (${r.id}, similarity ${(r.similarity ?? r.score ?? 0).toFixed(3)}):
+  Description: ${(r.description || '').slice(0, 280)}
+  Layout (summary): ${layout}
+  Structure: ${String(r.content_structure || '').slice(0, 120)}`;
+}
+
 export async function generateMemeScript(
 	req: GenerateScriptRequest
 ): Promise<GenerateScriptResponse> {
@@ -92,8 +131,8 @@ export async function generateMemeScript(
 		references = searchResults.map(toReference);
 	}
 
-	const styleGuide = readGuide(STYLE_FILE);
-	const skillGuide = readGuide(SKILL_FILE);
+	const styleGuide = readGuide(STYLE_FILE).slice(0, 3500);
+	const skillGuide = readGuide(SKILL_FILE).slice(0, 3500);
 
 	const characterBlock = characters
 		.map(
@@ -102,16 +141,7 @@ export async function generateMemeScript(
 		)
 		.join('\n');
 
-	const refBlock = references
-		.map((r, i) => {
-			return `Reference ${i + 1} (${r.id}, similarity ${(r.similarity ?? 0).toFixed(3)}):
-  Description: ${r.description}
-  Layout: ${JSON.stringify(r.layout)}
-  Characters: ${JSON.stringify(r.character_position)}
-  Text: ${JSON.stringify(r.text_style)}
-  Structure: ${r.content_structure}`;
-		})
-		.join('\n\n');
+	const refBlock = references.map(summarizeReference).join('\n\n');
 
 	const system = `You are a Boldleonidas comic meme writer. Output valid JSON only.
 
@@ -138,31 +168,15 @@ ${hint ? `Extra direction:\n${hint}\n` : ''}
 Similar memes from archive (use for layout and tone, do not copy verbatim):
 ${refBlock}
 
-Return JSON with this exact shape:
-{
-  "conceptAnalysis": "string",
-  "layoutType": "1-Panel" | "2-Panel" | "3-Panel",
-  "primaryCharacter": "string",
-  "panels": [
-    {
-      "panelNumber": 1,
-      "visualScene": "string",
-      "characterPlacement": "string",
-      "speechBubble": "ALL CAPS TEXT",
-      "secondaryElements": "optional string"
-    }
-  ],
-  "imagePrompt": "English DALL-E style prompt for the full comic",
-  "styleNotes": "brief notes on colors, bubbles, tone"
-}`;
+Return ONLY a single JSON object (no markdown fences) with keys:
+conceptAnalysis, layoutType (1-Panel|2-Panel|3-Panel), primaryCharacter, panels (array with panelNumber, visualScene, characterPlacement, speechBubble, optional secondaryElements), imagePrompt, styleNotes`;
 
 	const completion = await openai.chat.completions.create({
-		model: 'gpt-4o',
+		model: chatModel(),
 		messages: [
 			{ role: 'system', content: system },
 			{ role: 'user', content: user }
 		],
-		response_format: { type: 'json_object' },
 		temperature: 0.75,
 		max_tokens: 2000
 	});
@@ -170,7 +184,7 @@ Return JSON with this exact shape:
 	const raw = completion.choices[0]?.message?.content;
 	if (!raw) throw new Error('Empty script response from model');
 
-	const script = JSON.parse(raw) as MemeScript;
+	const script = parseJsonFromModel<MemeScript>(raw);
 	if (!script.panels?.length) throw new Error('Invalid script: missing panels');
 
 	return {
@@ -244,7 +258,7 @@ Output ONLY the final English prompt (max 1200 chars), no markdown, no explanati
 	}
 
 	const completion = await openai.chat.completions.create({
-		model: 'gpt-4o',
+		model: chatModel(),
 		messages: [{ role: 'user', content }],
 		max_tokens: 1500,
 		temperature: 0.6
@@ -279,7 +293,7 @@ export async function generateMemeImage(
 	}
 
 	const finalPrompt = await buildFinalImagePrompt(script, characters, references);
-	const model = env.OPENAI_IMAGE_MODEL || 'gpt-image-1';
+	const model = imageModel();
 
 	const resp = await openai.images.generate({
 		model,
