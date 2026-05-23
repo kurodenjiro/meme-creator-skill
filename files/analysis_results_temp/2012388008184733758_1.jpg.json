@@ -1,0 +1,24 @@
+{
+  "layout": {
+    "text_position": "top left corner with speech bubble",
+    "characters": [
+      "left character partially visible",
+      "right character prominently visible"
+    ],
+    "background": "simple gradient without specific details"
+  },
+  "character_position": {
+    "left_character_position": "left side, partially obscured",
+    "right_character_position": "center right, majority visible",
+    "character_size_percentage": "75%"
+  },
+  "text_style": {
+    "font_type": "bold comic-like font",
+    "color": "black on white background",
+    "position": "within a speech bubble at the top"
+  },
+  "content_structure": {
+    "format": "reaction format with ironic or humorous commentary"
+  },
+  "description": "The meme features two cartoon characters with one whispering to the other, conveying a humorous or sarcastic message through the speech bubble."
+}

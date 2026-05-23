@@ -1,0 +1,67 @@
+{
+  "layout": {
+    "text": [
+      {
+        "content": "Activity",
+        "position": "top-left",
+        "alignment": "left"
+      },
+      {
+        "content": "Received",
+        "position": "left-middle",
+        "alignment": "left"
+      },
+      {
+        "content": "Today",
+        "position": "left-lower-middle",
+        "alignment": "left"
+      },
+      {
+        "content": "See all",
+        "position": "top-right",
+        "alignment": "right"
+      },
+      {
+        "content": "0.100 ZEC",
+        "position": "right",
+        "alignment": "right"
+      }
+    ],
+    "icons": [
+      {
+        "type": "arrow_down",
+        "position": "left-middle",
+        "size": "small"
+      },
+      {
+        "type": "checkmark",
+        "position": "left-middle",
+        "size": "small"
+      }
+    ],
+    "background": "dark"
+  },
+  "character_position": {
+    "presence": false,
+    "size_percentage": 0
+  },
+  "text_style": {
+    "font": "sans-serif (assumed)",
+    "color": "white and green",
+    "style": "bold and regular",
+    "positions": {
+      "top": "Activity",
+      "middle": [
+        "Received",
+        "Today"
+      ],
+      "bottom": "0.100 ZEC",
+      "right": "See all"
+    }
+  },
+  "content_structure": {
+    "type": "notification-style",
+    "format": "informative"
+  },
+  "description": "This image mimics an application notification, showing a balance received in ZEC (0.100 units) today. The background is dark with distinctive light fonts for text and important information displayed in green."
+}

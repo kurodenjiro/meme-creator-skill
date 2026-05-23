@@ -1,0 +1,40 @@
+{
+  "layout": {
+    "elements": {
+      "tombstone": {
+        "position": "center",
+        "size_percentage": 40
+      },
+      "characters": [
+        {
+          "position": "left",
+          "size_percentage": 20
+        },
+        {
+          "position": "bottom right",
+          "size_percentage": 20
+        },
+        {
+          "position": "top right",
+          "size_percentage": 15
+        }
+      ],
+      "background": {
+        "color": "solid with gray and green tones"
+      }
+    }
+  },
+  "character_position": [
+    "Left character observing the tombstone",
+    "Bottom right character kneeling by the tombstone",
+    "Top right character standing with an umbrella"
+  ],
+  "text_style": {
+    "font_guess": "handwritten style",
+    "color": "black",
+    "position_on_tombstone": "centered",
+    "text": "HERE LIES CRYPTO TWITTER 2013-2025 \"GM\""
+  },
+  "content_structure": "reaction",
+  "description": "The meme features a gravestone marking the end of 'Crypto Twitter.' Characters are gathered around in a somber, reflective pose, indicating a satirical or humorous take on the situation in crypto communities."
+}

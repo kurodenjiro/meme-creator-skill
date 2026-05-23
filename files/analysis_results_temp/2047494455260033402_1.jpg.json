@@ -1,0 +1,11 @@
+{
+  "layout": "The text is placed at the top, taking up the majority of the space, while the character is positioned at the bottom center. The background is plain white.",
+  "character_position": "The character is located in the bottom center of the image and occupies approximately 20% of the entire image.",
+  "text_style": {
+    "font": "Bold, hand-drawn style",
+    "color": "Black",
+    "position": "Top half of the image, aligned to the left"
+  },
+  "content_structure": "The meme follows a reaction format, with the character's expression contradicting the sarcastic tone of the text.",
+  "description": "A meme featuring a cartoon character with a sarcastic expression, accompanied by text discussing surprising financial news in a humorous manner."
+}

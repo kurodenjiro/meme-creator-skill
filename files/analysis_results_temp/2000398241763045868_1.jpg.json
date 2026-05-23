@@ -1,0 +1,62 @@
+{
+  "layout": {
+    "panels": [
+      {
+        "text": "So you know he's a serial scammer?",
+        "text_position": "top_left",
+        "character": "dog",
+        "character_position": "bottom_left",
+        "other_element": "scammer warning card",
+        "other_element_position": "left_center"
+      },
+      {
+        "text": "Yep.",
+        "text_position": "center_right",
+        "character": "blue square",
+        "character_position": "center_right"
+      },
+      {
+        "text": "And ZachXBT showed you 73 of his previous scams?",
+        "text_position": "center",
+        "character": "dog",
+        "character_position": "bottom_left"
+      },
+      {
+        "text": "Yep.",
+        "text_position": "center_right",
+        "character": "blue square",
+        "character_position": "center_right"
+      },
+      {
+        "text": "And you've used your platform to promote the 74th scam?",
+        "text_position": "center",
+        "character": "dog",
+        "character_position": "bottom_left"
+      },
+      {
+        "text": "Yep.",
+        "text_position": "center_right",
+        "character": "blue square",
+        "character_position": "center_right"
+      }
+    ]
+  },
+  "character_position": {
+    "dog": "bottom_left",
+    "blue_square": "center_right",
+    "dog_size_percent": 30,
+    "blue_square_size_percent": 20
+  },
+  "text_style": {
+    "font": "bold hand-drawn style",
+    "text_color": "black",
+    "background_color": "white",
+    "text_case": "uppercase",
+    "alignment": "left"
+  },
+  "content_structure": {
+    "format": "reaction dialogue",
+    "dialogue_type": "interrogative and affirmative"
+  },
+  "description": "A meme with multiple panels showing a dialogue between a skeptical dog character and a blue square character who affirms involvement in scams."
+}

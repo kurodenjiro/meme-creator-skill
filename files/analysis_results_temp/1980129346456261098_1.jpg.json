@@ -1,0 +1,39 @@
+{
+  "layout": {
+    "panels": 2,
+    "top_panel": {
+      "characters": "left and right",
+      "text": "above character on right and left character"
+    },
+    "bottom_panel": {
+      "characters": "left",
+      "large text": "right"
+    }
+  },
+  "character_position": {
+    "top_panel": {
+      "left_character": "approximately 30%",
+      "right_character": "approximately 30%"
+    },
+    "bottom_panel": {
+      "character": "left side, approximately 30%",
+      "object": "right side, large portion"
+    }
+  },
+  "text_style": {
+    "font": "handwritten style",
+    "color": "black and red",
+    "top_panel_text": {
+      "text_1": "black text inside speech bubbles",
+      "text_2": "black speech bubble"
+    },
+    "bottom_panel_text": {
+      "central_text": "red, handwritten style, large"
+    }
+  },
+  "content_structure": {
+    "type": "reaction and warning",
+    "format": "two-panel comparison"
+  },
+  "description": "The meme features a comic with two panels. In the top panel, there's an interaction between two characters. The left character greets and expresses excitement, while the right character responds. In the bottom panel, the left character suggests connection. The right side of the panel features a large red text warning about online scams."
+}

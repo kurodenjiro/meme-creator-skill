@@ -1,0 +1,14 @@
+{
+  "layout": "The image features a Venn diagram with two large overlapping circles in the top half, labeled 'KAITO YAPPERS' and 'ACTUAL USERS.' Below these circles are two cartoon characters with a speech bubble, positioned in the bottom left corner.",
+  "character_position": "The characters are located in the bottom left corner of the image, occupying about 20% of the overall space.",
+  "text_style": {
+    "font": "Handwritten, bold",
+    "color": "Black",
+    "position": {
+      "speech_bubble": "Bottom left, inside the speech bubble",
+      "circles": "Centered within each circle"
+    }
+  },
+  "content_structure": "Comparative and commentary, using a Venn diagram to illustrate overlapping concepts related to social media themes.",
+  "description": "The meme uses a Venn diagram humorously to comment on the difference between 'KAITO YAPPERS' and 'ACTUAL USERS', with a section in between marked by a commentary from cartoon characters describing it as the point 'when they sell the airdrop.' The layout combines visual and textual elements to deliver a satirical take on social media interactions."
+}

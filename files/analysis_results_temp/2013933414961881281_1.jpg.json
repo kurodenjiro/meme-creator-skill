@@ -1,0 +1,57 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "THAT'S A LOT BRO.",
+        "position": "top left",
+        "style": "speech bubble"
+      },
+      {
+        "content": "YEP. 365 RED CANDLES!",
+        "position": "middle left",
+        "style": "speech bubble"
+      },
+      {
+        "content": "HAPPY 1ST BIRTHDAY $MELANIA TOKEN",
+        "position": "bottom center",
+        "style": "on cake"
+      }
+    ],
+    "characters": [
+      {
+        "position": "center left",
+        "approximate_size_percent": 30
+      },
+      {
+        "position": "center right",
+        "approximate_size_percent": 30
+      }
+    ],
+    "background": "simple grey with cake in the foreground"
+  },
+  "character_position": [
+    {
+      "location": "left side",
+      "size": "30%"
+    },
+    {
+      "location": "right side",
+      "size": "30%"
+    }
+  ],
+  "text_style": [
+    {
+      "font": "bold sans-serif",
+      "color": "black",
+      "position": "speech bubbles"
+    },
+    {
+      "font": "bold sans-serif",
+      "color": "white",
+      "position": "on cake",
+      "background": "pink with purple"
+    }
+  ],
+  "content_structure": "reaction",
+  "description": "A comic-style meme featuring two characters. One character comments on the large number of candles on a cake, while the other confirms the impressive detail. The cake itself is a focal point, celebrating the '1st Birthday' of something called '$Melania Token'."
+}

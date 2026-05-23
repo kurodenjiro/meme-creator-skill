@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "text_elements": "Speech bubble on the left side with text.",
+    "characters": "Two characters sitting in the foreground, facing a TV screen in the center.",
+    "background": "TV screen showing a character painting on a canvas."
+  },
+  "character_position": {
+    "foreground_characters": "Located at the bottom of the image, facing away from the viewer, occupying about 20-25% of the image.",
+    "background_character": "On the TV screen in the center, taking up around 30-35% of the image."
+  },
+  "text_style": {
+    "font_guess": "Bold, sans-serif style",
+    "design": "Speech bubble with bold black text, uppercase letters.",
+    "color": "Black text on white background.",
+    "position": "Located to the left of the two main characters."
+  },
+  "content_structure": {
+    "format": "Reaction meme",
+    "message": "Conveys a sense of familiarity or déjà vu."
+  },
+  "description": "The meme features two characters watching TV, where an artist character on the screen is painting a graph-like landscape. One of the characters makes a comment reminiscent of déjà vu, represented through a speech bubble."
+}

@@ -1,0 +1,50 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "text_position": "top_left",
+      "character_positions": [
+        {
+          "character": "left_character",
+          "position": "left_center",
+          "size_percentage": 40
+        },
+        {
+          "character": "right_character",
+          "position": "right_center",
+          "size_percentage": 40
+        }
+      ],
+      "background": "gray"
+    },
+    "panel_2": {
+      "text_position": "top_left",
+      "character_positions": [
+        {
+          "character": "top_character",
+          "position": "left_bottom",
+          "size_percentage": 30
+        },
+        {
+          "character": "bottom_character",
+          "position": "right_bottom",
+          "size_percentage": 30
+        }
+      ],
+      "background": "gray"
+    }
+  },
+  "character_position": {
+    "left_character": "standing with a cup",
+    "right_character": "sitting at a computer",
+    "top_character": "looking surprised",
+    "bottom_character": "concerned"
+  },
+  "text_style": {
+    "font": "thick hand-drawn style",
+    "color": "black",
+    "background": "white speech bubbles with black borders"
+  },
+  "content_structure": "reaction",
+  "description": "A two-panel meme showing a character interaction where one character expresses concern and another character seems stressed or troubled by their own situation."
+}

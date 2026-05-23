@@ -1,0 +1,46 @@
+{
+  "layout": [
+    {
+      "section": "top",
+      "elements": [
+        {
+          "type": "character",
+          "position": "center-left",
+          "description": "Character with gray hair and beard, holding a microphone."
+        }
+      ]
+    },
+    {
+      "section": "bottom",
+      "elements": [
+        {
+          "type": "dialogue box",
+          "position": "left",
+          "content": "REFINANCE WHERE, MICHAEL?"
+        },
+        {
+          "type": "character",
+          "position": "center",
+          "description": "Pill-shaped character looking confused."
+        }
+      ]
+    }
+  ],
+  "character_position": {
+    "top_character": {
+      "position": "center-left",
+      "size_percentage": 40
+    },
+    "bottom_character": {
+      "position": "center",
+      "size_percentage": 40
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn style",
+    "color": "black",
+    "position": "upper-left in speech bubble"
+  },
+  "content_structure": "reaction",
+  "description": "The meme features two panels. The top panel has a character speaking into a microphone, and the bottom panel shows a confused pill-shaped character responding with a humorous line."
+}

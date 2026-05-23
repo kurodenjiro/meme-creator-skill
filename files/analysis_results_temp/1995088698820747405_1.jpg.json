@@ -1,0 +1,11 @@
+{
+  "layout": "The image has a cartoon character at the bottom left and a second character sitting on a peak in the graph line. The graph is green trending upward and then red trending downward. A speech bubble is attached to the character on the left.",
+  "character_position": "The first character is positioned at the bottom left corner, occupying about 20% of the image. The second character is sitting near the upper right on the graph peak, occupying about 10%.",
+  "text_style": {
+    "font": "Bold, sans-serif, hand-drawn style",
+    "color": "Black text with a white background inside the speech bubble",
+    "position": "Text is inside a speech bubble coming from the first character at the bottom left"
+  },
+  "content_structure": "Reaction format where one character comments on actions implied by another, represented by the graph trend.",
+  "description": "A cartoon-style meme with two characters discussing a repeated action symbolized by a graph. The graph depicts a successful upward trend followed by a sharp decline."
+}

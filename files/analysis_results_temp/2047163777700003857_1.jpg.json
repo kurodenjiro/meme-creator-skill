@@ -1,0 +1,30 @@
+{
+  "layout": {
+    "main_text_center": "Centered in the middle",
+    "small_text_bottom": "Small text at the bottom",
+    "artist_credit": "Credit on the bottom right"
+  },
+  "character_position": {
+    "text_focus": "Text is the primary focus, no specific characters",
+    "percentage": "Text occupies around 20-30% of the image"
+  },
+  "text_style": {
+    "main_text": {
+      "font_style": "Bold, gradient effect from green",
+      "position": "Center",
+      "color": "Green",
+      "text": "BELIEVE"
+    },
+    "small_text": {
+      "font_style": "Casual, serif-like",
+      "position": "Bottom, centered",
+      "color": "Black",
+      "text": "*IN THE CRIMINAL JUSTICE SYSTEM"
+    }
+  },
+  "content_structure": {
+    "format": "Wordplay with popular phrase",
+    "message": "Humorous twist on a serious statement"
+  },
+  "description": "The meme uses a bold, green text 'BELIEVE' at the center and a smaller, black text at the bottom to create a humorous play on words, referencing 'in the criminal justice system'."
+}

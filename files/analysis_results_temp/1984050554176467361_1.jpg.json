@@ -1,0 +1,49 @@
+{
+  "layout": {
+    "text_boxes": [
+      {
+        "position": "top left",
+        "content": "I'M BULLISH MONAD!"
+      },
+      {
+        "position": "top right",
+        "content": "FILTHY VCCHAIN!"
+      }
+    ],
+    "characters": [
+      {
+        "position": "left",
+        "size_percentage": 20
+      },
+      {
+        "position": "right",
+        "size_percentage": 20
+      }
+    ],
+    "additional_elements": [
+      {
+        "position": "bottom left",
+        "content": "738,920"
+      },
+      {
+        "position": "bottom right",
+        "content": "37"
+      }
+    ]
+  },
+  "character_position": {
+    "left_character": "bottom left corner, taking approximately 20% of the frame",
+    "right_character": "bottom right corner, taking approximately 20% of the frame"
+  },
+  "text_style": {
+    "font": "handwritten style",
+    "color": "black",
+    "background": "white with black border",
+    "placement": "speech bubbles pointing to characters"
+  },
+  "content_structure": {
+    "type": "comparison",
+    "elements_compared": "characters' dialogue and score values"
+  },
+  "description": "The meme features two cartoon characters with contrasting opinions illustrated through dialogue in speech bubbles. Each character has a respective score displayed at the bottom, highlighting a comparison between them. The format uses humor to make a commentary on differing perspectives."
+}

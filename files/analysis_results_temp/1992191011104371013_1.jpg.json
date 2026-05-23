@@ -1,0 +1,30 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_bubble": "Top right in the top panel",
+    "characters": "Top panel features a single character; bottom panel has multiple characters",
+    "background": "Simple, gray backgrounds with solid outlines separating panels"
+  },
+  "character_position": {
+    "top_panel": {
+      "position": "Center",
+      "size_percentage": "About 40% of the panel"
+    },
+    "bottom_panel": {
+      "position": "Characters are spread across the panel",
+      "size_percentage": "About 50% of the panel collectively"
+    }
+  },
+  "text_style": {
+    "font": "Comic style, bold",
+    "color": "Black text on white speech bubble with a thick border",
+    "position": "Upper right corner of the top panel"
+  },
+  "content_structure": {
+    "format": "Reaction meme",
+    "message_delivery": "Top panel sets up a statement, bottom panel shows the reaction"
+  },
+  "description": {
+    "overall": "The image is a two-panel comic where the top panel features a character speaking into a microphone, and the bottom panel shows an enthusiastic crowd of cartoon bears reacting."
+  }
+}

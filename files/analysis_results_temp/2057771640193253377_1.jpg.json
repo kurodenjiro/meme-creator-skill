@@ -1,0 +1,25 @@
+{
+  "layout": {
+    "background": "dark/black throughout",
+    "header": "logo and profile name centered at top",
+    "button": "View Profile button in the center below header",
+    "chat_bubbles": "light blue chat bubbles aligned to the right side",
+    "date": "indicated with 'Today' just above chat"
+  },
+  "character_position": {
+    "profile_section": "centered in the upper part of the image",
+    "chat": "lower portion of the image",
+    "character_size": "logo takes approximately 20% of the image height"
+  },
+  "text_style": {
+    "font_guess": "sans-serif typical of social media",
+    "font_color": "white for profile and black for text, blue for chat bubbles",
+    "header_text": "white with yellow checkmark",
+    "chat_text": "white text inside blue bubbles"
+  },
+  "content_structure": {
+    "format": "humorous interaction",
+    "theme": "user seeking customer service regarding a purchase"
+  },
+  "description": "The meme mimics a social media chat interface. It humorously presents a scenario where a user humorously asks for a refund policy after making another bad investment decision, highlighting the risks involved in unpredictable market situations."
+}

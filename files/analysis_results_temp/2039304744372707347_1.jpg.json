@@ -1,0 +1,34 @@
+{
+  "layout": {
+    "panels": [
+      {
+        "text": "HERE'S YOUR TAX BILL FOR 2025.",
+        "character": "left",
+        "context": "character holding a tax bill"
+      },
+      {
+        "text": "APRIL FOOLS!",
+        "character": "top left",
+        "context": "character revealing a joke"
+      },
+      {
+        "text": "YEAH IT'S MUCH MUCH HIGHER THAN THAT.",
+        "character": "right",
+        "context": "character delivering punchline"
+      }
+    ],
+    "background": "gray with black border"
+  },
+  "character_position": {
+    "left_character": "dominant in first two panels, about 40% of panel space",
+    "right_character": "right side, about 30% of panel space",
+    "center": "interactions occur"
+  },
+  "text_style": {
+    "font": "bold comic-style",
+    "color": "black",
+    "text_box": "speech bubble, pointing towards speaker"
+  },
+  "content_structure": "reaction-format with a humorous twist",
+  "description": "A comic featuring two characters where one delivers a fake tax bill as a prank, followed by a humorous revelation."
+}

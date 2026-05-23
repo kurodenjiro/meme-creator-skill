@@ -1,0 +1,49 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "CRYPTO NET WORTH",
+        "position": "top",
+        "style": "bold, uppercase"
+      },
+      {
+        "content": "TOOK SCREENSHOT",
+        "position": "above the graph, near the peak",
+        "style": "handwritten"
+      }
+    ],
+    "character": {
+      "position": "bottom right",
+      "size_percentage": 15
+    },
+    "background_elements": [
+      {
+        "type": "line graph",
+        "colors": "green and red",
+        "position": "center, spanning diagonally from bottom left to top right"
+      }
+    ]
+  },
+  "character_position": {
+    "primary_character": {
+      "position": "bottom right",
+      "size_percentage": 15
+    }
+  },
+  "text_style": {
+    "font": "bold, uppercase for title; handwritten for annotations",
+    "colors": "black",
+    "positions": [
+      "top center for title",
+      "near graph peak for annotations"
+    ]
+  },
+  "content_structure": {
+    "type": "reaction",
+    "elements": [
+      "graph representing value change",
+      "character reacting to drop"
+    ]
+  },
+  "description": "A meme illustrating the volatile nature of crypto investments with a graph showing a steep incline followed by a sharp drop, annotated with 'TOOK SCREENSHOT' at the peak, and a character reacting to the decline."
+}

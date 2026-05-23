@@ -1,0 +1,36 @@
+{
+  "layout": {
+    "background": "trắng",
+    "text_elements": {
+      "top_text": {
+        "content": "CLOSED FOR MAINTENANCE",
+        "position": "trên cùng",
+        "background_color": "vàng"
+      },
+      "bottom_text": {
+        "content": "COPY LINK",
+        "position": "dưới biểu tượng"
+      }
+    },
+    "symbol": {
+      "type": "liên kết",
+      "position": "trung tâm",
+      "size_ratio": "lớn"
+    }
+  },
+  "character_position": {
+    "location": "góc dưới bên phải",
+    "size": "khoảng 10% khung hình",
+    "appearance": "nhân vật nhỏ đeo mũ bảo hộ"
+  },
+  "text_style": {
+    "font_guess": "không đều, kiểu vẽ tay",
+    "text_color": "đen",
+    "highlight_color": "vàng (ở trên cùng)"
+  },
+  "content_structure": {
+    "format": "situation reaction (phản ứng với tình huống bảo trì)",
+    "theme": "hài hước"
+  },
+  "description": "Hình ảnh mô tả một biểu tượng liên kết với dòng chữ 'CLOSED FOR MAINTENANCE' ở trên, và một nhân vật nhỏ đứng bên phải với mũ bảo hộ, tạo cảm giác trang web đang tạm ngưng hoạt động."
+}

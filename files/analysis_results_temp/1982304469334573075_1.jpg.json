@@ -1,0 +1,11 @@
+{
+  "layout": "The image is a comic-style meme with three main characters distributed across the frame. Text bubbles are used for dialogue, positioned above the respective characters who are speaking.",
+  "character_position": "The central character occupies about 30% of the image, standing on the left. Another character, dressed as a wizard, is on the right, also occupying about 30%, while a third character, a construction worker, is in the background on the left.",
+  "text_style": {
+    "font": "Bold, handwritten style font, possibly Comic Sans-like",
+    "color": "Black text with white background in speech bubbles",
+    "position": "Text bubbles are positioned above the characters' heads, stemming from their mouths."
+  },
+  "content_structure": "The meme follows a conversation format, where a question is asked, and a humorous or satirical response is given.",
+  "description": "The meme humorously depicts a workplace or tech industry scenario where a character seeks permission for a social media action, but receives a corporate-style response demanding a different task."
+}

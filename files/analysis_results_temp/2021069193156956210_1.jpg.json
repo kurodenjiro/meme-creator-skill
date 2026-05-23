@@ -1,0 +1,56 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_boxes": [
+      {
+        "position": "top left",
+        "content": "HOW DO YOU BUY EVERY LOCAL TOP?"
+      },
+      {
+        "position": "top right",
+        "content": "JUST TRYING TO BE LIKE THAT GUY"
+      },
+      {
+        "position": "bottom center",
+        "content": "SAYLORS AVERAGE BUY"
+      }
+    ],
+    "elements": [
+      {
+        "type": "characters",
+        "positions": [
+          "top center",
+          "bottom center"
+        ]
+      },
+      {
+        "type": "graph",
+        "positions": [
+          "background"
+        ]
+      }
+    ]
+  },
+  "character_position": {
+    "main_character": {
+      "position": "top center, bottom center",
+      "size_percentage": "small"
+    },
+    "additional_character": {
+      "position": "top left, bottom center",
+      "size_percentage": "small"
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn style",
+    "color": "black",
+    "box_color": "white",
+    "outline": "black",
+    "position": "near characters"
+  },
+  "content_structure": {
+    "format": "comparison",
+    "message": "Buying strategies and comparisons between characters."
+  },
+  "description": "The meme is a two-panel comic showing a graph with characters discussing buying at market peaks, featuring conversational bubbles and a comparison line demonstrating different buying strategies."
+}

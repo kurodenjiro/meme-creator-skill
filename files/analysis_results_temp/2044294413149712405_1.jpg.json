@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two sections. The top section shows a pie chart with a character on the left and another character on the right. Speech bubbles are used for dialogue. The bottom section features a larger character with a text box to the right.",
+  "character_position": "In the top section, the characters are positioned on either side of the pie chart, approximately occupying 20-30% of the section each. The bottom section character is large, taking up about 40% of the image width.",
+  "text_style": {
+    "font": "Hand-drawn, bold",
+    "color": "Black",
+    "position": "Text appears within speech bubbles in the top section and in a block format in the bottom section."
+  },
+  "content_structure": "The meme conveys a humorous message using a reaction format with comic-style characters and a punchline delivered in the bottom section.",
+  "description": "A pie chart labeled 'Doesn't Pay Tax' with a small slice labeled 'Pays Tax'. Two characters discuss tax responsibilities in the top section. The bottom section features a larger character delivering a punchline about manipulating tax conditions."
+}

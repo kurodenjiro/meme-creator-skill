@@ -1,0 +1,11 @@
+{
+  "layout": "Bức tranh được chia thành hai panel ngang. Panel trên cùng có một nhân vật phía bên trái và một bối cảnh phía bên phải. Panel dưới cùng chiếm toàn bộ chiều rộng với hoạt động chính từ nhân vật.",
+  "character_position": "Nhân vật nằm ở góc trái của panel trên cùng, chiếm khoảng 30% diện tích toàn bức tranh cho panel đó.",
+  "text_style": {
+    "font": "Phong cách chữ có thể dự đoán là dạng handwritten, đơn giản.",
+    "color": "Màu chữ chủ yếu là đen, riêng từ 'WHACK!' có màu xanh lam.",
+    "placement": "Chữ được đặt ở gần nhân vật và khu vực hành động để tạo điểm nhấn: 'MEGA ETH' bên cạnh nhân vật, 'ENTIRE MARKET IMPLODING' ở bối cảnh, 'WHACK!' cạnh hành động và 'DELAY TOKEN' trên vật bị đập."
+  },
+  "content_structure": "Meme này sử dụng cấu trúc so sánh/hành động. Nhân vật nhân cách hóa một thực thể lớn mạnh đang 'đập' một vấn đề cụ thể trong thị trường.",
+  "description": "Meme thể hiện một nhân vật có tính biểu tượng (giả tưởng) đang xử lý một tình huống thị trường căng thẳng với giải pháp nhanh chóng, chèn tiếng động vui nhộn để thêm phần hài hước."
+}

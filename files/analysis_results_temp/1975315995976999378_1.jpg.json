@@ -1,0 +1,65 @@
+{
+  "layout": {
+    "sections": [
+      {
+        "label": "PERCEPTION",
+        "graph": {
+          "trend_line": "orange_wave",
+          "character": "bitcoin_running",
+          "position": "top_right"
+        },
+        "base_line": "straight_green",
+        "characters": [
+          "bitcoin_right_top",
+          "dollar_left_bottom"
+        ]
+      },
+      {
+        "label": "REALITY",
+        "graph": {
+          "trend_line": "straight_orange",
+          "character": "dollar_falling",
+          "position": "bottom_right"
+        },
+        "base_line": "green_wave",
+        "characters": [
+          "bitcoin_right_middle",
+          "dollar_bottom_right"
+        ]
+      }
+    ]
+  },
+  "character_position": {
+    "bitcoin": {
+      "perception": {
+        "location": "top_right",
+        "size_percent": 15
+      },
+      "reality": {
+        "location": "middle_right",
+        "size_percent": 15
+      }
+    },
+    "dollar": {
+      "perception": {
+        "location": "left_bottom",
+        "size_percent": 10
+      },
+      "reality": {
+        "location": "bottom_right",
+        "size_percent": 15
+      }
+    }
+  },
+  "text_style": {
+    "font": "bold_handwritten",
+    "color": "black",
+    "size": "large",
+    "position": {
+      "perception": "top_left",
+      "reality": "mid_left"
+    }
+  },
+  "content_structure": "comparison",
+  "description": "This meme contrasts the perception versus reality of cryptocurrency, with Bitcoin portrayed as skyrocketing in perception while the dollar remains steady, and the opposite in reality."
+}

@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh được chia làm ba phần: hai phần trên là hai khung hình nhỏ đặt ngang hàng, chiếm phần lớn diện tích. Phần dưới là một khung hình lớn hơn chứa một phần hội thoại. Khung hình bên trái trên cùng có một nhân vật và một bộ đếm, bên phải có một robot và một bộ đếm khác kèm chữ 'LIVE'.",
+  "character_position": "Nhân vật trong khung hình bên trái chiếm khoảng 30-40% diện tích khung. Nhân vật robot trong khung hình bên phải cũng chiếm tương tự. Hai nhân vật ở phần dưới cùng chiếm khoảng 20-30% chiều cao của phần khung đó.",
+  "text_style": "Chữ trên các bộ đếm có phông chữ đơn giản, dày, màu trắng nền đen. Chữ 'LIVE' màu đỏ. Phần text hội thoại có phông chữ đậm, màu đen viết tay, đặt trong khung màu trắng.",
+  "content_structure": "Meme này sử dụng format so sánh và hài hước để truyền tải thông điệp về công việc và tự động hoá.",
+  "description": "Meme truyền tải ý tưởng hài hước về việc một công việc đơn giản lẽ ra nên được tự động hóa. Sự so sánh giữa con người và robot, cùng với tình huống làm tăng yếu tố hài hước. Bộ đếm và chữ 'LIVE' nhấn mạnh sự chuyển đổi và đối lập giữa sự hiện đại hóa và cách làm cũ."
+}

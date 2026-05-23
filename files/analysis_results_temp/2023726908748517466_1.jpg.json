@@ -1,0 +1,12 @@
+{
+  "layout": "Two-panel comic. The first panel shows the character's face close-up on the left with a speech bubble on the right. The second panel shows the character on the right with a box and hand on the left.",
+  "character_position": "In both panels, the character occupies the left side in the first and the right side in the second. The character roughly occupies about 30-40% of each panel.",
+  "text_style": {
+    "font": "Comic-like sans serif",
+    "style": "Bold",
+    "color": "Black text on white speech bubble with black outline",
+    "position": "First panel: Top right inside a speech bubble. Second panel: Text on box and price tag."
+  },
+  "content_structure": "Reaction format, where the character responds to a situation with a humorous refusal.",
+  "description": "The meme shows a guard character refusing to sell something valued at $500,000 in the first panel, despite being offered $10,000 in the second panel."
+}

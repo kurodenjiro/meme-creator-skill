@@ -1,0 +1,28 @@
+{
+  "layout": {
+    "background": "Graph chart with red and green bars on a gray background.",
+    "text_bubbles": "Two speech bubbles, one on each character.",
+    "characters": "Two cartoon characters on either side of the graph."
+  },
+  "character_position": {
+    "left_character": {
+      "position": "Bottom left",
+      "size_percentage": "Approximately 20%"
+    },
+    "right_character": {
+      "position": "Bottom right",
+      "size_percentage": "Approximately 20%"
+    }
+  },
+  "text_style": {
+    "font_guess": "Bold, hand-drawn style",
+    "bubble_color": "White with black border",
+    "text_color": "Black",
+    "left_text": "Top left",
+    "right_text": "Top right"
+  },
+  "content_structure": {
+    "format": "Conversation between two characters with a visual representation in the middle (graph), illustrating a comparison between crypto coins."
+  },
+  "description": "The meme features two cartoon characters commenting on a graph that represents a declining trend in crypto coins."
+}

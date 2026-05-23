@@ -1,0 +1,39 @@
+{
+  "layout": {
+    "panels": [
+      {
+        "text_position": "left speech bubble",
+        "characters": "wizard on left, president on right with a 'WAR!' sign"
+      },
+      {
+        "text_position": "left speech bubble",
+        "characters": "wizard on left, close-up of president on right"
+      },
+      {
+        "characters": "wizard on left, president on right with 'NO MORE WAR' sign"
+      }
+    ]
+  },
+  "character_position": {
+    "wizard": {
+      "panel_1": "left side, approximately 25%",
+      "panel_2": "left side, approximately 50%",
+      "panel_3": "left side, approximately 30%"
+    },
+    "president": {
+      "panel_1": "right side, approximately 25%",
+      "panel_2": "right side close-up",
+      "panel_3": "right side, approximately 40%"
+    }
+  },
+  "text_style": {
+    "font_type": "bold, cartoony",
+    "color": "black on white speech bubble",
+    "size": "medium",
+    "positions": [
+      "left in speech bubbles, top right on sign"
+    ]
+  },
+  "content_structure": "reaction",
+  "description": "A three-panel comic where a wizard informs the president of a stock market drop, leading to a change of stance from pro-war to anti-war."
+}

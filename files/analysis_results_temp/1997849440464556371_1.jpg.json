@@ -1,0 +1,26 @@
+{
+  "layout": {
+    "panels": 2,
+    "content_arrangement": "horizontal",
+    "panel_border": "black lines",
+    "background": "grey with white overlays"
+  },
+  "character_position": {
+    "character_location": "right side of each panel",
+    "character_size_percentage": "about 30% of each panel"
+  },
+  "text_style": {
+    "font_guess": "comic-style, bold",
+    "text_color": "white",
+    "text_position": "on objects (green and blue items)",
+    "text_content": [
+      "Kalshi",
+      "patterned blue shape"
+    ]
+  },
+  "content_structure": {
+    "meme_format": "reaction and comparison",
+    "sequence": "action followed by unexpected result"
+  },
+  "description": "The meme consists of two panels. In the first panel, a dog character with a neutral expression interacts with a green object labeled 'Kalshi'. In the second panel, the character appears surprised as the object changes to a patterned blue shape. The layout is centered on the character's changing reaction."
+}

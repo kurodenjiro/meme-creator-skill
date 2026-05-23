@@ -1,0 +1,43 @@
+{
+  "layout": {
+    "text_components": [
+      {
+        "text_position": "top_right",
+        "text_area": "speech_bubble"
+      }
+    ],
+    "characters": [
+      {
+        "character_position": "left",
+        "description": "Wizard-like character with hat",
+        "size_percentage": "medium"
+      },
+      {
+        "character_position": "center",
+        "description": "Small animal with open mouth",
+        "size_percentage": "small"
+      },
+      {
+        "character_position": "right",
+        "description": "Smiling human character with glasses",
+        "size_percentage": "medium"
+      }
+    ],
+    "background": "simple gray"
+  },
+  "character_position": {
+    "left_character": "20%",
+    "center_character": "15%",
+    "right_character": "25%"
+  },
+  "text_style": {
+    "font": "bold hand-written style",
+    "color": "black",
+    "position": "top_right within speech bubble"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "theme": "confusion and humor"
+  },
+  "description": "The meme features a conversation between three characters: a wizard-like figure, a small animal, and a smiling human, with dialogue about unfamiliarity with a cat and a playful mention of 'hyperliquid.'"
+}

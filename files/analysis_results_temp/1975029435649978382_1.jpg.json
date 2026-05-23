@@ -1,0 +1,30 @@
+{
+  "layout": {
+    "text_box": {
+      "position": "top left",
+      "size": "small"
+    },
+    "character": {
+      "position": "right center",
+      "size": "large"
+    },
+    "background": "simple gradient"
+  },
+  "character_position": {
+    "main_character_position": "right center",
+    "main_character_size_percentage": 50,
+    "secondary_character_position": "near left hand",
+    "secondary_character_size_percentage": 10
+  },
+  "text_style": {
+    "font": "bold, sans-serif",
+    "color": "black",
+    "border": "white",
+    "position": "top left in speech bubble"
+  },
+  "content_structure": {
+    "format": "reaction meme",
+    "message_type": "warning or instruction"
+  },
+  "description": "A meme featuring a large cartoon character on the right holding a small angry character between fingers on the left, with text in a speech bubble conveying a humorous or ironic warning."
+}

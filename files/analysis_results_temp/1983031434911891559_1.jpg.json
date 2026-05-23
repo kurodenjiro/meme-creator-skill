@@ -1,0 +1,38 @@
+{
+  "layout": {
+    "panels": 2,
+    "top_panel": {
+      "year": "2024",
+      "characters": 4,
+      "position": "around a table",
+      "text_position": "above characters"
+    },
+    "bottom_panel": {
+      "year": "2026",
+      "characters": 3,
+      "position": "around a table",
+      "text_position": "above characters"
+    }
+  },
+  "character_position": {
+    "top_panel": {
+      "size_percentage": "approximately 50% of panel height",
+      "distribution": "evenly around table"
+    },
+    "bottom_panel": {
+      "size_percentage": "approximately 50% of panel height",
+      "distribution": "evenly around table"
+    }
+  },
+  "text_style": {
+    "font": "bold, uppercase",
+    "color": "black",
+    "background": "white speech bubble",
+    "position": "top of each panel"
+  },
+  "content_structure": {
+    "format": "contrast over time",
+    "message_type": "humorous prediction"
+  },
+  "description": "A two-panel comic with a humorous prediction theme, where different character groups discuss waiting for something to return over two different years."
+}

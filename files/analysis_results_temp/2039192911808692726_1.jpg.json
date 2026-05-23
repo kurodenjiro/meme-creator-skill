@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two panels. The top panel shows a purple character and a smart speaker on a table. The bottom panel focuses on the same character from a closer angle.",
+  "character_position": "In the top panel, the character is on the left side and occupies about 40% of the space. In the bottom panel, the character is central and occupies about 60% of the space.",
+  "text_style": {
+    "font": "Casual handwritten style, bold",
+    "color": "Black",
+    "position": "The top panel has text inside speech and thought bubbles above the speaker. The bottom panel has text in speech bubbles on the left and right."
+  },
+  "content_structure": "The meme follows a conversational format between the character and the smart speaker, progressing from an initial inquiry to a more complex demand, highlighting the irony.",
+  "description": "The meme depicts a humorous interaction where the character asks the smart speaker for progressively more complicated tasks, ending with an exaggerated and humorous demand."
+}

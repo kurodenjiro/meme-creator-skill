@@ -1,0 +1,23 @@
+{
+  "layout": {
+    "elements": {
+      "bed": "center, lower half",
+      "characters": "on nightstands, each side of the bed",
+      "painting": "above the bed, center",
+      "speech bubble": "above right character"
+    }
+  },
+  "character_position": {
+    "location": "on nightstands",
+    "size_percentage": "approximately 15% each"
+  },
+  "text_style": {
+    "font_guess": "bold, comic-like",
+    "color": "black",
+    "placement": "inside speech bubble, top right"
+  },
+  "content_structure": {
+    "format": "reaction"
+  },
+  "description": "A bedroom scene with two characters standing on nightstands beside a bed. One character has a lampshade with light, saying 'I've got an idea'."
+}

@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh được chia thành hai phần chính (hai ô tranh). Ô trên chứa nhân vật và chiếc xe, trong khi ô dưới là một hình ảnh minh họa của một đoạn đường với các chỉ số màu sắc.",
+  "character_position": "Nhân vật nằm ở phía bên trái của ô trên, chiếm khoảng 20% diện tích ô. Chiếc xe nằm ở phía bên phải, chiếm khoảng 30% diện tích ô trên.",
+  "text_style": "Văn bản nằm trong một hộp thoại phía trên bên trái ô trên. Chữ in đậm, màu đen trên nền trắng. Font chữ có vẻ là kiểu sans-serif, đơn giản và dễ đọc.",
+  "content_structure": "Meme truyền tải thông điệp theo format kiểu hoạt hình vui nhộn, chứa yếu tố phản ứng (reaction) của nhân vật với hành động trong bức hình.",
+  "description": "Bức ảnh là một meme có hai phần. Phần trên hiển thị một nhân vật hoạt hình đang khen ngợi người lái xe vì một cú drift. Phần dưới hiển thị một biểu đồ hoặc đồ thị với các màu sắc tượng trưng cho sự thành công của cú drift đó."
+}

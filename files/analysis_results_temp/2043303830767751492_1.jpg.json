@@ -1,0 +1,28 @@
+{
+  "layout": {
+    "elements": [
+      {
+        "type": "character",
+        "description": "A blue folder in the center of the image."
+      },
+      {
+        "type": "text",
+        "description": "Text is positioned below the folder."
+      }
+    ]
+  },
+  "character_position": {
+    "location": "center",
+    "percentage": "approximately 40%"
+  },
+  "text_style": {
+    "font": "bold, rounded",
+    "color": "black",
+    "position": "below the visual",
+    "content": "PEOPLE WHO DIDN'T PUT ME ON THEIR CT TIER LIST"
+  },
+  "content_structure": {
+    "format": "reaction"
+  },
+  "description": "The meme features a blue folder in the center, representing a list of people who didn't include the creator in a CT tier list. The text below the folder conveys a humorous reaction."
+}

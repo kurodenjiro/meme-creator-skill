@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "GOD CANDLE",
+        "position": "top-center"
+      },
+      {
+        "content": "LOADING...",
+        "position": "center-below-god-candle"
+      }
+    ],
+    "graphic_element": {
+      "type": "progress bar",
+      "position": "bottom-center"
+    },
+    "signature": {
+      "content": "@Boldleonidas",
+      "position": "bottom-right"
+    }
+  },
+  "character_position": {
+    "graphic_representation": "progress bar",
+    "relative_size": "approx. 40% of the image width"
+  },
+  "text_style": {
+    "font": "handwritten-style",
+    "color": "black",
+    "capitalization": "uppercase for 'GOD CANDLE', normal case for 'LOADING...'",
+    "positioning": "centered, with slight spacing between elements"
+  },
+  "content_structure": {
+    "format": "loading joke",
+    "theme": "progress bar resembling a divine or religious theme"
+  },
+  "description": "The image is a light-hearted meme with a humorous take on a 'god candle' loading, combining a spiritual or mythical concept with a common technology interface element."
+}

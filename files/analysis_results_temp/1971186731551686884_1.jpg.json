@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text_position": "centered on the sign",
+    "character_position": "center of the image",
+    "background": "plain white"
+  },
+  "character_position": {
+    "general_location": "center",
+    "relative_size": "approximately 60% of the image"
+  },
+  "text_style": {
+    "font_guess": "handwritten style",
+    "color": "black",
+    "position": "on the sign held by the character"
+  },
+  "content_structure": {
+    "format": "motivational wordplay"
+  },
+  "description": "The image features a cartoon owl wearing an orange cap, holding a sign with a motivational phrase written in black, handwritten-style font. The character is positioned centrally on a plain white background."
+}

@@ -1,0 +1,32 @@
+{
+  "layout": {
+    "text_elements": {
+      "text1": {
+        "content": "WINTER NUKE",
+        "position": "center",
+        "margin_bottom": "middle"
+      }
+    },
+    "character": {
+      "position": "bottom",
+      "character_size_percentage": 10
+    },
+    "background_elements": {
+      "symbol": {
+        "position": "top_middle",
+        "visual_details": "green geometric shape with a flame above"
+      }
+    }
+  },
+  "character_position": {
+    "location": "bottom-center",
+    "size_percentage": 10
+  },
+  "text_style": {
+    "font_type": "bold sans-serif",
+    "color": "white",
+    "position": "below symbol, above character"
+  },
+  "content_structure": "reaction",
+  "description": "The meme shows a small character at the bottom looking up at a large, geometric, green symbol with a flame, labeled 'WINTER NUKE'. It appears to be a reaction format meme, focusing on anticipation or surprise."
+}

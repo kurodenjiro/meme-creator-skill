@@ -1,0 +1,24 @@
+{
+  "layout": {
+    "background": "Gray with large white numbers (589) in the center.",
+    "characters": "Two cartoon characters in the bottom foreground.",
+    "text_bubbles": "Speech bubbles above characters with dialogue."
+  },
+  "character_position": {
+    "character1": {
+      "location": "Bottom left corner",
+      "size_percentage": "Approximately 20%"
+    },
+    "character2": {
+      "location": "Bottom right corner",
+      "size_percentage": "Approximately 20%"
+    }
+  },
+  "text_style": {
+    "font": "Bold, handwritten style",
+    "color": "Black",
+    "placement": "Inside speech bubbles above characters"
+  },
+  "content_structure": "Reaction format where one character explains a concept, and the other pretends to understand.",
+  "description": "A purple character with a 'PRO' cap comments on a confusing test, while a frog-like character pretends to understand. The background has numbers resembling an optical illusion or test."
+}

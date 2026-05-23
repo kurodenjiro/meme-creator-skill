@@ -1,0 +1,11 @@
+{
+  "layout": "Text at the top, icons crammed in columns left and right, zigzag line through the center and background.",
+  "character_position": "Icons are placed in columns on both sides taking about 50% total space collectively. The left side has red 'S' icons, the right side has green 'B' icons.",
+  "text_style": {
+    "font": "Bold, handwritten style (exact font undetermined).",
+    "color": "Black",
+    "placement": "Top center"
+  },
+  "content_structure": "Comparison",
+  "description": "The meme uses a comparison structure, showing a divided red and green area labeled with different icons ('S' in red, 'B' in green) above a zigzag line, suggesting a market activity representation."
+}

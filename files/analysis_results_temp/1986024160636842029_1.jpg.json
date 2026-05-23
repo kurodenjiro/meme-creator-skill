@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "top_panel": {
+      "characters": "Four characters on a wall",
+      "text": "Speech bubble on the left",
+      "background": "Gray wall with scattered arrows"
+    },
+    "bottom_panel": {
+      "elements": "Large '100k' text and a Bitcoin symbol on a red carpet",
+      "background": "Gray ground and wall with scattered arrows"
+    }
+  },
+  "character_position": {
+    "top_panel": {
+      "locations": "Atop the wall, spread evenly across",
+      "size_percentage": "Approximately 20% of the panel height each"
+    },
+    "bottom_panel": {
+      "locations": "Right side",
+      "size_percentage": "Coin character takes about 10% of the panel width"
+    }
+  },
+  "text_style": {
+    "font": "Bold, comic-like",
+    "colors": "Black and white for speech, black for '100k'",
+    "positions": "Top left (speech bubble) and center left (100k)"
+  },
+  "content_structure": {
+    "format": "Comparative analogy",
+    "elements": "Top panel as defenders, bottom panel as the outcome"
+  },
+  "description": "The meme depicts four characters on a wall shouting 'DEFEND THE WALL!', illustrating a scene of urgency and defense. Below, there's a depiction of a Bitcoin currency reaching a goal line marked '100k', humorously showing the Bitcoin's success juxtaposed with the defenders' seriousness."
+}

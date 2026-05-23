@@ -1,0 +1,45 @@
+{
+  "layout": {
+    "elements": [
+      {
+        "type": "character",
+        "position": "left foreground",
+        "size_percentage": 50
+      },
+      {
+        "type": "Eiffel Tower",
+        "position": "center background",
+        "size_percentage": 30
+      },
+      {
+        "type": "burning structure",
+        "position": "right background",
+        "size_percentage": 20
+      },
+      {
+        "type": "sign",
+        "position": "right",
+        "size_percentage": 10
+      },
+      {
+        "type": "text",
+        "position": "right",
+        "size_percentage": 5
+      }
+    ]
+  },
+  "character_position": {
+    "main_character": "left foreground",
+    "other_characters": "bottom right",
+    "size_main_character": 50
+  },
+  "text_style": {
+    "font": "bold, comic style",
+    "color": "black",
+    "background_color": "white",
+    "position": "on a sign held by character",
+    "content": "80 BILLION DOLLARS"
+  },
+  "content_structure": "reaction",
+  "description": "A character in the foreground takes a selfie with a burning Eiffel Tower-like structure in the background, accompanied by a humorous text on a sign."
+}

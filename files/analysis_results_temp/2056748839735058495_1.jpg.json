@@ -1,0 +1,12 @@
+{
+  "layout": "Bức ảnh có bố cục chia làm hai phần chính: bìa thông báo ở bên trái và một nhân vật hoạt hình ở bên phải. Phần thông báo chiếm gần một nửa diện tích bức ảnh. Nhân vật bên phải nhìn về phía thông báo.",
+  "character_position": "Nhân vật nằm ở bên phải, chiếm khoảng 40% khung hình. Nhân vật được vẽ từ nửa người trở lên và đang cầm điện thoại.",
+  "text_style": {
+    "font": "Phông chữ thủ công kiểu chữ in hoa",
+    "style": "Nét chữ dày, đậm",
+    "color": "Màu đen cho nội dung hội thoại, màu đỏ cho từ 'WANTED'",
+    "position": "Có khung hội thoại trên đầu nhân vật chứa đoạn hội thoại"
+  },
+  "content_structure": "Meme sử dụng cấu trúc conversation với một nhân vật đang bình luận về một tình huống ngớ ngẩn hoặc hài hước. Đoạn hội thoại làm nổi bật phản ứng của nhân vật đối với thông báo trên cột.",
+  "description": "Meme xoay quanh thông điệp vui nhộn về việc nhân vật hỏi người khác về vấn đề buồn cười đã tái diễn dẫn đến việc bị dán thông báo 'WANTED'."
+}

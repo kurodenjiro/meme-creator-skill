@@ -1,0 +1,62 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_boxes": [
+      {
+        "panel": 1,
+        "position": "top_left",
+        "shape": "speech_bubble",
+        "orientation": "horizontal"
+      },
+      {
+        "panel": 2,
+        "position": "left",
+        "shape": "speech_bubble",
+        "orientation": "vertical"
+      }
+    ],
+    "characters": [
+      {
+        "panel": 1,
+        "position": "center_right",
+        "size_percentage": 30
+      },
+      {
+        "panel": 2,
+        "position": "center_left",
+        "size_percentage": 50
+      }
+    ]
+  },
+  "character_position": {
+    "panel_1": "Right of center, takes up about 30%",
+    "panel_2": "Left of center, takes up about 50%"
+  },
+  "text_style": {
+    "font": "handwritten",
+    "color": "black",
+    "placement": [
+      {
+        "panel": 1,
+        "inside_speech_bubble": true,
+        "top_left": true
+      },
+      {
+        "panel": 2,
+        "inside_speech_bubble": true,
+        "left": true
+      },
+      {
+        "panel": 2,
+        "on_screen": true,
+        "right": true
+      }
+    ]
+  },
+  "content_structure": {
+    "format": "Reaction",
+    "theme": "Conversation, Cryptocurrency",
+    "structure": "Setup and punchline across two panels"
+  },
+  "description": "A two-panel comic meme with characters discussing in a humorous conversation about cryptocurrency. The first panel sets up the casual tone with a friendly greeting, while the second panel humorously lists cryptocurrency-related terms, indicating overuse or obsession."
+}

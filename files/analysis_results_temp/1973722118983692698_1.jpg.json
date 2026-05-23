@@ -1,0 +1,11 @@
+{
+  "layout": "The image features two characters standing side by side, each with a speech bubble above their head. The background is a simple gray with subtle shading.",
+  "character_position": "The characters occupy the lower half of the image. Each character fills about 25% of the width of the image.",
+  "text_style": {
+    "font": "Handwritten, bold",
+    "color": "Black",
+    "position": "Text is placed inside speech bubbles above each character's head. The left speech bubble is above the left character, and the right is above the right character."
+  },
+  "content_structure": "This meme uses a conversation format. The left character expresses confusion, while the right character responds with advice in a humorous and ironic manner.",
+  "description": "This comic-style meme features two cartoon characters discussing the concept of Zcash. The left character admits ignorance, while the right provides humorous advice."
+}

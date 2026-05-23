@@ -1,0 +1,34 @@
+{
+  "layout": {
+    "elements": [
+      "Two characters",
+      "Tombstone with text",
+      "Blue sky with clouds background",
+      "Green ground"
+    ],
+    "positioning": "The two characters are positioned on either side of the tombstone at the center of the image."
+  },
+  "character_position": {
+    "left_character": "Approximately 20% of the width, wearing a hat and suit",
+    "right_character": "Approximately 20% of the width, green with closed eyes and smile",
+    "overall_positioning": "Both characters occupy the bottom third of the image."
+  },
+  "text_style": {
+    "font_guess": "Bold, sans-serif for the tombstone",
+    "text_elements": [
+      "REST IN SLOP",
+      "SORA",
+      "2025-2026",
+      "\"SORA NO MORA\""
+    ],
+    "text_color": "Black on a gray tombstone",
+    "position": "Centered on the tombstone"
+  },
+  "content_structure": {
+    "type": "Reaction",
+    "message": "The tombstone humorously commemorates 'Sora' with exaggerated character expressions suggesting a light-hearted farewell."
+  },
+  "description": {
+    "summary": "A comedic meme with two cartoon characters celebrating in front of a tombstone for 'Sora'. The image looks light-hearted due to the characters' expressions and the stylized artwork."
+  }
+}

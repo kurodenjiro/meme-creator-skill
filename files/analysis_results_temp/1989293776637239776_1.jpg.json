@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two main vertical sections. On the left, a character is digging toward a direction sign that reads 'Fan Points This Way'. On the right, two characters are standing on a pile of crystals, with a speech bubble above them.",
+  "character_position": "The left character occupies about 25% of the image horizontally and is positioned in the bottom left corner. The two characters on the right occupy about 30% of the image height and are positioned on the top right.",
+  "text_style": {
+    "font": "Cartoon-style, bold",
+    "color": "Black",
+    "position": "Speech bubble text is top-right and the sign text is in the center-left."
+  },
+  "content_structure": "The meme uses a comparison format, contrasting effort on the left with the conversation on the right.",
+  "description": "A character on the left digs toward 'Fan Points', while on the right, two characters discuss the lack of profitability."
+}

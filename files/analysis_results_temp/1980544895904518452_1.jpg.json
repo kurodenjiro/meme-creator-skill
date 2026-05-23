@@ -1,0 +1,52 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "WHITE PAPER",
+        "location": "center-left"
+      },
+      {
+        "content": "FIREPROOF BOX",
+        "location": "right"
+      }
+    ],
+    "character_elements": [
+      {
+        "appearance": "wizard",
+        "location": "left",
+        "size": "medium"
+      },
+      {
+        "appearance": "animal",
+        "location": "left",
+        "size": "medium"
+      }
+    ],
+    "background_elements": [
+      {
+        "appearance": "gradient and box",
+        "location": "center-right"
+      }
+    ]
+  },
+  "character_position": {
+    "wizard": {
+      "location": "left",
+      "percentage": 20
+    },
+    "animal": {
+      "location": "left",
+      "percentage": 20
+    }
+  },
+  "text_style": {
+    "font_guess": "bold, sans-serif",
+    "color": "black",
+    "text_position": {
+      "WHITE PAPER": "center-left on white paper",
+      "FIREPROOF BOX": "on the box, right side"
+    }
+  },
+  "content_structure": "reaction",
+  "description": "The image features a wizard and an animal character reading a 'WHITE PAPER' with surprise as they face a 'FIREPROOF BOX' that's on fire."
+}

@@ -1,0 +1,58 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "WAIT UNTIL THEY ARE OVER THE BRIDGE AND THEN WE WILL JUMP OUT AND TAKE THEIR MONEY",
+        "position": "top left",
+        "style": "speech bubble"
+      },
+      {
+        "content": "WELCOME TO BNB",
+        "position": "bottom right",
+        "style": "signpost"
+      },
+      {
+        "content": "SOL",
+        "position": "bottom left",
+        "style": "signpost"
+      }
+    ],
+    "background": "outdoor scene with a bridge over a river",
+    "characters": [
+      {
+        "type": "ninja",
+        "position": "top right",
+        "size_percentage": "15%"
+      },
+      {
+        "type": "two creatures",
+        "position": "center on bridge",
+        "size_percentage": "20%"
+      }
+    ]
+  },
+  "character_position": {
+    "main_character": {
+      "position": "top right in a tree",
+      "size_percentage": "15%"
+    },
+    "secondary_characters": {
+      "position": "center on bridge",
+      "size_percentage": "20%"
+    }
+  },
+  "text_style": {
+    "font": "bold, comic-style",
+    "color": "black",
+    "position": "within speech bubble",
+    "other_elements": [
+      {
+        "font": "bold, comic-style",
+        "color": "black",
+        "position": "signposts"
+      }
+    ]
+  },
+  "content_structure": "comic strip with speech and visual punchlines",
+  "description": "The meme features a comic-style layout with characters plotting a heist as others cross a bridge, indicating a humorous scenario with crypto references."
+}

@@ -1,0 +1,51 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_bubbles": [
+      {
+        "position": "top-left",
+        "panel": 1
+      },
+      {
+        "position": "left",
+        "panel": 2
+      }
+    ],
+    "characters": [
+      {
+        "position": "center-left",
+        "panel": 1
+      },
+      {
+        "position": "center-right",
+        "panel": 1
+      },
+      {
+        "position": "center-left",
+        "panel": 2
+      },
+      {
+        "position": "center-right",
+        "panel": 2
+      }
+    ]
+  },
+  "character_position": {
+    "main_character": {
+      "panel_1": "center-left",
+      "size_percentage": 25
+    },
+    "other_character": {
+      "panel_1": "center-right",
+      "size_percentage": 20
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn",
+    "color": "black",
+    "bubble_background": "white",
+    "outline": "black"
+  },
+  "content_structure": "reaction",
+  "description": "The meme features two panels, each with two characters interacting. The text in bold, hand-drawn style is placed in speech bubbles. The main character receives an award for vague posting, humorously acknowledging the predictability of the recipient."
+}

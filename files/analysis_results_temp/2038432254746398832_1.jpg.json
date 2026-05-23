@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two main panels stacked vertically. Each panel contains a character on the left side and text on the right side. The panels are separated by a thick horizontal black line.",
+  "character_position": "The character is positioned towards the left side of each panel, occupying approximately 40% of the width. In the top panel, the character has a neutral expression, while in the bottom panel, the character is animated with a shocked or yelling expression.",
+  "text_style": {
+    "font": "The exact font is not specified, but it is a bold, cartoonish, sans-serif style.",
+    "color": "Black",
+    "position": "In the top panel, the English text 'MEMEPOSTING' is placed on the right. In the bottom panel, the Japanese text is placed similarly on the right."
+  },
+  "content_structure": "The meme uses a reaction format. The top panel sets a mundane scene, while the bottom panel portrays an exaggerated, dramatic reaction.",
+  "description": "This meme contrasts calmness with an intense reaction, using two panels with a character in different emotional states alongside matching text in different languages."
+}

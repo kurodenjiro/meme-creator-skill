@@ -1,0 +1,54 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "2022",
+        "position": "top left"
+      },
+      {
+        "content": "ARE YOU SURE THIS IS THE RIGHT WAY?",
+        "position": "top center"
+      }
+    ],
+    "road_labels": [
+      {
+        "content": "PONZI AVENUE",
+        "position": "middle left",
+        "color": "blue"
+      },
+      {
+        "content": "JANE STREET",
+        "position": "bottom right",
+        "color": "red"
+      }
+    ],
+    "vehicle_position": "upper center"
+  },
+  "character_position": {
+    "location": "inside vehicle, upper left quadrant",
+    "size_percentage": "approximately 15%"
+  },
+  "text_style": {
+    "font": "bold, sans-serif (likely)",
+    "color": "black for speech bubbles, white for road names",
+    "speech_bubble": true,
+    "road_label_styles": [
+      {
+        "PONZI AVENUE": {
+          "font": "sans-serif",
+          "color": "white",
+          "background": "blue"
+        }
+      },
+      {
+        "JANE STREET": {
+          "font": "sans-serif",
+          "color": "white",
+          "background": "red"
+        }
+      }
+    ]
+  },
+  "content_structure": "Reaction; involves a conversation or question about direction in a humorous context related to finance terminology.",
+  "description": "The meme depicts a cartoon scene with two characters in a car labeled '$UST' driving on a road map. They are humorously questioning their direction on 'Ponzi Avenue' leading to 'Jane Street', which portrays a satirical take on financial concepts."
+}

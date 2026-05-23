@@ -1,0 +1,11 @@
+{
+  "layout": "Nhân vật nằm ở trung tâm với bong bóng hội thoại bên trái phía trên đầu, lá cờ Nhật Bản bên phải nhân vật, nền trắng.",
+  "character_position": "Nhân vật nằm chính giữa khung hình, chiếm khoảng 30% diện tích.",
+  "text_style": {
+    "font": "Comic-style font",
+    "color": "Đen",
+    "position": "Trong bong bóng hội thoại ở góc trên bên trái của nhân vật."
+  },
+  "content_structure": "Reaction",
+  "description": "Một nhân vật hoạt hình với biểu cảm vui vẻ cầm cờ Nhật Bản, có câu chào tiếng Nhật trong bong bóng hội thoại, tạo cảm giác thân thiện."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "This meme is composed of two panels. The top panel shows two buttons with labels, along with a hand about to press one. The bottom panel features a character looking stressed, wiping sweat off their face.",
+  "character_position": "In the bottom panel, the character is on the right side, occupying approximately 40% of the space.",
+  "text_style": {
+    "font_guess": "Handwritten, bold",
+    "color": "Black",
+    "position": "On the buttons in the top panel"
+  },
+  "content_structure": "This is a 'choice' or 'dilemma' meme format where the character is facing a tough decision, indicated by the labeled buttons and their stressed expression.",
+  "description": "The meme humorously depicts a character in a stressful decision-making scenario, choosing between two contrasting options labeled on the buttons."
+}

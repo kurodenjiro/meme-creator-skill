@@ -1,0 +1,11 @@
+{
+  "layout": "The image features a group of characters seated at desks with laptops labeled 'DEV'. There's a speech bubble above one central character and another character standing on the right with a speech bubble.",
+  "character_position": "Most characters are seated at desks occupying the majority of the frame. The primary standing character is on the bottom right and takes up around 10% of the image.",
+  "text_style": {
+    "font": "Cartoonish, hand-drawn style",
+    "color": "Black text within white speech bubbles",
+    "position": "Above character's heads, centered around the main characters."
+  },
+  "content_structure": "Conversation: The meme employs a dialogue format that contrasts expectations with reality, indicated by the phrases 'ARE YOU HERE TO BUY COINS?!' and 'NO. I'M HERE TO DEV.'",
+  "description": "A meme illustrating a humorous take on the contrast between buying coins versus development in a setting resembling a developer's workspace."
+}

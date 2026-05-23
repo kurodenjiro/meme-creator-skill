@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "text_components": [
+      {
+        "text": "THE NIKITA BOAR SHOW",
+        "position": "top centered",
+        "style": "bold, hand-drawn",
+        "color": "black"
+      },
+      {
+        "text": "ROASTING DAILY @ 9AM ON X",
+        "position": "bottom centered",
+        "style": "bold, hand-drawn",
+        "color": "black"
+      }
+    ],
+    "character": {
+      "position": "center",
+      "orientation": "front-facing"
+    },
+    "background": "white"
+  },
+  "character_position": {
+    "location": "center",
+    "size_percentage": 60
+  },
+  "text_style": {
+    "font": "bold, hand-drawn",
+    "color": "black",
+    "upper_text_position": "above character",
+    "lower_text_position": "below character"
+  },
+  "content_structure": {
+    "format": "show announcement parody"
+  },
+  "description": "The image is a parody announcement poster for a fictional show called 'The Nikita Boar Show'. It features a cartoon character resembling a boar with a human hairstyle and facial stubble. The text is bold and appears hand-drawn, creating a humorous effect."
+}

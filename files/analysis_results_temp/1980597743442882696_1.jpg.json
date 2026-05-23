@@ -1,0 +1,12 @@
+{
+  "layout": "Bức ảnh có bố cục với nhiều khung ảnh treo trên tường, mỗi khung có hình của cùng một nhân vật với dòng chữ 'EMPLOYEE OF THE MONTH'. Nhân vật chính ngồi trước máy tính ở trung tâm phía dưới, phía trên bàn có biển tên 'Customer Service'.",
+  "character_position": "Nhân vật chính ngồi ở trung tâm dưới cùng của hình ảnh, chiếm khoảng 20% diện tích. Các bức ảnh nhỏ hơn chiếm phần lớn phía trên bức ảnh.",
+  "text_style": {
+    "font": "Không xác định rõ loại phông chữ, kiểu chữ đơn giản, dễ đọc, có thể là sans-serif.",
+    "style": "Chữ in hoa",
+    "color": "Chữ màu đen trên nền nhạt",
+    "position": "Dưới mỗi khung hình và trên bàn."
+  },
+  "content_structure": "Meme truyền tải thông điệp theo kiểu so sánh, nhấn mạnh sự xuất sắc của một cá nhân nào đó trong công việc, với hài hước thông qua việc lặp lại hình ảnh nhân viên xuất sắc của tháng nhiều lần.",
+  "description": "Meme hài hước về một cá nhân xuất sắc luôn được ghi nhận là 'Employee of the Month' với nhiều khung ảnh giống nhau trên tường, điều này nhấn mạnh sự thống trị tuyệt đối trong công việc của nhân vật này."
+}

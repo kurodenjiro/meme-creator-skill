@@ -1,0 +1,39 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "title": "Old X Algorithm",
+      "elements": [
+        "various boats and characters",
+        "text: 'VARIOUS TOPICS' in the center"
+      ]
+    },
+    "panel_2": {
+      "title": "New X Algorithm",
+      "elements": [
+        "large ship with text",
+        "characters pulling the ship"
+      ]
+    }
+  },
+  "character_position": {
+    "panel_1": "Characters in boats spread across the water, occupying around 30% of the panel.",
+    "panel_2": "Characters in smaller boats at the bottom left, occupying about 20% of the panel."
+  },
+  "text_style": {
+    "font": "Bold, sans-serif style",
+    "color": "Black",
+    "position": {
+      "panel_1": "Centered at the top",
+      "panel_2": "Centered on the side of the ship"
+    }
+  },
+  "content_structure": {
+    "format": "Comparison",
+    "themes": [
+      "Old vs New algorithm effect",
+      "Focus shift from variety to specific topic"
+    ]
+  },
+  "description": "A two-panel meme contrasting an old algorithm showing various topics with a new algorithm focusing on a single topic users liked once."
+}

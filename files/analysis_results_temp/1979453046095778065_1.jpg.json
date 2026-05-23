@@ -1,0 +1,12 @@
+{
+  "layout": "Nhân vật nằm ở trung tâm phía bên trái của bức ảnh, với một phần chữ hội thoại phía trên đầu nhân vật.",
+  "character_position": "Nhân vật chiếm khoảng 30% diện tích bức ảnh và nằm ở bên trái.",
+  "text_style": {
+    "font_guess": "Phông tay vẽ",
+    "style": "Chữ viết tay",
+    "color": "Tím",
+    "position": "Nằm trong khung thoại hình chữ nhật phía trên đầu nhân vật."
+  },
+  "content_structure": "Reaction",
+  "description": "Bức ảnh là minh hoạ của một nhân vật với cử chỉ từ chối, thể hiện qua dòng chữ 'NOT SELLING.' trong khung thoại phía trên."
+}

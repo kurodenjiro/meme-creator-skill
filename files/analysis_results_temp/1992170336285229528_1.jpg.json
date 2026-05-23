@@ -1,0 +1,45 @@
+{
+  "layout": {
+    "upper_panel": {
+      "text_position": "top left",
+      "characters_position": "center",
+      "background": "wall"
+    },
+    "lower_panel": {
+      "large_text_position": "left",
+      "small_character_position": "right",
+      "background": "ground with objects"
+    }
+  },
+  "character_position": {
+    "upper_panel": {
+      "characters": "aligned on top of the wall",
+      "size_percentage": "about 30% of the panel"
+    },
+    "lower_panel": {
+      "small_character": "bottom right corner",
+      "size_percentage": "about 10% of the panel"
+    }
+  },
+  "text_style": {
+    "upper_panel": {
+      "font": "hand-drawn, uppercase",
+      "color": "black",
+      "position": "speech bubble from left character"
+    },
+    "lower_panel": {
+      "font": "hand-drawn, bold",
+      "color": "black",
+      "position": "large on the left wall"
+    }
+  },
+  "content_structure": {
+    "format": "comparison and humor",
+    "elements": [
+      "defense scene",
+      "number implication",
+      "unexpected humor"
+    ]
+  },
+  "description": "The meme features a two-panel comic where characters are defending a wall in the upper panel, showing urgency and seriousness, while the lower panel humorously exaggerates the contrast with a character ignoring the situation. The bottom part features a large '100k' in bold, highlighting an ironic threat."
+}

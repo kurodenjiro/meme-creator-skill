@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "text_bubbles": "Text is placed in speech bubbles pointing from the characters.",
+    "panels": "The meme is divided into four horizontal panels.",
+    "characters": "Two main characters are positioned on the left and right, with a small robot appearing on the left."
+  },
+  "character_position": {
+    "left_character": "Approximately 30% of the panel width.",
+    "right_character": "Approximately 30% of the panel width.",
+    "robot": "Small, around 10% of the panel width, located on the left side."
+  },
+  "text_style": {
+    "font": "Handwritten, bold style.",
+    "color": "Black text with white background in speech bubbles.",
+    "position": "Varies per panel, generally near the characters."
+  },
+  "content_structure": {
+    "format": "Dialogue between two characters, illustrating a reaction or suggestion."
+  },
+  "description": "A dialogue-based meme, discussing the potential of a fictional tool called 'Clawbot', with each character expressing differing levels of enthusiasm and curiosity."
+}

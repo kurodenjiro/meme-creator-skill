@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into four equal quadrants, each containing a character or object with a colored speed bar and a label underneath.",
+  "character_position": "Characters and objects are centered within their respective quadrants, occupying roughly 40-60% of the quadrant space.",
+  "text_style": {
+    "font": "Bold, cartoon-like sans-serif",
+    "color": "Black",
+    "position": "Title at top center; labels below speed bars in each quadrant"
+  },
+  "content_structure": "Comparison format highlighting different 'fastest things' using a humorous twist.",
+  "description": "The meme uses a four-part grid to humorously compare speeds of a cheetah, an airplane, light, and a humorous business scenario involving founders. Each square conveys the message with a visual and a speed bar."
+}

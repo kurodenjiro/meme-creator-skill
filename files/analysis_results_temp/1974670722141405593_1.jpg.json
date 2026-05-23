@@ -1,0 +1,11 @@
+{
+  "layout": "Văn bản lớn phía trên, nhân vật tròn ở giữa, tay cầm hộp pizza với văn bản trên hộp.",
+  "character_position": "Nhân vật nằm ở trung tâm của khung hình, chiếm khoảng 60-70% diện tích. Hộp pizza được cầm phía trước nhân vật.",
+  "text_style": {
+    "font": "Phong cách chữ in đậm, nét phấn.",
+    "color": "Màu đen.",
+    "position": "Dòng chữ 'HAPPY BITCOIN ALL TIME HIGH' nằm ở phía trên đầu nhân vật, văn bản trên hộp pizza."
+  },
+  "content_structure": "Reaction với tiêu đề lớn thể hiện cột mốc và hình ảnh nhân vật đại diện cho sự kiện Bitcoin.",
+  "description": "Meme thể hiện niềm vui về cột mốc giá cao nhất của Bitcoin với nhân vật Bitcoin và hộp pizza, gợi nhớ đến sự kiện 'Bitcoin Pizza Day'."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "Bức ảnh được chia thành hai phần theo chiều dọc. Phần trên gồm hai nhân vật và một màn hình máy tính ở giữa. Phần dưới là một khung hội thoại chia làm hai ô.",
+  "character_position": "Nhân vật màu xanh lá cây đứng bên trái chiếm khoảng 25% màn hình. Nhân vật màu tím ngồi bên phải chiếm khoảng 25% màn hình, với phần màn hình máy tính chiếm phần trung tâm.",
+  "text_style": {
+    "font": "Sans-serif, dạng bút vẽ tay",
+    "color": "Màu đen",
+    "position": "Hộp thoại nằm ở các góc trên của từng khung hình."
+  },
+  "content_structure": "Meme dạng hội thoại hài hước giải thích một khái niệm dưới dạng so sánh hài hước.",
+  "description": "Bức tranh meme với hai nhân vật hoạt hình đang thảo luận về một nền tảng xã hội được gọi là 'Moltbook', với sự hài hước về cách các bot AI tương tác trên đó."
+}

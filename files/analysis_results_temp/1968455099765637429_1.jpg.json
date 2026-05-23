@@ -1,0 +1,31 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "character": "left side",
+      "text": "top right in a speech bubble",
+      "background": "grey"
+    },
+    "panel_2": {
+      "character": "center left",
+      "additional elements": "action effects in the center",
+      "background": "grey"
+    }
+  },
+  "character_position": {
+    "typical": "left side of each panel",
+    "size_percentage": "approximately 30% of each panel"
+  },
+  "text_style": {
+    "font_guess": "handwritten",
+    "color": "black",
+    "position": {
+      "panel_1": "inside speech bubble top right",
+      "panel_2": "around action effects"
+    }
+  },
+  "content_structure": {
+    "format": "reaction"
+  },
+  "description": "The meme consists of two panels. In the first panel, the character on the left unveils an object while narrating in a speech bubble. In the second panel, there's an unexpected humorous reaction with action effects and sound words, providing comic effect."
+}

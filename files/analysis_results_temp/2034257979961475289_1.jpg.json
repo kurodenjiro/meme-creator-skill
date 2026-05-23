@@ -1,0 +1,11 @@
+{
+  "layout": "Trên cùng của ảnh có các vòng cung với các chữ 'B' và 'S', bên dưới là các từ 'CRYPTO', 'PRECIOUS METALS', 'OIL', 'CRYPTO'. Phía dưới là hai nhân vật hoạt hình (một xanh, một tím) đang đứng với hộp thoại từ nhân vật màu tím.",
+  "character_position": "Hai nhân vật hoạt hình nằm ở góc dưới bên trái, chiếm khoảng 20% diện tích hình ảnh.",
+  "text_style": {
+    "font": "Phông chữ đậm, viết tay",
+    "color": "Màu đen",
+    "position": "Chữ 'CRYPTO', 'PRECIOUS METALS', 'OIL', 'CRYPTO' nằm dưới vòng cung, lời thoại nằm trong bong bóng thoại ở giữa."
+  },
+  "content_structure": "Meme này sử dụng cấu trúc so sánh/nhận xét, với các chu kỳ 'mua/bán' và phản ứng từ hai nhân vật.",
+  "description": "Một meme châm biếm quy trình ra quyết định đầu tư, thể hiện qua các chu kỳ mua và bán được vẽ thành các vòng cung, với phản ứng từ hai nhân vật hoạt hình."
+}

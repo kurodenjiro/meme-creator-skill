@@ -1,0 +1,11 @@
+{
+  "layout": "Meme is divided into two main panels. The top panel shows a pair of buttons with corresponding text on them. The bottom panel shows a character reacting.",
+  "character_position": "The character is in the bottom panel, occupying roughly 40% of the frame, primarily on the left side.",
+  "text_style": {
+    "font": "Sans-serif, bold style",
+    "color": "Black text on a white background",
+    "position": "Top panel, centered above each button"
+  },
+  "content_structure": "Comparison format. The top panel presents a dilemma with two contrasting choices on buttons. The bottom panel shows the character's reaction to the dilemma.",
+  "description": "The meme uses a common 'two buttons' dilemma format to highlight indecision or difficult choices, juxtaposed with a character showing anxiety or stress."
+}

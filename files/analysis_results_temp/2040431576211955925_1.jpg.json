@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two horizontal panels, each showing a character and text. The top panel features a character on the right with text on the left. The bottom panel shows a character on the right with a fire on the left.",
+  "character_position": "In both panels, the character occupies the right side of the frame, taking up approximately 30-40% of the panel's width. The character appears about 50% of the height.",
+  "text_style": {
+    "font": "Handwritten, bold",
+    "color": "Black",
+    "position": "Text is placed on the left side of both panels, with speech marks indicating dialogue."
+  },
+  "content_structure": "Contrast and irony. The meme presents opposing reactions to different scenarios involving capital management.",
+  "description": "The meme features a character in two situations. In the top panel, money is flying around the character, and the text criticizes quick actions for growing capital. In the bottom panel, the character holds a fire extinguisher beside a fire, with text criticizing slow actions for preserving capital."
+}

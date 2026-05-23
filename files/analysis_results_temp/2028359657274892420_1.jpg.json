@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text": "Phía trên cùng bên trái",
+    "character": "Chính giữa hình",
+    "background": "Màu xám đơn giản"
+  },
+  "character_position": {
+    "location": "Giữa",
+    "size_percentage": "Khoảng 50%"
+  },
+  "text_style": {
+    "font": "Chữ in đậm (đoán được là sans-serif)",
+    "color": "Đen trên nền trắng",
+    "position": "Phía trên đầu nhân vật trong khung thoại"
+  },
+  "content_structure": {
+    "format": "Parody / Reaction"
+  },
+  "description": "Hình vẽ một nhân vật hoạt hình đội mũ xanh, với biểu cảm buồn bã, ngồi trước phần ăn nhanh gồm burger, khoai tây chiên và nước uống. Khung thoại với câu 'I'M LOVIN' IT' mang tính chất mỉa mai."
+}

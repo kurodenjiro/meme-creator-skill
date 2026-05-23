@@ -1,0 +1,25 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_bubble_position": "top left of each panel",
+    "character_position": "right in the first panel, left in the second",
+    "background": "light grey with green ground in second panel"
+  },
+  "character_position": {
+    "first_panel": {
+      "position": "right",
+      "size_percentage": "approximately 40%"
+    },
+    "second_panel": {
+      "position": "left",
+      "size_percentage": "approximately 30%"
+    }
+  },
+  "text_style": {
+    "font": "handwritten style",
+    "color": "black",
+    "position": "inside speech bubbles at top of each panel"
+  },
+  "content_structure": "reaction",
+  "description": "Two-panel cartoon featuring a character questioning about making money with 0% fees, repeated in each panel."
+}

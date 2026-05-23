@@ -1,0 +1,11 @@
+{
+  "layout": "Meme có cấu trúc ba phần: biểu đồ ở trung tâm chiếm phần lớn khung hình, nhân vật ở góc dưới bên trái và phải. Dòng chữ được đặt trên cùng và bên dưới biểu đồ.",
+  "character_position": "Nhân vật nằm ở góc dưới bên trái và phải của meme, chiếm khoảng 20% khung hình.",
+  "text_style": {
+    "font": "Phong cách font có vẻ là sans-serif, kiểu chữ cartoon.",
+    "color": "Màu chữ đen với nền trắng cho hội thoại, màu xám đậm cho dòng chữ tiêu đề.",
+    "position": "Dòng chữ chính nằm ngang phía trên biểu đồ. Hội thoại nhân vật được đặt trong ô thoại gần với vị trí của mỗi nhân vật."
+  },
+  "content_structure": "Meme sử dụng định dạng phản hồi hài hước cho sự kiện giả định với biểu đồ chứng khoán.",
+  "description": "Biểu đồ hình nến trung tâm với xu hướng tăng đột biến. Dòng chữ miêu tả tình huống hài hước trong thế giới tài chính. Hai nhân vật cartoon thảo luận về sự kiện trong bối cảnh tài chính."
+}

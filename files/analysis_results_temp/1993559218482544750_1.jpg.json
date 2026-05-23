@@ -1,0 +1,35 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "You got bearish too late and sold the bottom again didn’t you?",
+        "position": "top-right",
+        "speech_bubble": true
+      }
+    ],
+    "characters": [
+      {
+        "name": "Character 1",
+        "position": "left",
+        "size_percentage": 40
+      },
+      {
+        "name": "Character 2",
+        "position": "right",
+        "size_percentage": 40
+      }
+    ],
+    "background": "gray with outlined border"
+  },
+  "character_position": {
+    "left_character": "standing",
+    "right_character": "sitting at table"
+  },
+  "text_style": {
+    "font": "handwritten style",
+    "color": "black",
+    "position": "within a speech bubble top-right"
+  },
+  "content_structure": "reaction/interaction",
+  "description": "An interaction between two cartoon characters; a bearded character with a blue hat comforts another character drawing, expressing regret over a financial decision."
+}

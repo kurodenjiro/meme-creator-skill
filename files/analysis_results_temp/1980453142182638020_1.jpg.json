@@ -1,0 +1,11 @@
+{
+  "layout": "The image is a screenshot resembling a social media notification. At the top, there is a row of profile icons in circles, followed by a bold line of text indicating engagement (e.g., 'jesse.base.eth and 5 others liked your post'). Below it, there are two lines of text in regular font in descending order.",
+  "character_position": "The characters (profile icons) are located at the upper part of the image, occupying a small percentage (around 15%) of the total image height.",
+  "text_style": {
+    "font": "Sans-serif appearance typical of social media platforms.",
+    "color": "White for the general text and blue/black for highlighted text.",
+    "position": "The main text is centrally aligned horizontally, with timestamp on the right."
+  },
+  "content_structure": "The meme follows a 'reaction' style, playing on common social media language to convey humor.",
+  "description": "The image mimics a social media notification, humorously suggesting a post or asset being listed for a large sum, leveraging familiar platform aesthetics."
+}

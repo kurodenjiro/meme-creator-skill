@@ -1,0 +1,55 @@
+{
+  "layout": {
+    "text_components": [
+      {
+        "content": "YOU'RE GOING THE WRONG WAY!",
+        "position": "top-left",
+        "presentation": "speech bubble"
+      },
+      {
+        "content": "$5,000",
+        "position": "top-right",
+        "presentation": "banner"
+      }
+    ],
+    "characters": [
+      {
+        "type": "person",
+        "position": "left",
+        "alignment": "behind the track"
+      },
+      {
+        "type": "characters",
+        "position": "center to right",
+        "alignment": "on the track, running"
+      }
+    ],
+    "background": "race track, audience sketch, gray sky"
+  },
+  "character_position": {
+    "main_characters": [
+      {
+        "location": "center",
+        "size_ratio": "small"
+      },
+      {
+        "location": "right",
+        "size_ratio": "small"
+      }
+    ],
+    "observer": {
+      "location": "top-left",
+      "size_ratio": "small"
+    }
+  },
+  "text_style": {
+    "speech_text_font": "bold, hand-drawn",
+    "speech_text_color": "black",
+    "speech_text_background": "white bubble with black outline",
+    "banner_text_font": "bold, block",
+    "banner_text_color": "black",
+    "banner_text_background": "light blue with white outline"
+  },
+  "content_structure": "reaction",
+  "description": "The meme depicts a humorous scene where a person is reacting to characters running in the wrong direction on a race track, with a prize banner indicating a cash reward."
+}

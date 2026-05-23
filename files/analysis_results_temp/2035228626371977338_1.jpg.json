@@ -1,0 +1,11 @@
+{
+  "layout": "The meme is divided into two main parts: a line graph is at the top, with two dialogue boxes at the bottom. The graph shows a rise and fall pattern labeled with 'Hyperliquid Lists S&P 500.' Below the graph are two speech bubbles from cartoonish characters placed at the bottom corners.",
+  "character_position": "The characters are located at the bottom of the image, occupying roughly 20% of the total image space. The left character is green, and the right character has a blue hat.",
+  "text_style": {
+    "font": "Handwritten style",
+    "color": "Black",
+    "position": "The text in the graph is at the top center, while the dialogue text is within speech bubbles at the bottom."
+  },
+  "content_structure": "The meme uses a reaction and comparison format, highlighting a decline in the graph and humorously discussing its cause through the dialogue.",
+  "description": "A humorous meme reacting to the decline in the S&P 500 after an event, with two characters commenting on the situation in a sarcastic manner."
+}

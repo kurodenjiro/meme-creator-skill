@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "text": "AD BLOCKER",
+      "switch": "ON",
+      "background": "white"
+    },
+    "panel_2": {
+      "text": "AD BLOCKER",
+      "switch": "OFF",
+      "character": "right side",
+      "background": "white"
+    }
+  },
+  "character_position": {
+    "panel_2": {
+      "position": "right side",
+      "size_percentage": 40
+    }
+  },
+  "text_style": {
+    "font": "bold, cartoon-like",
+    "color": "black",
+    "panel_1_position": "top left",
+    "panel_2_position": {
+      "text": "top left",
+      "character_text": "center"
+    }
+  },
+  "content_structure": "comparison",
+  "description": "Meme compares ad blocker status with a character showing satisfaction when off."
+}

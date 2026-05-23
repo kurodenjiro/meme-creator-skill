@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "background": "Light grey with a white irregular border around each section of text.",
+    "character": "Centered character with a circular arrow surrounding it."
+  },
+  "character_position": {
+    "location": "Center of the image",
+    "size_percentage": "Approximately 20%"
+  },
+  "text_style": {
+    "font_style": "Bold, hand-drawn style",
+    "color": "Black text",
+    "positions": {
+      "top": "RETAIL RUGS CT FOR $30K",
+      "left": "CT TAKES BACK $30K",
+      "right": "SPENDS $30K ON RENT IN NYC.",
+      "bottom": "LANDLORD HYPERGAMBLES ON MEMECOINS"
+    }
+  },
+  "content_structure": "The meme uses a cycle format to narrate a financial scenario involving characters and events in different locations.",
+  "description": "The meme humorously depicts a financial cycle involving a character and various financial transactions, using text and arrows to guide the narrative."
+}

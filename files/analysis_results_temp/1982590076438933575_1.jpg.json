@@ -1,0 +1,10 @@
+{
+  "layout": "Bức ảnh có bố cục chia thành hai phần chính. Phía trên là một bức tranh hỗn loạn với nhiều ô vuông, chữ và biểu tượng xếp chồng lên nhau. Phía dưới bên trái là một nhân vật hoạt hình với một khung thoại trích dẫn.",
+  "character_position": "Nhân vật nằm ở góc dưới bên trái của khung hình, chiếm khoảng 20% diện tích.",
+  "text_style": {
+    "font": "Phông chữ không kiểu cách, nét vẽ tay. Chữ màu đen trên nền trắng trong phần của nhân vật. Các ô chữ phía trên có cỡ chữ và màu sắc đa dạng, thường là màu sáng như cam, xanh dương, vàng.",
+    "position": "Chữ của nhân vật nằm trong khung thoại, chữ trong các ô vuông trên nằm bên trong các hình chữ nhật hoặc hình tròn."
+  },
+  "content_structure": "Meme sử dụng cấu trúc phản ứng. Nhân vật bên dưới phản hồi lại tình huống lộn xộn phía trên, tạo nên sự hài hước.",
+  "description": "Meme này mang tính giải trí, với phần trên là một hình ảnh lộn xộn về thị trường tiền điện tử với nhiều dự án khác nhau, trong khi phần dưới là nhân vật ngơ ngác, như thể phản ánh sự bất ngờ trước sự phức tạp của tình huống."
+}

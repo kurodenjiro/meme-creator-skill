@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into four panels. The top two panels are side-by-side, and the bottom two panels are also side-by-side. The text is placed within speech bubbles near the characters who are speaking.",
+  "character_position": "Characters are placed in the center or to the side of each panel. The characters occupy approximately 30-40% of each panel, allowing for background and speech bubbles.",
+  "text_style": {
+    "font": "Bold, comic-style font",
+    "color": "Black text on white speech bubbles",
+    "position": "Text is placed inside speech bubbles pointing toward the speaking characters"
+  },
+  "content_structure": "The meme uses a reaction format, describing a surprise encounter in a humorous way.",
+  "description": "The meme depicts characters in a series of panels reacting with surprise and humor. The dialogue builds up to a punchline in the last panel, typical of reaction memes."
+}

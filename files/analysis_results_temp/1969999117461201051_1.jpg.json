@@ -1,0 +1,30 @@
+{
+  "layout": {
+    "text_elements": "Speech bubble at bottom left",
+    "characters": {
+      "teddy_bear": "Bottom left, next to speech bubble",
+      "frog": "Top right, sitting on graph peak"
+    },
+    "background": "Grey background with a green and red line graph"
+  },
+  "character_position": {
+    "teddy_bear": {
+      "position": "Bottom left",
+      "size_percentage": 15
+    },
+    "frog": {
+      "position": "Top right",
+      "size_percentage": 10
+    }
+  },
+  "text_style": {
+    "font": "Bold, hand-drawn look",
+    "color": "Black text with white speech bubble and black outline",
+    "position": "Bottom left in speech bubble"
+  },
+  "content_structure": {
+    "format": "Reaction to an event",
+    "message": "Surprise or disbelief about an occurrence"
+  },
+  "description": "A reaction meme featuring a teddy bear expressing surprise at a frog sitting on a graph peak, with a green upward trend followed by a red downward trend."
+}

@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh chia thành 4 ô vuông, sắp xếp thành hai hàng, mỗi hàng hai ô. Các ô chứa nhân vật và hội thoại. Nhân vật xuất hiện chủ yếu ở chính giữa và lệch sang phải mỗi ô.",
+  "character_position": "Nhân vật chính thường nằm ở trung tâm hoặc lệch về bên phải của từng ô. Nhân vật chiếm khoảng 40-50% diện tích mỗi ô.",
+  "text_style": "Hội thoại được viết tay, có đường viền đen và nền trắng. Chữ đậm, màu đen. Vị trí chữ nằm trên hoặc bên cạnh đầu nhân vật.",
+  "content_structure": "Meme truyền tải thông điệp theo dạng 'reaction'. Nhấn mạnh vào sự thay đổi quan điểm trước và sau khi có thông tin mới.",
+  "description": "Meme mô tả một nhân vật có quan điểm không bao giờ bán Bitcoin, nhưng sau khi biết giá tăng một ít, đã thay đổi ý định."
+}

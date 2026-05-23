@@ -1,0 +1,12 @@
+{
+  "layout": "The image is divided into two panels stacked vertically. In each panel, the character is placed on the left side, and a large gate or bars extend to the right with text above it.",
+  "character_position": "The character is located on the left side of both panels. They occupy approximately 20% of each panel's width and are positioned near the fence or bars.",
+  "text_style": {
+    "font": "Comic-style font, bold.",
+    "color": "Black text.",
+    "size": "Medium to large, depending on the text.",
+    "position": "The top left of each panel contains a date. Dialogue is in a speech bubble adjacent to the character's position."
+  },
+  "content_structure": "Contrast/Comparison. The meme shows the same setting in different years with reversed dialogue, highlighting irony or change in stance over time.",
+  "description": "The meme contains two panels showing a character at a fence labeled 'Mega ETH Seed Round' with dialogue in speech bubbles. In 2025, the character wants to get in ('LET ME IN!!!'), while in 2026, they want to get out ('LET ME OUT!!!')."
+}

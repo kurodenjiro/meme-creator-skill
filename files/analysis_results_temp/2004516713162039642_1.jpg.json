@@ -1,0 +1,51 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_bubbles": [
+      {
+        "panel": 1,
+        "position": "top-left",
+        "content": "SANTA, I WANT SOME GOLD FOR CHRISTMAS."
+      },
+      {
+        "panel": 1,
+        "position": "top-right",
+        "content": "BUT YOU HAVE GOLD AT HOME?"
+      }
+    ],
+    "bottom_label": {
+      "text": "AT HOME:",
+      "position": "top-left of panel 2"
+    }
+  },
+  "character_position": {
+    "panel_1": {
+      "character_1": {
+        "position": "left",
+        "percentage_size": 30
+      },
+      "character_2": {
+        "position": "right",
+        "percentage_size": 30
+      }
+    },
+    "panel_2": {
+      "character_1": {
+        "position": "left",
+        "percentage_size": 30
+      },
+      "character_2": {
+        "position": "right",
+        "percentage_size": 30
+      }
+    }
+  },
+  "text_style": {
+    "font": "bold, comic-style",
+    "color": "black",
+    "bubble_color": "white",
+    "outline_color": "black"
+  },
+  "content_structure": "comparison",
+  "description": "A bear asks Santa for gold, but at home, a Bitcoin logo is considered 'gold'. The meme uses a two-panel comic format with dialogue to highlight the humor in the expectation vs. reality comparison."
+}

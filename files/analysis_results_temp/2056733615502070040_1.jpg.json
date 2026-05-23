@@ -1,0 +1,12 @@
+{
+  "layout": "The image is organized into two main sections. The top section displays a bar chart with dates underneath it. The lower section contains highlighted metrics with text. The metrics are placed in rectangular areas.",
+  "character_position": "There are no characters in this image, only text and graphical elements like the bar chart and highlighted text.",
+  "text_style": {
+    "font": "Sans-serif (unconfirmed)",
+    "style": "Bold for headings, regular for details",
+    "color": "White text on a black background for the main content, green circle highlighting",
+    "position": "Top for 'Account Analytics', Below the bar chart for dates, bottom left for 'Verified followers', and bottom right for 'Active followers'"
+  },
+  "content_structure": "This meme uses a reaction format, highlighting the discrepancy between 'Verified followers' and 'Active followers' using a green circle as emphasis.",
+  "description": "The image humorously highlights the number of active followers compared to verified followers in a social media analytics context, using a bar chart and highlighted text to illustrate the point."
+}

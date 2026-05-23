@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "character": "Centered in the image, slightly to the right",
+    "background": "Gray, with simple color and minimal detail",
+    "foreground": "Table in the lower part of the image with a drink"
+  },
+  "character_position": {
+    "location": "Middle-right of the image",
+    "size_percentage": "Approximately 50% of the height"
+  },
+  "text_style": {
+    "font": "Not applicable",
+    "style": "No text present in this image",
+    "color": "Not applicable",
+    "position": "Not applicable"
+  },
+  "content_structure": {
+    "format": "Reaction"
+  },
+  "description": "A cartoon character with a bored expression sitting in front of a drink, possibly depicting a lack of enthusiasm or interest."
+}

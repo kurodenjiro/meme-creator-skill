@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "text_elements": "Speech bubble center upper part with bold outline",
+    "character_elements": "Five characters in a horizontal line across the center",
+    "background": "Simple grey with no detail, focuses attention on characters"
+  },
+  "character_position": {
+    "main_character": "Centered, slightly to the left, occupies about 20% width",
+    "other_characters": "Spread out evenly next to the main character, each about 15% width"
+  },
+  "text_style": {
+    "font_guess": "Handwritten-style, bold",
+    "color": "Black text on white background in speech bubble",
+    "position": "Above central characters"
+  },
+  "content_structure": {
+    "format": "Reaction",
+    "message": "Positive statement about cryptocurrency"
+  },
+  "description": "A meme featuring various characters representing cryptocurrencies, centered around a table with poker chips, expressing a positive sentiment about crypto."
+}

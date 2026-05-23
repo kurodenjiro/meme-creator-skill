@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh được chia thành 3x3 ô vuông, mỗi ô chứa một nhân vật hoạt hình khác nhau cùng với dòng chữ được đặt bên trong hoặc phía trên mỗi ô. Các ô có phần viền đen rõ ràng, và mỗi ô có một chủ đề riêng biệt.",
+  "character_position": "Nhân vật nằm chính giữa mỗi ô vuông, chiếm khoảng 70-80% không gian của ô. Mỗi nhân vật có biểu cảm và phụ kiện đại diện cho chủ đề của ô đó.",
+  "text_style": "Các dòng chữ chủ yếu nằm phía trên hoặc bên trong mỗi ô. Phông chữ trông giống phông chữ đơn giản và rõ ràng, sử dụng nhiều màu sắc khác nhau như xanh dương, tím, đen, trắng và xanh lá.",
+  "content_structure": "Meme theo cấu trúc so sánh và parody, mỗi ô đại diện cho một dịch vụ hoặc thương hiệu với phong cách hài hước.",
+  "description": "Mỗi ô trong meme đại diện cho một dịch vụ hoặc thương hiệu như Pump.fun, True Markets, Kraken Pro. Các nhân vật hoạt hình trong ô có biểu cảm và phụ kiện phù hợp với dịch vụ mà họ đại diện."
+}

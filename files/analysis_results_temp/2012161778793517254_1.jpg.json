@@ -1,0 +1,34 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "PLAN JAPAN",
+        "position": "on the book cover, right side",
+        "font_style": "bold, hand-drawn style",
+        "color": "white"
+      },
+      {
+        "content": "Check list: CHERRY BLOSSOMS, BULLET TRAIN, MARIO WORLD",
+        "position": "bottom left, on notebook",
+        "font_style": "handwritten style",
+        "color": "black"
+      }
+    ],
+    "character": "centered",
+    "background": "gray with a white border"
+  },
+  "character_position": {
+    "position": "center of the image",
+    "size_percentage": "approximately 50%"
+  },
+  "text_style": {
+    "font_guess": "handwritten or playful style",
+    "colors": [
+      "white for book cover",
+      "black for notebook"
+    ],
+    "placement": "on the book and in the notebook"
+  },
+  "content_structure": "reaction",
+  "description": "The image features a character resembling a frog reading a book labeled 'PLAN JAPAN.' The character also has a notebook with a checklist regarding Japan-themed activities. This meme uses the reaction format where the character appears focused on planning for a trip to Japan."
+}

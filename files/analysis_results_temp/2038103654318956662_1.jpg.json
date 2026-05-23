@@ -1,0 +1,11 @@
+{
+  "layout": "Bức tranh có nền trắng với hai nhân vật hoạt hình. Nhân vật nhỏ màu xanh lá cây đứng bên trái và nhân vật lớn màu tím đứng bên phải. Dòng chữ lớn ở phía trên đầu bức tranh.",
+  "character_position": "Nhân vật nhỏ ở bên trái chiếm khoảng 20% chiều rộng khung hình. Nhân vật lớn ở bên phải chiếm khoảng 30% chiều rộng khung hình.",
+  "text_style": {
+    "font_guess": "Phông chữ kiểu nét vẽ tay, đậm, có thể là một biến thể sans-serif.",
+    "text_color": "Màu đen",
+    "position": "Dòng chữ lớn trên cùng hỏi 'HOW BIG IS MY PORTFOLIO?'. Các giá trị tiền ($3m và $2.95m) nằm gần các nhân vật tương ứng."
+  },
+  "content_structure": "Meme theo dạng so sánh kích thước danh mục đầu tư với các nhân vật tượng trưng cho sự khác biệt, tạo cảm giác hài hước.",
+  "description": "Meme này sử dụng hình ảnh hai nhân vật hoạt hình để chế nhạo quan niệm về danh mục đầu tư và thị trường tài chính, tạo sức hút hài hước thông qua sự chênh lệch nhỏ nhưng được phóng đại giữa hai nhân vật."
+}

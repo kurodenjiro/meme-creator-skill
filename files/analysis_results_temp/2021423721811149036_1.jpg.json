@@ -1,0 +1,40 @@
+{
+  "layout": {
+    "text_components": [
+      "Base is for",
+      "everyone",
+      "builders",
+      "creators",
+      "traders",
+      "Someone?!"
+    ],
+    "crossed_out_elements": [
+      "everyone",
+      "builders",
+      "creators",
+      "traders"
+    ],
+    "circled_element": "Someone?!",
+    "footer_text": "@BoldLeonidas"
+  },
+  "character_position": {
+    "main_text": "Centered vertically and horizontally",
+    "size_percentage": "Approximately 60%"
+  },
+  "text_style": {
+    "font_guess": "Handwritten, bold",
+    "color": {
+      "main": "Black",
+      "cross_out": "Red",
+      "circle": "Blue"
+    },
+    "positioning": {
+      "centered": true,
+      "bottom_footer": true
+    }
+  },
+  "content_structure": {
+    "format": "Comparison / Reaction"
+  },
+  "description": "The meme illustrates a humorous take on inclusivity and desperation by listing various categories like 'everyone', 'builders', etc., crossed out in red, highlighting 'Someone?!' as the final plea, circled in blue."
+}

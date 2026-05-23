@@ -1,0 +1,50 @@
+{
+  "layout": {
+    "panels": 4,
+    "panel_1": {
+      "text_bubble": "top_left",
+      "character": "left",
+      "background": "gray"
+    },
+    "panel_2": {
+      "character": "right",
+      "background": "gray"
+    },
+    "panel_3": {
+      "focus_item": "center",
+      "background": "green"
+    },
+    "panel_4": {
+      "text_bubble": "top_right",
+      "character": "right",
+      "background": "gray"
+    }
+  },
+  "character_position": {
+    "character_1": {
+      "position": "left",
+      "percentage": 30
+    },
+    "character_2": {
+      "position": "right",
+      "percentage": 30
+    }
+  },
+  "text_style": {
+    "font": "bold, sans-serif",
+    "color": "black",
+    "background": "white",
+    "placement": {
+      "panel_1": "top_left",
+      "panel_4": "top_right"
+    }
+  },
+  "content_structure": {
+    "format": "humor, reaction",
+    "elements": [
+      "internal dilemma",
+      "unexpected decision"
+    ]
+  },
+  "description": "A comic strip with four panels. A character is faced with a decision and makes an unexpected all-in in poker."
+}

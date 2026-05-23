@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into four panels, each representing a year: 2013, 2017, 2021, and 2025. Each panel features a character on the left side pouring liquid into cups arranged towards the right.",
+  "character_position": "The character is consistently on the left side of each panel, occupying roughly 30-40% of the frame. The size of the character relative to the cups changes, implying growth or increased quantity over time.",
+  "text_style": {
+    "font": "A bold, cartoon-style font, likely hand-drawn.",
+    "color": "Black text.",
+    "position": "Year labels are at the top left of each panel, with no additional dialogue or text within the panels."
+  },
+  "content_structure": "Progression format, where the passage of time is indicated by changes in quantity or scale (number of glasses) from panel to panel.",
+  "description": "The meme illustrates a progression over years, starting from a small amount of liquid being poured into a few cups and gradually increasing to a larger amount and more cups. It symbolizes growth, escalation, or accumulation over time."
+}

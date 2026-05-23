@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text_position": "Top left and bottom right",
+    "character_position": "Center, with pointer at bottom left",
+    "background_elements": "Colored arc spanning top half"
+  },
+  "character_position": {
+    "location": "Center of the image",
+    "size_percentage": "Approximately 20% of the image space"
+  },
+  "text_style": {
+    "font_guess": "Bold, sans-serif",
+    "color": "Red for main text, black for label",
+    "placement": "Top left for main text, bottom right for handle"
+  },
+  "content_structure": {
+    "format": "Situation or task urgency indicator"
+  },
+  "description": "The meme uses an urgency meter format to convey the message of needing a job, featuring a central character being propelled by the urgency."
+}

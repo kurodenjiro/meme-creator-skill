@@ -1,0 +1,11 @@
+{
+  "layout": "The image features two cartoon characters with speech bubbles above their heads. The background is a grayscale sky with clouds and a bright moon on the top right corner. Text elements are contained within speech bubbles with black borders.",
+  "character_position": "The characters are positioned in the lower third of the image, occupying around 40-50% of the space. The character on the left is dressed as a folder, and the character on the right is on fire with a 'PRO' headband.",
+  "text_style": {
+    "font": "Handwritten (stylized comic sans-like)",
+    "color": "Black",
+    "position": "Inside speech bubbles directly above their respective characters"
+  },
+  "content_structure": "The meme uses a reaction format where one character makes a statement and the other responds humorously.",
+  "description": "A humorous cartoon where one character dressed as a file folder says, 'I came as my portfolio,' and the other flaming character replies, 'No way! I came as your portfolio too!'"
+}

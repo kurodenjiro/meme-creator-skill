@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh được chia thành ba khung hình theo thứ tự từ trên xuống dưới. Khung trên cùng có hai nhân vật và hai hộp thoại. Khung giữa chỉ có một nhân vật với hành động bất ngờ. Khung dưới cùng có một nhân vật với một hộp thoại.",
+  "character_position": "Nhân vật màu xám xuất hiện ở bên trái khung trên cùng, chiếm khoảng 40% khung hình. Nhân vật màu xanh lá xuất hiện ở bên phải trong hai khung đầu, chiếm khoảng 30% mỗi khung. Trong khung cuối cùng, nhân vật xanh lá chiếm gần như toàn bộ khung.",
+  "text_style": "Phông chữ của các hộp thoại có phong cách đậm, viết tay. Chữ màu đen trên nền trắng trong các bong bóng thoại. Các hộp thoại nằm ở trên cùng của mỗi khung.",
+  "content_structure": "Cấu trúc truyền tải thông điệp theo dạng reaction, thể hiện sự ngạc nhiên và bất ngờ qua hội thoại.",
+  "description": "Meme có hai nhân vật chính trong câu chuyện về một sự kiện bất ngờ liên quan đến việc từ chức của đội Zcash, với một phản ứng hài hước từ nhân vật còn lại."
+}

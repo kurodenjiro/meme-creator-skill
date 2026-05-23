@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text_elements": "Three speech bubbles above the characters",
+    "characters": "Two main characters centered",
+    "background": "Blank white background"
+  },
+  "character_position": {
+    "location": "Characters are positioned side by side in the center",
+    "size_percentage": "Each character occupies about 40% of the width"
+  },
+  "text_style": {
+    "font": "Hand-drawn style (specific font undetermined)",
+    "color": "Black outlines",
+    "position": "Speech bubbles above characters’ heads"
+  },
+  "content_structure": {
+    "format": "Reaction meme"
+  },
+  "description": "The image features two cartoon-styled characters with simplistic, hand-drawn lines. The character on the left is green with a colorful accessory. The character on the right is shaped like an iron with a neutral expression. The blank background emphasizes the characters and their expressions, with dialogue bubbles suggesting a reaction scenario."
+}

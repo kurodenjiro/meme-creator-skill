@@ -1,0 +1,11 @@
+{
+  "layout": "The image is split into two panels. The top panel contains two characters on the left and right, with speech bubbles above each character. The bottom panel shows the back of the two characters looking at a framed text in the center.",
+  "character_position": "In the top panel, characters occupy the left and right sides, taking up about 30% of the frame each. In the bottom panel, the characters are centered but occupy about 20% each, viewing a large framed text.",
+  "text_style": {
+    "font": "Handwritten, bold style (exact font difficult to determine)",
+    "color": "Black text on a white background for speech bubbles and framed text",
+    "position": "Speech bubbles in the top panel are above the characters. The framed text in the bottom panel is centered."
+  },
+  "content_structure": "The meme uses a conversation format. The first panel sets up the dialogue about art and NFTs. The second panel uses the frame to deliver a punchline regarding the value of NFTs.",
+  "description": "This meme humorously contrasts art appreciation with the speculative value of NFTs through a conversation between two characters and a concluding punchline in a framed art piece."
+}

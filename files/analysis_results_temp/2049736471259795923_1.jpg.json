@@ -1,0 +1,10 @@
+{
+  "layout": "Nhân vật chiếm phần dưới của khung hình, tập trung giữa trung tâm và được bao quanh bởi không gian trắng phía trên. Điện thoại nằm gần trung tâm, tạo cảm giác tập trung vào hành động của nhân vật. Phần tay và đầu của nhân vật chiếm diện tích nhỏ hơn so với tổng thể.",
+  "character_position": "Nhân vật nằm ở phần dưới giữa khung hình, chiếm khoảng 25% diện tích tổng thể.",
+  "text_style": {
+    "font": "Không rõ phông chữ cụ thể, nhưng là kiểu chữ đơn giản, không chân.",
+    "style": "Chữ ký ở góc dưới bên phải, kiểu chữ đen, không chân, nền trắng."
+  },
+  "content_structure": "Reaction",
+  "description": "Bức tranh này có một nhân vật đang sử dụng điện thoại, tạo một cảm giác thư giãn hoặc riêng tư với đôi chân có thể khiến người xem liên tưởng đến tình huống hài hước hoặc bất ngờ."
+}

@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "text_elements": "Speech bubble on the left side",
+    "characters": "Characters lined up from center left to center right",
+    "background": "Two doors labeled 'AP SWATCH' and 'AP SWATCH RESTOCKS'"
+  },
+  "character_position": {
+    "main_character": "Located left of the center, distinct appearance with hat and robe, approximately 15% of the image width",
+    "other_characters": "Occupy about 20% of the frame width in total"
+  },
+  "text_style": {
+    "font": "Handwritten, bold",
+    "color": "Black",
+    "placement": "Speech bubble to the left of the main character, door labels above doors"
+  },
+  "content_structure": {
+    "format": "Reaction meme",
+    "message": "Surprise or realization about product availability"
+  },
+  "description": "A humorous scene where a character expresses surprise about a product not being a limited edition while in line with others at a restocking event."
+}

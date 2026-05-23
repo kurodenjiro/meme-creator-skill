@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two panels. In the first panel, a character is lying in bed, looking at a tablet. In the second panel, a close-up of the tablet reveals a picture of a green candlestick chart symbol with a smiley face.",
+  "character_position": "In the first panel, the character occupies the left half of the frame, approximately 40% of the panel. In the second panel, the close-up of the hands holding the tablet occupies most of the frame, around 60%.",
+  "text_style": {
+    "font": "Comic-style, bold",
+    "color": "Black text with a white speech bubble",
+    "position": "Top left of the first panel"
+  },
+  "content_structure": "The meme uses a two-panel reaction format with a setup and reveal structure. The character expresses missing someone, with the punchline being the unexpected reveal in the second panel.",
+  "description": "The meme depicts a person missing something significant, humorously revealed to be a candlestick chart symbolizing a stock or financial market reference."
+}

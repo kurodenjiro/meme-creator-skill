@@ -1,0 +1,48 @@
+{
+  "layout": {
+    "panel_count": 2,
+    "panel_1": {
+      "text_position": "left_speech_bubble",
+      "characters_position": "right",
+      "background": "gray"
+    },
+    "panel_2": {
+      "text_position": "top_speech_bubble",
+      "characters_position": "right",
+      "background": "gray"
+    }
+  },
+  "character_position": {
+    "wizard": {
+      "position": "left",
+      "size_percentage": "approximately 30%"
+    },
+    "other_characters": {
+      "position": "right",
+      "size_percentage": "approximately 70%"
+    }
+  },
+  "text_style": {
+    "font": "bold, comic-like",
+    "color": "black",
+    "background": "white",
+    "border": "black outline",
+    "speech_bubble_position": [
+      {
+        "panel_1": "left"
+      },
+      {
+        "panel_2": "top"
+      }
+    ]
+  },
+  "content_structure": {
+    "format": "comic strip",
+    "type": "reaction",
+    "elements": [
+      "introduction and problem presentation in panel 1",
+      "reaction and confusion in panel 2"
+    ]
+  },
+  "description": "The comic strip consists of two panels. In the first panel, a wizard character on the left informs two characters on the right that they are out of money, as depicted by burning 'money' on a campfire. The second panel shows the two characters reacting with surprise."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into a 2x2 grid with four panels. Each panel contains a drawing of the same character doing different activities. The top left panel contains 'WHITEPAPERS', the top right 'NFTs', the bottom left 'MEMECOINS', and the bottom right 'STOCKS'. Text is placed above each panel as titles.",
+  "character_position": "The character is centered in each panel, with the size taking up about 50-70% of the panel. The character changes posture or accessories in each to fit the theme.",
+  "text_style": {
+    "font": "Bold and cartoonish (exact font unspecified)",
+    "color": "Black",
+    "position": "At the top of each panel as a header"
+  },
+  "content_structure": "The meme uses a comparison format, highlighting different aspects of investment culture with humor. Each panel represents a different type of financial product, using visual gags to convey opinions or stereotypes associated with each.",
+  "description": "This meme features a cartoon character depicted across four panels, each illustrating different types of financial activities (whitepapers, NFTs, memecoins, and stocks) in a humorous way. The character is engaged in iconic, exaggerated actions related to each investment type."
+}

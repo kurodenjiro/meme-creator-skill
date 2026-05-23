@@ -1,0 +1,41 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "text_position": "top left",
+      "characters": "left",
+      "background": "mathematical equations, light effect"
+    },
+    "panel_2": {
+      "text_position": "top left",
+      "characters": "left",
+      "background": "neutral, simple"
+    }
+  },
+  "character_position": [
+    {
+      "panel": 1,
+      "position": "left side",
+      "size_percentage": 30
+    },
+    {
+      "panel": 2,
+      "position": "left side",
+      "size_percentage": 30
+    }
+  ],
+  "text_style": {
+    "font": "handwritten",
+    "color": "black",
+    "panel_1": {
+      "text": "AGI is coming",
+      "style_position": "center under date"
+    },
+    "panel_2": {
+      "text": "Are you sure this guy is going to take everyone's job?",
+      "style_position": "center under date"
+    }
+  },
+  "content_structure": "reaction",
+  "description": "The meme consists of two panels depicting a humorous take on the expectations versus reality of AGI coming in 2026. The first panel shows anticipation with mathematical and light effects, while the second panel shows a humorous contrast with a less intimidating character."
+}

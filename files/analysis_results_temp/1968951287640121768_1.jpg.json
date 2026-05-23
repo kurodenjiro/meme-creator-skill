@@ -1,0 +1,11 @@
+{
+  "layout": "This meme is divided into two panels, arranged vertically. Each panel features two cartoon characters with speech bubbles. The characters are positioned on a simple, gray, hand-drawn background that resembles a street scene.",
+  "character_position": "In each panel, there are two characters. The green character is on the left, taking up about 20% of the panel width. The purple character is on the right, taking up about 20% as well. Both characters occupy approximately 50% of the panel height.",
+  "text_style": {
+    "font": "Hand-drawn, comic style",
+    "color": "Black",
+    "position": "Inside speech bubbles with a white background and black border located above or beside the characters."
+  },
+  "content_structure": "The meme follows a conversational format with a humorous twist, using dialogue for comedic effect.",
+  "description": "The meme depicts two cartoon characters discussing late-night show hosts, leading to a humorous misunderstanding or joke."
+}

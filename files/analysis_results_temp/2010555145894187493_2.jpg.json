@@ -1,0 +1,12 @@
+{
+  "layout": "The image consists of a line graph with green and red lines. The green line represents an upward trend, and the red line a sharp downward trend. On the right side of the image, there is a speech bubble containing text.",
+  "character_position": "The graph lines take up most of the central area of the image. The speech bubble is located on the right side, occupying approximately 20% of the width of the image.",
+  "text_style": {
+    "font": "Bold, sans-serif (estimate)",
+    "style": "Uppercase and thick",
+    "color": "Black text within a white speech bubble outlined in black",
+    "position": "Right edge of the image, inside a speech bubble"
+  },
+  "content_structure": "Reaction",
+  "description": "The meme uses a graph to comically depict a failed strategy or plan, suggested by the red line's sharp drop and the text 'IT DIDN'T WORK BRO' responding to the situation."
+}

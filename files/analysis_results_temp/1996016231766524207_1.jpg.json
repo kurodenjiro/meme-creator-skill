@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into a 2x2 comic strip layout, with two panels in the top row and two panels in the bottom row. Each panel contains one character along with text bubbles for dialogue.",
+  "character_position": "Characters occupy most of the space in each panel, approximately 70-80% of the panel area. The characters are centrally placed, with one character on the left side in the left panels and one on the right side in the right panels.",
+  "text_style": {
+    "font": "Handwritten-style sans-serif font, bold.",
+    "color": "Black text color.",
+    "position": "Text is placed inside speech bubbles at the top of each panel."
+  },
+  "content_structure": "This meme uses a conversation format, with characters exchanging dialogue across multiple panels. It presents a reaction or humorous exchange.",
+  "description": "The meme features two characters in a comic strip format. The upper left character makes a statement about taxes, and the upper right character responds with a question about tariffs. The bottom row shows the two characters looking at each other silently, conveying a humorous and possibly sarcastic reaction."
+}

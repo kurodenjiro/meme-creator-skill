@@ -1,0 +1,36 @@
+{
+  "layout": {
+    "panel_1": {
+      "text_bubble": {
+        "position": "top_right",
+        "text": "THE NEW CLAUDE UPDATE HAS GONE TOO FAR."
+      },
+      "character": {
+        "position": "left",
+        "size_percentage": "about 60%"
+      }
+    },
+    "panel_2": {
+      "text_area": {
+        "position": "center",
+        "text": "You can now enable Claude to pleasure your wife or girlfriend."
+      }
+    }
+  },
+  "character_position": {
+    "panel_1": {
+      "position": "left",
+      "size_percentage": "about 60%"
+    }
+  },
+  "text_style": {
+    "font": "comic_sans_or_similar",
+    "style": "bold",
+    "color": "black (in white bubbles)",
+    "panel_2_font_color": "white (on dark background)"
+  },
+  "content_structure": {
+    "format": "reaction"
+  },
+  "description": "The meme features a two-panel comic. In the first panel, a character with a shocked expression reads a message on their phone, with a speech bubble containing text indicating disbelief at an updated AI feature. The second panel displays a tweet mock-up showing the absurd update in question, emphasizing the humorous disbelief."
+}

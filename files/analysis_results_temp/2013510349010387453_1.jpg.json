@@ -1,0 +1,11 @@
+{
+  "layout": "The meme has a two-panel comic strip format. The top panel includes two characters on opposite sides of the panel, each with a speech bubble. The bottom panel mirrors this setup, focusing on the characters and their reactions.",
+  "character_position": "The left character is green with a blue shirt, positioned on the left side in both panels, occupying approximately 40% of the respective halves. The right character is white and green, located on the right side, also occupying around 40%.",
+  "text_style": {
+    "font": "Hand-drawn comic style (exact font name unknown)",
+    "color": "Black text on white speech bubbles",
+    "position": "Top panel: Speech bubbles are above and beside each character. Bottom panel: Text appears within an adjoining speech bubble near the respective character."
+  },
+  "content_structure": "The meme uses a reaction format with a setup and punchline. The top panel introduces a scenario or statement. The bottom panel depicts a humorous or ironic reaction.",
+  "description": "A humorous two-panel comic where a green character talks about having '2 cents' on an investment, with a speech bubble inviting thoughts. The right character reacts by expressing interest. In the second panel, the green character reveals it actually means losing money, while the right character looks concerned."
+}

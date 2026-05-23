@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "text": "Bitcoin BTC $77,294.00 +0.80%",
+        "position": "top center",
+        "style": "inside black rounded rectangle with orange Bitcoin icon"
+      },
+      {
+        "text": "Probably nothing. $BTC",
+        "position": "top center of the frame, part of the 'X' post"
+      }
+    ],
+    "image_elements": [
+      "Large orange Bitcoin character in the center",
+      "Characters at the bottom looking up"
+    ],
+    "background": "Mountainous setting with a sunrise or sunset effect"
+  },
+  "character_position": {
+    "main_character": {
+      "location": "center",
+      "size_percentage": "Approximately 40% of the image"
+    },
+    "additional_characters": {
+      "location": "bottom",
+      "size_percentage": "Approximately 10% of the image collectively"
+    }
+  },
+  "text_style": {
+    "font_style": "Comic/cartoon-like font",
+    "color": "White text on dark background, Bitcoin in orange",
+    "position": "Centered"
+  },
+  "content_structure": "Reaction format with surprising or ironic twist",
+  "description": "A humorous take on Bitcoin's popularity and value, depicting it as a large, deity-like figure observed by smaller characters, symbolizing its dominance and unpredictability."
+}

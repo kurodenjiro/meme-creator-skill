@@ -1,0 +1,28 @@
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+website/.env
+website/.env.*
+!website/.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Website
+website/node_modules/
+website/.svelte-kit/
+website/build/
+website/.vite/
+
+# Logs and local runtime output
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*

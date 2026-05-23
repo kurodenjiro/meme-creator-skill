@@ -1,0 +1,12 @@
+{
+  "layout": "The meme consists of a cartoon character centered in the image with text above and below. The background is plain white.",
+  "character_position": "The character is positioned in the center, occupying approximately 40% of the image height.",
+  "text_style": {
+    "font": "Comic-like, bold",
+    "style": "Colorful, gradient text with a playful appearance",
+    "color": "Rainbow gradient",
+    "position": "Text 'omg' is at the top, 'a hit tweet' is at the bottom"
+  },
+  "content_structure": "Reaction style",
+  "description": "A cartoon character expressing surprise or excitement about having a popular tweet, as suggested by the colorful, attention-grabbing text."
+}

@@ -1,0 +1,18 @@
+{
+  "layout": {
+    "text": "Centered horizontally across the image",
+    "character": "On the left, jumping towards the right",
+    "background": "Gray gradient with a cliff on the right"
+  },
+  "character_position": {
+    "location": "Top left quadrant",
+    "size_percentage": "Approximately 20% of the image"
+  },
+  "text_style": {
+    "font": "Bold, cartoonish style",
+    "color": "Yellow with a glow effect",
+    "position": "Horizontally centered"
+  },
+  "content_structure": "Reaction format, emphasizing a milestone or achievement",
+  "description": "A cartoon character is joyfully jumping off a cliff with the text 'VESTING CLIFF REACHED' indicating a sense of accomplishment."
+}

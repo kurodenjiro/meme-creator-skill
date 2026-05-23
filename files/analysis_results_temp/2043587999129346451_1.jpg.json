@@ -1,0 +1,23 @@
+{
+  "layout": {
+    "background": "YouTube interface with video and search bar",
+    "text_bubbles": "Two speech bubbles with text",
+    "characters": "Animated frog and another character on a chair with laptop",
+    "foreground_elements": "Character with laptop at a table"
+  },
+  "character_position": {
+    "frog": "Centered in the upper half of the image, occupying around 40%",
+    "table_character": "Bottom right, sitting at a table with laptop, occupying about 20%"
+  },
+  "text_style": {
+    "font": "Bold, cartoonish style",
+    "bubble_text": "Black text on white speech bubbles",
+    "banner_text": "White text on black background at the bottom of video",
+    "text_placement": "Speech bubbles near character positions"
+  },
+  "content_structure": {
+    "format": "Dialogue-based humor with a scenario from everyday life",
+    "message": "Contrasts between mundane activities and unexpected or humorous responses"
+  },
+  "description": "A humorous meme depicting a YouTube interface where a frog and another character are engaged in a humorous dialogue about watching videos on YouTube, integrating elements of surprise and irony."
+}

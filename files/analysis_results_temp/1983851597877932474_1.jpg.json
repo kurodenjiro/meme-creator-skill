@@ -1,0 +1,11 @@
+{
+  "layout": "The comic is divided into three panels in a grid layout. The first two panels are on top, side by side, and the third panel is below them, spanning the width of the two upper panels.",
+  "character_position": "Characters are centered in each panel. In the first panel, one character occupies about 60% of the space. In the second and third panels, two characters are visible, each taking roughly equal space, 50%.",
+  "text_style": {
+    "font": "Handwritten style, resembling comic sans",
+    "color": "Black text with white fill inside speech bubbles",
+    "position": "Text is positioned inside speech bubbles near the characters' heads."
+  },
+  "content_structure": "The meme uses a reaction format with a humorous twist, playing on an unexpected revelation and response.",
+  "description": "The first panel shows one character struggling to remove its helmet. The second panel reveals another character surprised about a situation. The third panel concludes the interaction with both characters agreeing not to discuss the topic, implying embarrassment or discomfort."
+}

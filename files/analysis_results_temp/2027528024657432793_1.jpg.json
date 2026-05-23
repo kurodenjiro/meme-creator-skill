@@ -1,0 +1,11 @@
+{
+  "layout": "The image comprises two main characters placed on a gray background. The left character is standing on a pile of money, aiming a bow at another character on the right. The text bubble is located in the upper right region, near the character on the right.",
+  "character_position": "The left character occupies about 30% of the image width, standing on the bottom left on top of a pile of money. The right character is smaller, about 20% of the image width, lying on the bottom right.",
+  "text_style": {
+    "font_guess": "Comic-style bold font",
+    "color": "Black text within a white speech bubble",
+    "position": "Upper right corner near the right character"
+  },
+  "content_structure": "Reaction meme with a dialogue format. The left character represents action, and the right character responds.",
+  "description": "A cartoon-style meme showing a character with a bow aiming at another character filled with arrows, lying on the ground. The speech bubble from the right character expresses exhaustion over 'winning'."
+}

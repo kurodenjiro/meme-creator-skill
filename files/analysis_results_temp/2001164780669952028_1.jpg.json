@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two main sections: the left side with a door and a character peeking in, and the right side with another character at a desk with a microphone. Text bubbles are used for dialogue.",
+  "character_position": "The first character stands in the door and occupies around 20% of the image. The second character sits by the desk, occupying around 30% of the image.",
+  "text_style": {
+    "font": "Handwritten comic style",
+    "color": "Black text with a white background inside speech bubbles",
+    "position": "Top right and bottom left of the characters"
+  },
+  "content_structure": "The meme follows a reaction format, depicting a humorous dialogue between a parent and child about a career change.",
+  "description": "This meme portrays a conversation where one character asks about crypto, and the other humorously declares a shift to trading stocks, emphasizing changing trends."
+}

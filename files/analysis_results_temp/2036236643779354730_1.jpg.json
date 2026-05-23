@@ -1,0 +1,31 @@
+{
+  "layout": {
+    "panel_count": 2,
+    "first_panel_layout": {
+      "title_position": "top left",
+      "dialogue_position_left": "above the character",
+      "dialogue_position_right": "to the right of the character"
+    },
+    "second_panel_layout": {
+      "title_position": "top left",
+      "dialogue_position_left": "above the character",
+      "dialogue_position_right": "above the character"
+    },
+    "character_placement": "centered in each panel"
+  },
+  "character_position": {
+    "position": "center",
+    "size_percentage": "approximately 50%"
+  },
+  "text_style": {
+    "font": "handwritten, comic style",
+    "style": "bold, all uppercase",
+    "color": "black text on white speech bubble",
+    "text_position": "speech bubbles near characters"
+  },
+  "content_structure": {
+    "format": "Comparison between bull and bear markets",
+    "theme": "economic humor"
+  },
+  "description": "This meme compares two financial market conditions: bull and bear markets. In the bull market panel, the character confidently quotes a high price for Bitcoin. In the bear market panel, the character has no idea of the Bitcoin price, highlighting the unpredictability and sentiment changes in different market conditions."
+}

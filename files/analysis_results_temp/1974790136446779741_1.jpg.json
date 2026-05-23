@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "panels": 3,
+    "panel_divider": "horizontal lines",
+    "text_bubble": {
+      "position": "top left in first panel",
+      "shape": "rounded rectangle",
+      "tail": "pointing to the character on the left"
+    },
+    "characters": "left and right, facing each other"
+  },
+  "character_position": {
+    "left_character": {
+      "position": "left side in each panel",
+      "size_percentage": "approximately 30% of each panel"
+    },
+    "right_character": {
+      "position": "right side in each panel",
+      "size_percentage": "approximately 40% of the second panel"
+    }
+  },
+  "text_style": {
+    "font": "handwritten",
+    "color": "black",
+    "position": "inside text bubble",
+    "message": "Hey guys! I hit a new all time high!"
+  },
+  "content_structure": {
+    "type": "reaction meme",
+    "flow": "positive declaration followed by ironic or negative reaction"
+  },
+  "description": "This meme uses a sequence of panels to portray a character's excitement about an achievement followed by an immediate negative reaction, which is expressed humorously through exaggerated character expressions and positions."
+}

@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "background": "gray with white border",
+    "text_elements": [],
+    "central_theme": "character holding items"
+  },
+  "character_position": {
+    "location": "center-left",
+    "size_percentage": "approximately 30%"
+  },
+  "text_style": {
+    "font": "not specified",
+    "color": "black for characters",
+    "position": "not applicable"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "elements": "a character holding a butterfly net and a jar with a butterfly resembling Bitcoin symbol"
+  },
+  "description": "A character depicted as a coin or bean-like figure holding a net and a jar, suggesting capturing or acquiring something valuable."
+}

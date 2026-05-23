@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "panels": 3,
+    "panel_structure": "single column",
+    "text_placement": "top and within panels, speech bubbles"
+  },
+  "character_position": {
+    "main_character": "left side in each panel",
+    "other_characters": "right side in the first panel, not present in others",
+    "character_size_percentage": "30-40%"
+  },
+  "text_style": {
+    "font_estimate": "handwritten, bold",
+    "colors": "black on white speech bubbles",
+    "text_position": "top of first panel, within the panels in speech bubbles"
+  },
+  "content_structure": {
+    "type": "reaction",
+    "theme": "decentralization vs. centralization in blockchain"
+  },
+  "description": "This meme comic consists of three panels featuring humorous dialogue about the tension between decentralization and centralization in blockchain technology. The text is presented in speech bubbles with a handwritten style."
+}

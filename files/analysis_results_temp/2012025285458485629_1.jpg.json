@@ -1,0 +1,11 @@
+{
+  "layout": "Bức meme được chia thành hai phần hộp chữ nhật được xếp chồng lên nhau. Phần trên là một thông điệp của tài khoản nhỏ, phần dưới là phản hồi từ tài khoản lớn và một lần nữa gồm cả thông điệp từ tài khoản nhỏ.",
+  "character_position": "Nhân vật đại diện cho tài khoản nằm ở góc trái bên cạnh tên tài khoản. Kích thước nhân vật chiếm khoảng 10-15% tổng diện tích của từng phần hộp.",
+  "text_style": {
+    "font": "Font có kiểu dáng giống chữ viết tay, không xác định chính xác.",
+    "color": "Màu chữ chính là màu đen. Màu số lượng like là đỏ đối với tài khoản nhỏ (27) và đỏ hồng đối với tài khoản lớn (302k).",
+    "position": "Chữ nằm ngay bên phải của biểu tượng nhân vật và được căn lề trái. Số lượng like đặt ở dưới cùng bên trái."
+  },
+  "content_structure": "Meme này sử dụng format so sánh theo kiểu parody, nhấn mạnh sự tương tác khác biệt giữa tài khoản nhỏ và lớn mặc dù cùng nội dung.",
+  "description": "Bức meme của boldleonidas miêu tả cách một tweet tương tự có lượng tương tác khác nhau khi được đăng bởi tài khoản nhỏ và tài khoản lớn."
+}

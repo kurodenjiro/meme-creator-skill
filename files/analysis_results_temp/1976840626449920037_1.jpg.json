@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two panels, side by side. Each panel contains a character and speech bubble. There is a title text at the top of the second panel.",
+  "character_position": "The character is positioned centrally in each panel, occupying about 30% of the panel's height. The character is sitting in front of a computer screen, which takes up the lower part of the panel.",
+  "text_style": {
+    "font": "Handwritten style (comic-like, bold)",
+    "color": "Black",
+    "position": "Speech bubbles are at the top left within the panels. The title text ('1 MINUTE LATER') is at the top center of the second panel."
+  },
+  "content_structure": "The meme uses a compare and contrast format. The left panel shows an initial reaction, while the right panel presents the outcome.",
+  "description": "The meme depicts a character reacting to a financial situation. Initially excited about a successful bid, the character later realizes the bid was liquidated."
+}

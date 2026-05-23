@@ -1,0 +1,39 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "text": "THE COIN",
+      "main_text": "ASTER",
+      "star": "top right"
+    },
+    "panel_2": {
+      "text": "THE PRODUCT",
+      "red_text": "DIS",
+      "main_text": "ASTER",
+      "chart": "right"
+    }
+  },
+  "character_position": {
+    "panel_1": {
+      "position": "left",
+      "size_percentage": 20
+    },
+    "panel_2": {
+      "position": "left bottom",
+      "size_percentage": 20
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn",
+    "color": {
+      "text": "black",
+      "highlight": "red for DIS"
+    },
+    "position": {
+      "top_panel": "top left and center",
+      "bottom_panel": "top left and center"
+    }
+  },
+  "content_structure": "Comparison between expected and actual outcome",
+  "description": "The meme contrasts expectations vs reality using alterations in text and visual elements. In the top panel, 'ASTER' is associated with success, depicted by a rising star. In the bottom panel, 'DIS' is added to form 'DISASTER', with a negative chart indicating failure."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "Three-panel comic strip with alternating characters having conversations across a table. Each panel has a text bubble with dialogue above or near the characters.",
+  "character_position": "Characters are seated at a table, each occupying roughly 20-30% of the panel space. One character is on the left with a hat, the other is a green figure on the right.",
+  "text_style": {
+    "font": "Bold, all-uppercase sans-serif (assumed).",
+    "color": "Black text on white speech bubbles with black outlines.",
+    "position": "Text is positioned in speech bubbles above or to the side of the characters."
+  },
+  "content_structure": "Conversational format with observational humor. Each panel presents one part of a dialogue that builds on the previous one to create a humorous effect.",
+  "description": "A meme featuring two cartoon characters at a table discussing the lack of benefits from quitting caffeine, expressed with conversational humor."
+}

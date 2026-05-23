@@ -1,0 +1,24 @@
+{
+  "layout": {
+    "panels": 3,
+    "text_bubbles": "Left side in the first two panels, filling most of the left half. Text is directly written on the left side of the third panel's background.",
+    "background": "Gray with white outlines around characters and text."
+  },
+  "character_position": {
+    "left_character": {
+      "position": "Left side of each panel",
+      "size_percentage": "Approximately 30-35%"
+    },
+    "right_character": {
+      "position": "Right side of each panel",
+      "size_percentage": "Approximately 30-35%"
+    }
+  },
+  "text_style": {
+    "font_guess": "Bold, comic sans style",
+    "color": "Black",
+    "position": "Inside speech bubbles except the third panel, left side"
+  },
+  "content_structure": "Conversational exchange where one character points out shortcomings of the other, leading to a comedic or sarcastic reaction.",
+  "description": "A meme featuring a conversation between two characters where one character, equipped with headphones, comments critically on the other character's obsession, culminating in a funny reaction. It follows a triple-panel dialogue format, using speech bubbles and simple illustrative style."
+}

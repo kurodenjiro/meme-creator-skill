@@ -1,0 +1,73 @@
+{
+  "layout": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "elements": [
+          {
+            "type": "character",
+            "description": "Wizard-like character",
+            "position": "left"
+          },
+          {
+            "type": "character",
+            "description": "Bearded character sitting at a desk",
+            "position": "right"
+          },
+          {
+            "type": "speech_bubble",
+            "text": "CJ! They found your wallet!",
+            "position": "top center"
+          },
+          {
+            "type": "screen",
+            "description": "Graph with descending red and green marks",
+            "position": "right"
+          }
+        ]
+      },
+      {
+        "panel_number": 2,
+        "elements": [
+          {
+            "type": "character",
+            "description": "Bearded character reacting with stress",
+            "position": "left"
+          },
+          {
+            "type": "text",
+            "text": "ARGHHHH!",
+            "position": "speech_bubble_left"
+          },
+          {
+            "type": "text",
+            "text": "*click* *click* *click*",
+            "position": "bottom left beside character"
+          },
+          {
+            "type": "screen",
+            "description": "Continued graph with more details",
+            "position": "right"
+          }
+        ]
+      }
+    ]
+  },
+  "character_position": {
+    "wizard_character": "left, small to medium size",
+    "bearded_character": "right, then left, medium size",
+    "occupies": [
+      "25%",
+      "30%"
+    ]
+  },
+  "text_style": {
+    "font_guess": "Handwritten style",
+    "color": "Black and white speech bubbles",
+    "placement": "Above characters in speech bubbles"
+  },
+  "content_structure": {
+    "format": "Reaction"
+  },
+  "description": "The meme is a two-panel format. The first panel shows a wizard-like character informing a bearded character of bad financial news depicted on a screen. The second panel features the bearded character reacting with stress."
+}

@@ -1,0 +1,35 @@
+{
+  "layout": {
+    "header": "TRADE OFFER",
+    "header_position": "top center",
+    "header_background_color": "red",
+    "header_text_color": "white",
+    "header_icon": "warning",
+    "text_areas": [
+      {
+        "text": "I GIVE YOU: COMICS FOR UPONLY 2025",
+        "position": "left of character",
+        "background_shape": "rounded rectangle"
+      },
+      {
+        "text": "YOU GIVE ME $1,000,000",
+        "position": "right of character",
+        "background_shape": "rounded rectangle"
+      }
+    ]
+  },
+  "character_position": {
+    "position_in_frame": "center",
+    "size_percent": "50%"
+  },
+  "text_style": {
+    "font": "handwritten-style",
+    "color": "black",
+    "background_color": "white",
+    "text_position": "above character"
+  },
+  "content_structure": {
+    "format": "negotiation offer"
+  },
+  "description": "A comic frog character is at the center with a trade offer. The offer is presented in a format where the character is willing to give comics in exchange for a large sum of money. The format uses bold and contrasting text to highlight the nature of the trade, with cartoon-like visuals."
+}

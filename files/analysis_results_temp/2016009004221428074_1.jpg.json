@@ -1,0 +1,60 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_boxes": [
+      {
+        "panel": 1,
+        "position": "left",
+        "shape": "speech bubble"
+      },
+      {
+        "panel": 2,
+        "position": "right",
+        "shape": "speech bubble"
+      }
+    ],
+    "characters": [
+      {
+        "panel": 1,
+        "position": "left"
+      },
+      {
+        "panel": 1,
+        "position": "right"
+      },
+      {
+        "panel": 2,
+        "position": "left"
+      }
+    ]
+  },
+  "character_position": {
+    "panel_1": {
+      "character_1": {
+        "position": "left",
+        "size_percentage": 40
+      },
+      "character_2": {
+        "position": "right",
+        "size_percentage": 30
+      }
+    },
+    "panel_2": {
+      "character": {
+        "position": "left",
+        "size_percentage": 70
+      }
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn",
+    "color": "black",
+    "outline": "white",
+    "text_position": "inside speech bubbles"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "scenario": "unexpected statement causing surprise"
+  },
+  "description": "This meme consists of two panels. In the first, a character on the left makes a statement about metals and vampires, commented on by a character on the right. In the second panel, a new character reacts with surprise and urgency."
+}

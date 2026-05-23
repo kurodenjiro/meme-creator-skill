@@ -1,0 +1,12 @@
+{
+  "layout": "Characters are positioned on the left side of the image within a wooden lookout. Two lines of text are present: one at the top and one at the bottom of the image. The background consists of a gradient sky.",
+  "character_position": "The characters occupy approximately 40% of the lower left of the image, with one character looking through a telescope and the other next to them, appearing surprised.",
+  "text_style": {
+    "font_estimate": "Bold, uppercase sans-serif",
+    "appearance": "Text is black with a white outline, positioned at the top and bottom across the width of the image.",
+    "color": "Black text with white outline for contrast.",
+    "position": "Top text: 'The magic you are looking for', bottom text: 'is in the work you are avoiding.'"
+  },
+  "content_structure": "The meme uses a motivational quote format, juxtaposing the action of searching with avoiding necessary work.",
+  "description": "A humorous and motivational meme featuring two animated characters in a crow's nest. One character is peering through a telescope, referencing searching or discovery, while text emphasizes the idea that the 'magic' or success lies in the work that one might be avoiding."
+}

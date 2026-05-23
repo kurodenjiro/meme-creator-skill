@@ -1,0 +1,50 @@
+{
+  "layout": {
+    "text_components": [
+      {
+        "content": "HERE'S $2000!",
+        "position": "top left",
+        "background": "white speech bubble"
+      },
+      {
+        "content": "THANKS! NOW I'VE ONLY GOT 49 YEARS AND 11 MONTHS OF MORTGAGE PAYMENTS LEFT!",
+        "position": "top right",
+        "background": "white speech bubble"
+      }
+    ],
+    "characters": [
+      {
+        "position": "left",
+        "description": "Character with blonde hair in a suit giving money"
+      },
+      {
+        "position": "right",
+        "description": "Wizard character receiving money"
+      }
+    ],
+    "background": "gray"
+  },
+  "character_position": {
+    "left_character": {
+      "position": "left",
+      "size_percentage": "30%"
+    },
+    "right_character": {
+      "position": "right",
+      "size_percentage": "30%"
+    }
+  },
+  "text_style": {
+    "font_type": "handwritten-style",
+    "color": "black",
+    "speech_bubble": {
+      "background": "white",
+      "border": "black"
+    }
+  },
+  "content_structure": {
+    "format_type": "comparison",
+    "theme": "financial humor"
+  },
+  "description": "A meme featuring a humorous exchange between two characters where one character is giving money with a positive statement, while the other responds with a humorous reality check about a large mortgage."
+}

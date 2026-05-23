@@ -1,0 +1,11 @@
+{
+  "layout": "Bức ảnh có bố cục gồm hai phần chính: một chiếc thuyền buồm màu trắng ở phía bên trái và một thuyền khác đang chìm ở phía bên phải. Bầu trời xanh với một đám mây phía trên làm nền.",
+  "character_position": "Nhân vật chính nằm trên chiếc thuyền bên trái, chiếm khoảng 20% khung hình.",
+  "text_style": {
+    "font_guess": "Comic style",
+    "color": "Đen",
+    "position": "Tên thương hiệu 'Magic Eden' trên lá cờ của thuyền chìm và chữ 'GLUG' bên cạnh."
+  },
+  "content_structure": "Meme hoạt động theo định dạng so sánh, sử dụng hình ảnh hai thuyền để tạo ra sự tương phản.",
+  "description": "Meme với hình ảnh thuyền và nhân vật hài hước. Chiếc thuyền bên trái với nhân vật vui vẻ đối lập với chiếc thuyền chìm mang tên 'Magic Eden'."
+}

@@ -1,0 +1,36 @@
+{
+  "layout": {
+    "panels": 2,
+    "elements": [
+      {
+        "type": "character",
+        "position": "left",
+        "description": "Purple character wearing a cap labeled 'PRO'."
+      },
+      {
+        "type": "text",
+        "position": "left",
+        "description": "Black text, bold, capital letters."
+      },
+      {
+        "type": "background_graph",
+        "position": "right",
+        "description": "Graph with blue line and green/red bars."
+      }
+    ]
+  },
+  "character_position": {
+    "position": "left",
+    "size_percentage": 40
+  },
+  "text_style": {
+    "font": "bold, capital letters",
+    "color": "black",
+    "position": "left"
+  },
+  "content_structure": {
+    "format": "two-panel reaction",
+    "message": "Unexpected outcome despite planning."
+  },
+  "description": "The meme features a purple character with a 'PRO' cap analyzing a failing graph, humorously remarking on their poor math skills."
+}

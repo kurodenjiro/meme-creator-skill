@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text_elements": "Top right above characters in a speech bubble",
+    "characters": "Two cartoon characters facing a painting at the center",
+    "background": "Plain with a framed painting in the center"
+  },
+  "character_position": {
+    "location": "Lower half of the image, facing forward",
+    "size_percentage": "Approximately 30% of the image height"
+  },
+  "text_style": {
+    "font_guess": "Bold handwritten style",
+    "color": "Black",
+    "placement": "Speech bubble right of the characters"
+  },
+  "content_structure": {
+    "format": "Reaction"
+  },
+  "description": "The image depicts two cartoon characters examining a painting. The one on the right expresses enthusiasm which changes to disdain upon learning the painting is AI-generated, captured in a humorous reaction style."
+}

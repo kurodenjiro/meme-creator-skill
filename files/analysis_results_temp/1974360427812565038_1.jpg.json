@@ -1,0 +1,40 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "BRO, NGL I SPENT ALL THE SPHERE FUNDS ON HOOKERS",
+        "position": "top left",
+        "background": "speech bubble",
+        "color": "blue and white"
+      }
+    ],
+    "characters": [
+      {
+        "position": "left center",
+        "description": "character with a device"
+      },
+      {
+        "position": "right center",
+        "description": "character peeking over, looking surprised"
+      }
+    ],
+    "background": "plain"
+  },
+  "character_position": {
+    "main_character": {
+      "location": "left",
+      "size_percentage": 40
+    },
+    "secondary_character": {
+      "location": "right",
+      "size_percentage": 25
+    }
+  },
+  "text_style": {
+    "font_guess": "bold, rounded",
+    "color": "white on blue background",
+    "placement": "on speech bubble from device"
+  },
+  "content_structure": "reaction",
+  "description": "The meme features a character looking at a device with a shocking message, while another character is peeking over, visibly surprised."
+}

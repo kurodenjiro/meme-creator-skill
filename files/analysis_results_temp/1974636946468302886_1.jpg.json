@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_bubbles": "Top left for both panels",
+    "characters": "Left, center, and right positions",
+    "background": "Graph with lines and text in right panel area"
+  },
+  "character_position": {
+    "pink_character": {
+      "position": "Left",
+      "size_percentage": 30
+    },
+    "green_character": {
+      "position": "Center",
+      "size_percentage": 30
+    },
+    "blue_character": {
+      "position": "Right",
+      "size_percentage": 30
+    }
+  },
+  "text_style": {
+    "font": "Handwritten style",
+    "color": "Black",
+    "position": "Inside white speech bubbles",
+    "bubble_outline": "Black"
+  },
+  "content_structure": {
+    "format": "Comparison/Revelation",
+    "theme": "Investing and gambling addiction"
+  },
+  "description": "A two-panel comic with characters discussing investing, implying it's akin to gambling, using humorous text and expressions."
+}

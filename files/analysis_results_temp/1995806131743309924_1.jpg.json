@@ -1,0 +1,38 @@
+{
+  "layout": {
+    "text": [
+      {
+        "content": "omg",
+        "position": "top",
+        "color": "rainbow",
+        "font_style": "bold"
+      },
+      {
+        "content": "a hit tweet",
+        "position": "bottom",
+        "color": "rainbow",
+        "font_style": "bold"
+      }
+    ],
+    "character": {
+      "position": "center",
+      "size_percentage": "30%",
+      "alignment": "middle"
+    },
+    "background": "white"
+  },
+  "character_position": {
+    "location": "center",
+    "size_ratio": "approximately 30% of the image"
+  },
+  "text_style": {
+    "font": "unknown",
+    "style": "bold and colorful",
+    "color": "rainbow gradient",
+    "placement": "one line at the top, one line at the bottom"
+  },
+  "content_structure": {
+    "format": "reaction"
+  },
+  "description": "The meme features a cartoon character in the center with wide eyes, looking humorous and surprised. The text 'omg' is placed at the top and 'a hit tweet' is placed at the bottom, both in a bold rainbow gradient font."
+}

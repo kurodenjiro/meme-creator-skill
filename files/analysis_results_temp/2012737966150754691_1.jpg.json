@@ -1,0 +1,11 @@
+{
+  "layout": "Bức ảnh chia thành hai phần ngang song song, mỗi phần có một nhân vật và văn bản bên cạnh.",
+  "character_position": "Nhân vật nằm bên trái khung hình trong mỗi khung, chiếm khoảng 40% diện tích của mỗi khung.",
+  "text_style": {
+    "font_guess": "Phông chữ có vẻ là kiểu chữ tay, đơn giản và dày.",
+    "appearance": "Chữ màu đen, tô đậm, nằm bên phải trong mỗi khung.",
+    "position": "Text đặt ở trung tâm bên phải mỗi khung hình."
+  },
+  "content_structure": "Meme sử dụng định dạng so sánh giữa hai tình huống khác nhau qua hai khung hình.",
+  "description": "Bức ảnh thể hiện một nhân vật tím với biểu cảm khác nhau ở hai khung hình, cùng với các dòng chữ 'REPLY SLOP' và 'ARTICLE SLOP' bên cạnh. Meme này có thể liên quan đến sự khác biệt về ý nghĩa hoặc cảm nhận của hai tình huống được đề cập."
+}

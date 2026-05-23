@@ -1,0 +1,28 @@
+{
+  "layout": {
+    "text_boxes": "Speech bubbles are used for dialogue. Each panel has its own speech bubbles, often oriented to the character speaking.",
+    "panels": "Three horizontal panels stacked vertically.",
+    "characters": "Two characters positioned on the left and right sides of each panel."
+  },
+  "character_position": {
+    "left_character": {
+      "position": "Left side of each panel.",
+      "size_percentage": "Approximately 30% of each panel width."
+    },
+    "right_character": {
+      "position": "Right side of each panel.",
+      "size_percentage": "Approximately 30% of each panel width."
+    }
+  },
+  "text_style": {
+    "font": "Comic-style font.",
+    "style": "Bold and uppercase letters.",
+    "color": "Black text with white background in speech bubbles.",
+    "text_position": "Centered within speech bubbles, pointing to characters."
+  },
+  "content_structure": {
+    "format": "Dialogue-based comic strip, with characters discussing a topic humorously.",
+    "theme": "Humorous take on announcement and reality."
+  },
+  "description": "The comic involves two cartoonish characters having a humorous dialogue over three panels, discussing an announcement and the reality of it."
+}

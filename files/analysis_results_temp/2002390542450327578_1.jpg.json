@@ -1,0 +1,68 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "position": "top-left",
+        "content": "WHAT THE HELL IS THIS?!",
+        "text_bubble": true
+      },
+      {
+        "position": "middle-left",
+        "content": "BABE, I CAN EXPLAIN",
+        "text_bubble": true
+      }
+    ],
+    "characters": [
+      {
+        "position": "left",
+        "description": "Character in the form of a computer monitor, standing near the door."
+      },
+      {
+        "position": "center",
+        "description": "Round character with a 'C' shape, lying in bed."
+      },
+      {
+        "position": "right",
+        "description": "Rectangle/square character resembling a tablet or phone, lying next to the round character."
+      },
+      {
+        "position": "background-left",
+        "description": "Two small characters peeking from behind the door."
+      }
+    ],
+    "background_elements": [
+      {
+        "position": "right",
+        "description": "A lamp and candles on a bedside table."
+      }
+    ]
+  },
+  "character_position": {
+    "screen_character": {
+      "position": "left",
+      "size_percent": 20
+    },
+    "round_character": {
+      "position": "center",
+      "size_percent": 30
+    },
+    "rectangle_character": {
+      "position": "right",
+      "size_percent": 30
+    },
+    "peeking_characters": {
+      "position": "left-background",
+      "size_percent": 10
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn",
+    "color": "black",
+    "placement": "within text bubbles"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "base_situation": "A surprising and humorous relationship misunderstanding scenario."
+  },
+  "description": "The meme depicts a humorous scenario with characters representing different electronic devices. The main characters are confronted in a bedroom setting, with text bubbles expressing shock and trying to explain."
+}

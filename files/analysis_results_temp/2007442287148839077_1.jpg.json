@@ -1,0 +1,11 @@
+{
+  "layout": "The image is a two-panel comic. The top panel features two characters with speech bubbles above them. The bottom panel shows the same characters in a different pose.",
+  "character_position": "Characters are centered in both panels, occupying approximately 50-70% of the horizontal space.",
+  "text_style": {
+    "font": "Bold, handwritten style",
+    "color": "Black",
+    "position": "Speech bubbles positioned close to characters' heads, top-left and top-right in each panel."
+  },
+  "content_structure": "The meme uses a two-part conversation and visual reaction to convey humor. It starts with a complaint and follows with a humorous suggestion, using visual absurdity in the second panel.",
+  "description": "A comic with two characters: one is frustrated with an algorithm affecting their reach, and the other suggests adding a bikini as a humorous solution."
+}

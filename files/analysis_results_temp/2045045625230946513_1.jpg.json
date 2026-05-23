@@ -1,0 +1,100 @@
+{
+  "layout": {
+    "panels": 3,
+    "text_boxes": [
+      {
+        "position": "top_left",
+        "panel": 1
+      },
+      {
+        "position": "top_right",
+        "panel": 1
+      },
+      {
+        "position": "top_left",
+        "panel": 2
+      },
+      {
+        "position": "top_right",
+        "panel": 2
+      },
+      {
+        "position": "bottom_right",
+        "panel": 3
+      }
+    ],
+    "characters": [
+      {
+        "position": "left",
+        "panel": 1
+      },
+      {
+        "position": "right",
+        "panel": 1
+      },
+      {
+        "position": "left",
+        "panel": 2
+      },
+      {
+        "position": "right",
+        "panel": 2
+      },
+      {
+        "position": "left",
+        "panel": 3
+      },
+      {
+        "position": "right",
+        "panel": 3
+      }
+    ],
+    "objects": [
+      {
+        "position": "center",
+        "type": "lemonade_stand",
+        "panels": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "character_position": [
+    {
+      "character": "child",
+      "panels": [
+        1,
+        2,
+        3
+      ],
+      "percentage": 20
+    },
+    {
+      "character": "parent",
+      "panels": [
+        1,
+        2
+      ],
+      "percentage": 20
+    },
+    {
+      "character": "businessman",
+      "panel": 3,
+      "percentage": 20
+    }
+  ],
+  "text_style": {
+    "font": "bold and rounded",
+    "color": "black",
+    "text_position": "inside_speech_bubbles",
+    "speech_bubble_outline": "black"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "panels": 3,
+    "narrative": "pivot in business strategy leading to a humorous outcome"
+  },
+  "description": "This meme shows a lemonade stand failing to sell, a suggestion to pivot, and a sudden business acquisition. It's a play on startup culture and business pivots."
+}

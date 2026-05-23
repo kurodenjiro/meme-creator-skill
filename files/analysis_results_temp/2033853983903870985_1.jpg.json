@@ -1,0 +1,34 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_division": "vertical split",
+    "titles_position": "top of each panel"
+  },
+  "character_position": {
+    "panel_1": {
+      "object": "green rectangle with lines",
+      "position": "center",
+      "size_percentage": 70
+    },
+    "panel_2": {
+      "object": "green candle",
+      "position": "center",
+      "size_percentage": 70
+    }
+  },
+  "text_style": {
+    "font_guess": "handwritten",
+    "text_color": "black",
+    "background_color": "white",
+    "panel_titles": {
+      "text_1": "DLSS 5 OFF",
+      "text_2": "DLSS 5 ON",
+      "position": "top center of each panel"
+    }
+  },
+  "content_structure": {
+    "format": "comparison",
+    "elements": "symbolic abstract graphics"
+  },
+  "description": "The meme compares two states labeled 'DLSS 5 OFF' and 'DLSS 5 ON', using a simple green rectangle in the first panel and a more detailed green candle with melting wax in the second panel to symbolize improvement or enhancement."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "Bức ảnh được chia thành ba phần. Phần trên cùng có hai nhân vật và văn bản hội thoại, phần giữa là một cảnh nhìn qua ống nhòm, và phần dưới cùng có văn bản nhận xét.",
+  "character_position": "Nhân vật nằm ở phần trên cùng bên trái và giữa bên phải trong phần thứ ba của hình ảnh. Kích thước chiếm khoảng 20% mỗi phần.",
+  "text_style": {
+    "font": "Phông chữ in đậm, viết tay",
+    "text_color": "Màu đen cho văn bản thông thường, đỏ cho chữ 'WARNING!'",
+    "placement": "Văn bản nằm trong các ô thoại với nền trắng, viền đen, trong từng phần tương ứng."
+  },
+  "content_structure": "Meme này sử dụng định dạng phản ứng. Bắt đầu với một thông tin nghe có vẻ tích cực, kế đến là việc tiết lộ sự thật, và kết thúc với một phán xét.",
+  "description": "Meme này miêu tả một tình huống hài hước khi một nhận diện sự thật đằng sau những nhận xét tích cực, trực diện về sản phẩm qua ống nhòm và kết thúc bằng việc từ chối ý kiến ban đầu."
+}

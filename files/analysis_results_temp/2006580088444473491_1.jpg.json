@@ -1,0 +1,11 @@
+{
+  "layout": "Bức meme được chia thành hai phần chính: bên trái là cánh cửa mở và hai nhân vật đang đứng; bên phải là cảnh các biểu tượng tiền ảo đang ngủ trên giường. Văn bản nằm phía trên bên trái, trong một bong bóng thoại.",
+  "character_position": "Các nhân vật đứng bên trái khung hình chiếm khoảng 25% diện tích. Các biểu tượng tiền ảo nằm bên phải chiếm khoảng 75% diện tích khung hình.",
+  "text_style": {
+    "font": "Chữ viết tay, phong cách đậm",
+    "color": "Đen",
+    "position": "Nằm bên trong bong bóng thoại phía trên bên trái"
+  },
+  "content_structure": "Meme theo dạng reaction, dùng hình tượng các biểu tượng tiền ảo đang ngủ để nói về tình trạng một số đồng tiền ảo.",
+  "description": "Meme này sử dụng hai nhân vật đang mở cửa nhìn vào cảnh những biểu tượng tiền ảo đang ngủ, kèm theo dòng chữ thoại diễn tả việc không muốn làm phiền."
+}

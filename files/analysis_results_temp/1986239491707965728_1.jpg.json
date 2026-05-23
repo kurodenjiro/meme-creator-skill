@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "background": "Sân bóng rổ với khán giả",
+    "characters": "Các nhân vật hoạt hình, chủ yếu ở tiền cảnh",
+    "text_positions": "Phần lớn ở góc trên bên phải và trên đầu các nhân vật"
+  },
+  "character_position": {
+    "main_character": "Góc phải giữa, chiếm khoảng 30% khung hình",
+    "additional_characters": "Bên trái và dưới rổ, chiếm khoảng 40% khung hình"
+  },
+  "text_style": {
+    "font": "Có vẻ là phông kiểu hoạt hình",
+    "color": "Màu xanh lá cây cho chữ số trên đồng hồ, đỏ và xanh lá cho các từ khác",
+    "positions": "Trên đồng hồ và bên trên một số nhân vật"
+  },
+  "content_structure": {
+    "format": "Reaction",
+    "elements": "Cảm xúc và hành động của nhân vật trong tình huống thể thao"
+  },
+  "description": "Meme mô tả một trận bóng rổ giả định giữa các nhân vật hoạt hình, sử dụng các biểu cảm hài hước để thể hiện phản ứng trong một trận đấu thể thao."
+}

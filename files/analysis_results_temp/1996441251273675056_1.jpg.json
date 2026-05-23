@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two main sections with a character on the left and another on the right. Text is placed in speech bubbles above each character's head.",
+  "character_position": "The character on the left occupies about 30% of the width of the image, while the character on the right occupies about 40%. Both characters are positioned towards the bottom half of the image.",
+  "text_style": {
+    "font": "Bold, handwritten style",
+    "color": "Black",
+    "placement": "Inside speech bubbles above the characters"
+  },
+  "content_structure": "The meme uses a dialogue format, contrasting two perspectives: an employee quitting and a positive market trend.",
+  "description": "The meme depicts a humorous conversation between two characters: an employee and a pill-shaped character. The employee expresses surprise at the other character quitting a job so soon, while the other character enthusiastically mentions a positive financial trend."
+}

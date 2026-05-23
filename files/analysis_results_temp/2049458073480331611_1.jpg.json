@@ -1,0 +1,56 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_boxes": [
+      {
+        "panel": 1,
+        "position": "top_right"
+      },
+      {
+        "panel": 2,
+        "position": "left_center"
+      }
+    ],
+    "characters": [
+      {
+        "panel": 1,
+        "position": "left"
+      },
+      {
+        "panel": 2,
+        "position": "right"
+      }
+    ],
+    "background": {
+      "color": "gray",
+      "objects": "trash can"
+    }
+  },
+  "character_position": {
+    "main_character": {
+      "panel_1": "left_center",
+      "panel_2": "right_center"
+    },
+    "size_percentage": "approximately 40%"
+  },
+  "text_style": {
+    "font": "bold, hand-drawn style",
+    "color": "black",
+    "panel_1": "top_right",
+    "panel_2": "left_center"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "dialogue_flow": [
+      {
+        "panel": 1,
+        "text": "WELCOME TO MEGAETH! HERE ARE YOUR TOKENS."
+      },
+      {
+        "panel": 2,
+        "text": "BRO!"
+      }
+    ]
+  },
+  "description": "A two-panel comic featuring two characters where the first character gives tokens to the second one in the first panel, leading to a surprised reaction from the second character in the second panel."
+}

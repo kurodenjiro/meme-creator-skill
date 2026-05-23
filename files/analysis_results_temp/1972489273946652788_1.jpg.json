@@ -1,0 +1,12 @@
+{
+  "layout": "The image has a character in the center with text above and below. The background is plain, allowing the character and text to stand out.",
+  "character_position": "The character is centered, occupying approximately 40-50% of the image height.",
+  "text_style": {
+    "font": "Bold, hand-drawn style",
+    "color": "Black",
+    "upper_text_position": "Top center",
+    "lower_text_position": "Bottom left"
+  },
+  "content_structure": "This meme uses humor to convey disappointment in a playful manner.",
+  "description": "A cartoon character wearing a blue hat with a logo, eyes closed, with text above stating a strong intention followed by a humorous, self-deprecating punchline below."
+}

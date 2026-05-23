@@ -1,0 +1,10 @@
+{
+  "layout": "Bức tranh có hai nhân vật đối diện nhau ở giữa khung hình, với một hộp thoại ở trên. Nhân vật bên trái cầm kiếm, nhân vật bên phải cầm một cây gậy giống như đèn. Nền trắng đơn giản.",
+  "character_position": "Nhân vật bên trái chiếm khoảng 30% khung hình với phần trên cơ thể. Nhân vật bên phải chiếm khoảng 25% khung hình, là một hình tròn lớn hơn to bằng sọc.",
+  "text_style": {
+    "font": "Kiểu chữ viết tay, dễ đọc. Màu chữ là đen, chữ nằm trong hộp thoại phía trên.",
+    "position": "Phía trên bên trái, dòng chữ trong hộp thoại hướng đến từ nhân vật bên trái."
+  },
+  "content_structure": "Reaction. Meme này sử dụng format hài hước với tình huống đối đầu và câu thoại mang tính chất chất vấn để tạo ra phản ứng từ người xem.",
+  "description": "Meme mô tả một tình huống hài hước giữa hai nhân vật, khi một nhân vật bất ngờ trước hành động của người kia sau sự kiện FOMC."
+}

@@ -1,0 +1,57 @@
+{
+  "layout": {
+    "background": "Dark-themed with gradient",
+    "sections": [
+      {
+        "position": "Top",
+        "character": {
+          "profile_picture": "Left side",
+          "details": "Right to the picture"
+        },
+        "info": [
+          {
+            "label": "Total Volume",
+            "value": "$0"
+          },
+          {
+            "label": "Trades",
+            "value": "0"
+          },
+          {
+            "label": "24h PnL",
+            "value": "+$0",
+            "color": "green"
+          },
+          {
+            "label": "Total PnL",
+            "value": "+$0",
+            "color": "green"
+          },
+          {
+            "label": "Account Balance",
+            "value": "$50,000",
+            "color": "light blue"
+          }
+        ]
+      },
+      {
+        "position": "Bottom",
+        "duplicate_structure": "Similar to top section"
+      }
+    ]
+  },
+  "character_position": {
+    "general_position": "Left",
+    "size_percentage": "Approximately 10% of the width"
+  },
+  "text_style": {
+    "font": "Sans-serif (e.g., Arial)",
+    "color": "White and grey for labels, green for PnL, light blue for balance",
+    "placement": "Aligned next to pictures"
+  },
+  "content_structure": {
+    "format": "Comparison",
+    "elements": "Account comparison"
+  },
+  "description": "This image displays a comparison between two accounts, showing details like total volume, trades, and account balance, using a dark-themed interface with emphasis on account balance color differentiation."
+}

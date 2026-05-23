@@ -1,0 +1,58 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "How I helped this 17 year old make $1,000,000 rugging memecoins.",
+        "position": "bottom",
+        "font_style": "handwritten",
+        "color": "white"
+      }
+    ],
+    "characters": [
+      {
+        "description": "Orange character with hair",
+        "position": "left"
+      },
+      {
+        "description": "Black and white simple character",
+        "position": "center"
+      },
+      {
+        "description": "Blue-suited character with a shocked expression",
+        "position": "right"
+      }
+    ],
+    "background": {
+      "description": "Gradient purple to black with a phone screen",
+      "phone_text": "$1,234,567",
+      "phone_buttons": [
+        "RUG",
+        "SEND % TO ORANGE"
+      ]
+    }
+  },
+  "character_position": {
+    "orange_character": {
+      "position": "left side",
+      "percentage": "approximately 30%"
+    },
+    "simple_character": {
+      "position": "center",
+      "percentage": "approximately 20%"
+    },
+    "blue_character": {
+      "position": "right side",
+      "percentage": "approximately 20%"
+    }
+  },
+  "text_style": {
+    "font": "handwritten-like",
+    "primary_color": "white",
+    "background_color": "black"
+  },
+  "content_structure": {
+    "format": "Narrative",
+    "theme": "Cryptocurrency, humor, financial success"
+  },
+  "description": "The meme features humorous characters surrounding a phone displaying a large sum of money, implying a comedic take on earning through cryptocurrency."
+}

@@ -1,0 +1,57 @@
+{
+  "layout": {
+    "top_section": {
+      "characters": [
+        "Character1",
+        "Character2"
+      ],
+      "text": "EVERYONE, PLEASE WELCOME BEN!",
+      "position": "centered at the top with speech bubble",
+      "background": "gray with a black outline"
+    },
+    "middle_section": {
+      "banner": "WELCOME BACK GRADE 3",
+      "position": "center horizontal, between sections"
+    },
+    "bottom_section": {
+      "characters": [
+        "Student1",
+        "Student2",
+        "Student3",
+        "Bear",
+        "Student5"
+      ],
+      "desks": "five arranged in a row",
+      "additional_texts": {
+        "left": "WHAT IS 25% OF 100?",
+        "right": "CLASS RULES\n1. BE KIND\n2. NO SCAMS\n3. NO DEERGIN WHEEL"
+      }
+    }
+  },
+  "character_position": {
+    "top_section": {
+      "primary_character": "left, roughly 30% of section width",
+      "secondary_character": "right, roughly 30% of section width"
+    },
+    "bottom_section": {
+      "characters": "aligned in a row, each taking nearly equal space"
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn style",
+    "color": {
+      "top_title": "black",
+      "middle_banner": "red",
+      "bottom_left": "black",
+      "bottom_rules": "black"
+    },
+    "position": {
+      "top_text": "speech bubble above characters",
+      "middle_banner": "across center",
+      "bottom_left": "beside character on the left",
+      "bottom_rules": "next to the character on the right"
+    }
+  },
+  "content_structure": "reaction to new student introduction and classroom setting",
+  "description": "The meme is set in a classroom introduction scenario where a new student, Ben, is being welcomed. The comic style includes vibrant colors and expressive characters, with humorous text related to classroom rules and common school settings."
+}

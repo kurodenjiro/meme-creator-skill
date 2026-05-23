@@ -1,0 +1,29 @@
+{
+  "layout": {
+    "text_position": "Top left within a speech bubble",
+    "characters": {
+      "upper_character": "Right center, larger",
+      "lower_character": "Left center, smaller"
+    },
+    "background": "Simple blue sky with clouds and green ground"
+  },
+  "character_position": {
+    "upper_character": {
+      "location": "Right side, occupying approximately 30% of the image",
+      "description": "Purple character with a 'PRO' cap"
+    },
+    "lower_character": {
+      "location": "Left side, hanging from the edge, occupying approximately 20% of the image",
+      "description": "Gray triangular character"
+    }
+  },
+  "text_style": {
+    "font": "Bold hand-drawn style",
+    "color": "Black text on white background within speech bubble",
+    "position": "Top left"
+  },
+  "content_structure": {
+    "format": "Conversation-format, humorous advice"
+  },
+  "description": "A purple character with a PRO hat gives humorous advice about slipping to a triangular character hanging from a ledge."
+}

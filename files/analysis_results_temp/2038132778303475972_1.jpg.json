@@ -1,0 +1,29 @@
+{
+  "layout": {
+    "positions": [
+      {
+        "text": "Top left with speech bubble",
+        "character": "Left half of the panel"
+      },
+      {
+        "text": "Inline text with speech bubble",
+        "character": "Right half of the panel"
+      }
+    ],
+    "background": "Yellow across all panels"
+  },
+  "character_position": {
+    "left_character": "Occupies about 30% on the left side",
+    "right_character": "Occupies about 30% on the right side"
+  },
+  "text_style": {
+    "font": "Bold and uppercase",
+    "color": "Black text on white speech bubble",
+    "final_panel_font": "Bold and uppercase, different style for emphasis",
+    "text_position": "Consistent top and inline with characters"
+  },
+  "content_structure": {
+    "format": "Reaction with repetition"
+  },
+  "description": "The meme consists of four panels in sequence. The left character repeats the phrase 'ALT SEASON SOON.' in each panel, while the right character's reactions evolve from initial attention to exhaustion and annoyance, culminating in a final plea to stop."
+}

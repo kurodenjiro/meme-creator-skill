@@ -1,0 +1,11 @@
+{
+  "layout": "Bức ảnh được chia thành hai phần theo chiều ngang đậm nét. Phần trên là cảnh đối thoại giữa hai nhân vật, với văn bản trong hai khung thoại. Phần dưới là cảnh hành động với một nhân vật khác.",
+  "character_position": "Nhân vật trong khung trên chiếm khoảng 60% diện tích, nằm ở bên trái và giữa của khung. Nhân vật ở khung dưới chiếm khoảng 40% bên phải của khung.",
+  "text_style": {
+    "font": "Phông chữ không chân, kiểu viết tay.",
+    "color": "Màu đen, viền trắng cho text trong khung thoại.",
+    "position": "Văn bản nằm trong các khung thoại trên đầu của các nhân vật."
+  },
+  "content_structure": "Meme này thuộc dạng reaction với một câu hỏi và câu trả lời hài hước.",
+  "description": "Meme này sử dụng một khung đối thoại hài hước để tạo tình huống bất ngờ, khi một nhân vật hỏi về Santa và nhận được câu trả lời không như mong đợi, dẫn đến cảnh khác ở phần dưới."
+}

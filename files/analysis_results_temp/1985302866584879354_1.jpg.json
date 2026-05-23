@@ -1,0 +1,20 @@
+{
+  "layout": "The image consists of two main sections: the top right features a logo-like design with colored lines, and the bottom left shows two characters with speech bubbles.",
+  "character_position": "Characters are located in the bottom left corner. They occupy approximately 30% of the image.",
+  "text_style": {
+    "font": "Handwritten style (exact font unidentifiable)",
+    "color": "Black",
+    "positions": [
+      {
+        "text": "AHH... SO THEY PREDICTED THE CHART IN THE LOGO.",
+        "location": "Bottom left"
+      },
+      {
+        "text": "OHHH",
+        "location": "Bottom right"
+      }
+    ]
+  },
+  "content_structure": "The meme follows a reaction format, with characters responding to the logo-like design as a punchline.",
+  "description": "A cartoonish meme where two characters look at a design resembling a logo and have a reactionary dialogue about predicting charts."
+}

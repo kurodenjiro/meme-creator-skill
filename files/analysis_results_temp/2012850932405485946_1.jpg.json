@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "panels": 2,
+    "left_panel": {
+      "text_position": "top",
+      "characters_layout": "grid",
+      "characters_count": "many"
+    },
+    "right_panel": {
+      "text_position": "top",
+      "characters_layout": "small group",
+      "characters_count": "few"
+    }
+  },
+  "character_position": {
+    "left_panel": {
+      "primary_character_position": "center-bottom",
+      "individual_character_size": "small"
+    },
+    "right_panel": {
+      "primary_characters_position": "center-top",
+      "individual_character_size": "medium"
+    }
+  },
+  "text_style": {
+    "font_guess": "handwritten",
+    "color": "black",
+    "decoration": "bold",
+    "left_panel_text": "top",
+    "right_panel_text": "top"
+  },
+  "content_structure": {
+    "type": "contrast",
+    "format": "before and after"
+  },
+  "description": "The meme contrasts a large group setting with an individual intent ('I'm going to try trading...') on the left and a successful outcome ('We made it bro.') with fewer characters on the right."
+}

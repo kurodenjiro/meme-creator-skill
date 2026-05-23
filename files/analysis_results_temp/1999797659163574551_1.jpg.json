@@ -1,0 +1,14 @@
+{
+  "layout": "The meme has a centralized character with text above and below. The top text is in bold and larger size, while the bottom text is split into two parts, situated around the character. There is a gray background framing the character and texts.",
+  "character_position": "The character is in the center, occupying about 50% of the image space. It is positioned to the right side, with one arm raised.",
+  "text_style": {
+    "font": "Bold, hand-drawn style (exact font not identifiable)",
+    "color": "Black",
+    "position": {
+      "top": "Top center",
+      "bottom": "Bottom left and right"
+    }
+  },
+  "content_structure": "The meme uses a reaction format with a character performing an action that is juxtaposed with the text to create humor.",
+  "description": "A meme featuring a character with a robe and raised arm. The top text reads 'SILENCE PROFITABLE TRADER' while the bottom text describes a situation humorously. The layout and text style create a humorous, reactionary message."
+}

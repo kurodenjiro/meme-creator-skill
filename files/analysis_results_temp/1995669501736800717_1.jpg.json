@@ -1,0 +1,11 @@
+{
+  "layout": "The meme is composed of four panels. Panels are arranged in two rows, each with two panels.",
+  "character_position": "Characters are centered in each panel, occupying approximately 40-60% of each panel. The first character appears on the left, and the purple character is on the right.",
+  "text_style": {
+    "font": "Handwritten comic style font.",
+    "color": "Black text on white and light gray backgrounds.",
+    "position": "Speech bubbles and text are placed near the corresponding characters."
+  },
+  "content_structure": "The meme follows a conversation-reaction format. The first panel sets up a positive event, and the last panel reveals an unforeseen issue with a humorous twist.",
+  "description": "A multi-panel meme featuring a conversation between two characters. The left character reports success, while the right one initially reacts positively before learning unexpected news in the last panel."
+}

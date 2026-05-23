@@ -1,0 +1,38 @@
+{
+  "layout": {
+    "panels": 4,
+    "elements": [
+      {
+        "panel": 1,
+        "text_position": "top left",
+        "characters_position": "bottom left"
+      },
+      {
+        "panel": 2,
+        "text_position": "right",
+        "characters_position": "center"
+      },
+      {
+        "panel": 3,
+        "text_position": "left and top",
+        "characters_position": "bottom left"
+      },
+      {
+        "panel": 4,
+        "text_position": "top",
+        "characters_position": "left"
+      }
+    ]
+  },
+  "character_position": {
+    "general": "centered in each panel",
+    "size_percentage": "characters occupy about 60% of each panel"
+  },
+  "text_style": {
+    "font": "stylized, bold",
+    "color": "black",
+    "position": "top or side of characters in speech bubbles"
+  },
+  "content_structure": "dialogue-driven with humor",
+  "description": "A comic-style meme with cartoon characters having a humorous conversation about ZachXBT, utilizing simple illustrated backgrounds and expressive characters."
+}

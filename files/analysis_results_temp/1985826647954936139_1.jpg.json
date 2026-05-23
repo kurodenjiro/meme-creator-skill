@@ -1,0 +1,12 @@
+{
+  "layout": "The image features a green character standing against a brick wall background, holding a sign above its head. To the left are other characters in helmets, resembling riot police. The background consists of buildings, indicating an urban setting.",
+  "character_position": "The main character is located slightly to the right of the center, occupying about 30% of the image's width. The character's height is about 60% of the image.",
+  "text_style": {
+    "font_guess": null,
+    "appearance": "Bold, uppercase letters",
+    "color": "Black",
+    "position": "The text is centered on the sign being held by the character."
+  },
+  "content_structure": "The meme uses a reaction format with the message in the character's sign providing commentary on a situation (in this case, hinting at market conditions).",
+  "description": "A meme featuring a character holding a sign that reads 'WE ARE IN A BEAR MARKET', with a backdrop of an urban setting. The character wears sunglasses and is surrounded by figures resembling riot police."
+}

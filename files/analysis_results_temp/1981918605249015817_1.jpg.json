@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "text": "Phần chữ nằm ở phía trên cùng của ảnh, in điều kiện kiểm tra: 'SELECT ALL IMAGES WITH STABLE DEPOSITORS'. Bên dưới là các hình chữ nhật được sắp xếp thành 3 hàng và 3 cột.",
+    "characters_and_elements": "Trong các ô là ký tự 'S' với dòng chữ 'Stable' bên dưới. Ô cuối cùng ở hàng dưới cùng có hình một con gấu nhìn mệt mỏi.",
+    "button": "Dưới các ô là nút 'VERIFY' màu xanh dương."
+  },
+  "character_position": {
+    "location": "Nhân vật gấu nằm ở ô cuối cùng, hàng dưới cùng, bên phải.",
+    "size_percentage": "Chiếm khoảng 11% tổng diện tích của bức ảnh."
+  },
+  "text_style": {
+    "font": "Phong cách chữ in đậm, không chân.",
+    "color": "Chữ màu trắng trên nền xanh dương phần trên; chữ 'Stable' màu trắng trên nền màu xanh lá.",
+    "position": "Các chữ chính nằm ở phía trên cùng trong phần điều kiện chọn, và ở dưới mỗi ô ký tự 'S'."
+  },
+  "content_structure": {
+    "format": "Reaction",
+    "message": "Chế giễu sự nhầm lẫn trong việc phân loại thông tin trong điều kiện kiểm tra hình ảnh."
+  },
+  "description": "Meme mô phỏng giao diện kiểm tra CAPTCHA, yêu cầu người xem chọn các ô liên quan đến 'STABLE DEPOSITORS'. Tám hình có chữ 'S' đại diện cho 'Stable', trong khi ô cuối cùng có hình một con gấu mệt mỏi nhưng lại được tích chọn. Đây là hình thức chế giễu việc chọn nhầm hay phi lý thông qua so sánh giữa các lựa chọn hợp lý và không hợp lý."
+}

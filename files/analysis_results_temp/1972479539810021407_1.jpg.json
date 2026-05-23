@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_bubbles": "Top left in both panels",
+    "characters": "Left and center",
+    "background": "Simple, monochromatic"
+  },
+  "character_position": {
+    "wizard": "Left side, facing center",
+    "frog_character": "Center, facing right",
+    "cat_character": "Right, inside picture frame",
+    "character_proportion": "Each character takes up about 30% of the frame"
+  },
+  "text_style": {
+    "font_guessed": "Bold, comic style",
+    "text_color": "Black",
+    "text_position": "Inside speech bubbles",
+    "additional_text": "$5 and $50,000 in bottom right of panels"
+  },
+  "content_structure": "Comparative reaction",
+  "description": "The meme uses a two-panel format to depict a humorous reaction to different art styles and their perceived value."
+}

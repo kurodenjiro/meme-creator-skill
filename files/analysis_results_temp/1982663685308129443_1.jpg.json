@@ -1,0 +1,41 @@
+{
+  "layout": {
+    "panels": [
+      {
+        "position": "top",
+        "text": {
+          "content": "WHEN WE'RE PUMPING...",
+          "position": "top",
+          "alignment": "center"
+        },
+        "character": {
+          "position": "left",
+          "background": "grey with green upward graph"
+        }
+      },
+      {
+        "position": "bottom",
+        "text": {
+          "content": "THEN YOU REALIZE IT'S A WEEKEND",
+          "position": "center",
+          "alignment": "center"
+        },
+        "character": {
+          "position": "right",
+          "background": "grey with green upward graph"
+        }
+      }
+    ]
+  },
+  "character_position": {
+    "top_panel": "left, approximately 50% height",
+    "bottom_panel": "right, approximately 50% height"
+  },
+  "text_style": {
+    "font": "bold, comic-like",
+    "color": "black",
+    "style": "uppercase"
+  },
+  "content_structure": "reaction comparison",
+  "description": "The meme features two panels. The top panel shows a happy character with the text 'WHEN WE'RE PUMPING...', and a graph going up. The bottom panel shows the same character looking disappointed with the text 'THEN YOU REALIZE IT'S A WEEKEND', implying the excitement was for nothing. The character's expression and graph background highlight the contrasting emotions."
+}

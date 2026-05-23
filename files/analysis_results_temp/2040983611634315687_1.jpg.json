@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "text": "Text is placed at the top and bottom of the image.",
+    "character": "The character is centrally positioned, occupying a significant portion of the image.",
+    "background": "The background is simple and gray, providing contrast to the character."
+  },
+  "character_position": {
+    "position": "Center",
+    "size_percentage": "Approximately 60-70%"
+  },
+  "text_style": {
+    "font": "Bold, sans-serif style",
+    "color": "Black with white outline",
+    "upper_text_position": "Top-center",
+    "lower_text_position": "Bottom-center"
+  },
+  "content_structure": {
+    "format": "Motivational message"
+  },
+  "description": "The meme features a character holding a large sword, suggesting determination or readiness, complemented by bold text conveying a motivational message."
+}

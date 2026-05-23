@@ -1,0 +1,19 @@
+{
+  "layout": {
+    "text_elements": [],
+    "character": "central",
+    "background": "plain white"
+  },
+  "character_position": {
+    "location": "center",
+    "size_percentage": "approximately 70%"
+  },
+  "text_style": {
+    "font": "unknown",
+    "style": "none present",
+    "color": "none present",
+    "position": "none present"
+  },
+  "content_structure": "reaction",
+  "description": "The meme features a simplistic character with a surprised or shocked expression, centered against a plain white background."
+}

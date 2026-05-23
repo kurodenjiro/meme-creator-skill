@@ -1,0 +1,39 @@
+{
+  "layout": {
+    "panels": 2,
+    "elements": [
+      {
+        "panel": 1,
+        "year_label": "2021",
+        "character": "person",
+        "text_bubble": "top right"
+      },
+      {
+        "panel": 2,
+        "year_label": "2026",
+        "character": "person",
+        "text_bubble": "top right"
+      }
+    ]
+  },
+  "character_position": {
+    "panel_1": {
+      "location": "left",
+      "size_percentage": "about 30%"
+    },
+    "panel_2": {
+      "location": "left",
+      "size_percentage": "about 30%"
+    }
+  },
+  "text_style": {
+    "font": "bold, handwritten",
+    "color": "black",
+    "text_bubble": {
+      "background": "white",
+      "border": "black"
+    }
+  },
+  "content_structure": "sequential comparison with humor element",
+  "description": "This meme uses a two-panel format to illustrate a humorous comparison between expectations in 2021 and reality in 2026 regarding becoming an Ethereum millionaire. The left side features a person pressing a button to initiate a process, while the right side shows a character in a cryo chamber with changing conditions over 5 years."
+}

@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "text_components": [
+      {
+        "content": "PSYCHIATRIC HELP 5¢",
+        "position": "top",
+        "background": "red sign"
+      },
+      {
+        "content": "THE DOCTOR IS IN",
+        "position": "bottom of the stand",
+        "background": "stand itself"
+      }
+    ],
+    "character": {
+      "description": "Cartoon character",
+      "position": "center inside the stand",
+      "posture": "leaning on the stand"
+    },
+    "background": "blue sky with clouds, green ground"
+  },
+  "character_position": {
+    "position": "center of the stand",
+    "size_percentage": "approximately 30% of the image"
+  },
+  "text_style": {
+    "font": "handwritten-style",
+    "color": "black",
+    "placement": "on signs attached to the stand"
+  },
+  "content_structure": "reaction",
+  "description": "A cartoon character sits at a makeshift psychiatric help booth with humorous text."
+}

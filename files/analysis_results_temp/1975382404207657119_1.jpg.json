@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh chia thành hai khung: Khung trên có nhân vật chính đứng bên trái với bảng trắng, hai nhân vật khác ngồi bên phải; khung dưới không có nhân vật chính, chỉ còn hai nhân vật ngồi ở bàn.",
+  "character_position": "Nhân vật chính nằm bên trái hình ảnh, chiếm khoảng 30% không gian khung trên. Hai nhân vật khác nằm bên phải, chiếm khoảng 40% mỗi khung.",
+  "text_style": "Chữ viết hoa, kiểu chữ sans-serif, có màu đen. Văn bản được đặt trong hộp thoại hình chữ nhật có viền đen ở góc trên bên phải của khung hình trên.",
+  "content_structure": "Meme sử dụng cấu trúc hội thoại, dạng phản ứng với tình huống hài hước.",
+  "description": "Meme mô tả một cuộc họp với nhân vật chính đang trình bày, nhưng có vẻ như đưa ra ý tưởng không được chào đón, dẫn đến việc bỏ đi. Tình huống gây hài do sự tương phản giữa kỳ vọng và thực tế."
+}

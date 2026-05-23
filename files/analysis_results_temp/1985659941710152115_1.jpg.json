@@ -1,0 +1,11 @@
+{
+  "layout": "The image features two large lines stylized like stock market trends, each arched in alternating directions. The top line is blue and arches upwards, while the bottom line is orange and arches downwards. The text is placed alongside each line, in a similar color to the line.",
+  "character_position": "This meme doesn't feature characters, but the lines take up about 70-80% of the image space.",
+  "text_style": {
+    "font_guess": "Handwritten",
+    "color": "Blue for 'STOCKS', Orange for 'CRYPTO'",
+    "position": "Diagonal, aligned with the curves of the lines"
+  },
+  "content_structure": "Comparison",
+  "description": "The meme uses stock market-like graphs to humorously compare the perceived performance or volatility of 'STOCKS' versus 'CRYPTO'."
+}

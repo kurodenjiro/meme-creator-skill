@@ -1,0 +1,12 @@
+{
+  "layout": "The meme consists of a character in the lower right quadrant pushing a large boulder uphill. The text is placed at the top of the image.",
+  "character_position": "The character is located in the lower right quadrant of the image, taking up about 30% of the frame.",
+  "text_style": {
+    "font_guess": "Handwritten, bold",
+    "style": "Bold, uppercase",
+    "color": "Black",
+    "position": "Top of the image"
+  },
+  "content_structure": "Reaction format with an illustration depicting a struggle or challenge.",
+  "description": "The image shows a cartoon character pushing a large rock uphill, symbolizing effort or survival, paired with bold uppercase text at the top stating 'GIVE ME YOUR PORTFOLIO SURVIVAL ARC.'"
+}

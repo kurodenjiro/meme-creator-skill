@@ -1,0 +1,11 @@
+{
+  "layout": "Bức ảnh được chia thành hai khung hình ngang. Khung trên hiển thị một nhân vật với một tấm bảng, và khung dưới là cú cận cảnh của một kiểu đánh giá. Có một chú thích văn bản ở phía trên của khung trên.",
+  "character_position": "Nhân vật chính nằm ở phía trái của khung trên, chiếm khoảng 30% diện tích. Các nhân vật khác ở khung dưới với kích thước tương tự hoặc nhỏ hơn.",
+  "text_style": {
+    "font_guess": "Kiểu chữ viết tay, đậm",
+    "color": "Màu đen cho chú thích, màu đỏ cho đánh giá",
+    "positions": "Chú thích nằm ở phía trên cùng bên trái, text đánh giá nằm trong hình chú thích bên phải khung trên."
+  },
+  "content_structure": "Reaction - phản ứng của các nhân vật đối với một kết quả nào đó được đề cập rõ ràng trong nội dung văn bản và hình ảnh.",
+  "description": "Meme này thể hiện một đánh giá có vẻ hoàn hảo (10/10) trong một bối cảnh hài hước khi một nhân vật phản ứng với việc không rõ ràng ai là tác giả của đánh giá đó."
+}

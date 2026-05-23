@@ -1,0 +1,11 @@
+{
+  "layout": "The image features a group of robot figures arranged in a grid-like pattern, with text at the top center. There are three distinct non-robot characters placed among them. The text and characters are centered both vertically and horizontally.",
+  "character_position": "The non-robot characters are located among the robots. One is on the second row from the top on the right side, another is in the bottom row near the center, and the last one is in the bottom row on the right. The characters occupy approximately 5-10% of the image each.",
+  "text_style": {
+    "font": "Bold, hand-drawn style",
+    "color": "Black",
+    "position": "Top center"
+  },
+  "content_structure": "The meme uses a juxtaposition format where a group photo scenario is humorously populated by robots and a few distinct characters, contrasting the uniformity of robots with the uniqueness of the characters.",
+  "description": "A humorous depiction of a 'group photo' in 2025, mostly consisting of identical robots with a few unique characters, conveying a comment on technology or individuality."
+}

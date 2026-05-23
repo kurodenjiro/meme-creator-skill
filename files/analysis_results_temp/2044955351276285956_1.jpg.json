@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "panels": "Two comic panels stacked vertically",
+    "text_bubbles": "Text in speech bubbles",
+    "characters": "One character on the left and one character on the right in both panels",
+    "background": "Simple grey background with outlines"
+  },
+  "character_position": {
+    "character_one": {
+      "position": "Left side of the panel",
+      "percentage": "Approximately 40% of the panel"
+    },
+    "character_two": {
+      "position": "Right side of the panel",
+      "percentage": "Approximately 30% of the panel"
+    }
+  },
+  "text_style": {
+    "font": "Handwritten, bold",
+    "color": "Black",
+    "positions": [
+      {
+        "panel": 1,
+        "positions": "Top right and center"
+      },
+      {
+        "panel": 2,
+        "positions": "Center right"
+      }
+    ]
+  },
+  "content_structure": {
+    "type": "Dialogue-based humor",
+    "format": "Question and answer"
+  },
+  "description": "The meme depicts a humorous conversation between two characters, with character one asking about a technical achievement and character two responding wryly."
+}

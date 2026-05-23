@@ -1,0 +1,66 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "PROTECTION",
+        "position": "top",
+        "color": "pink",
+        "font_size": "small"
+      },
+      {
+        "content": "CASIO",
+        "position": "top_center",
+        "color": "black",
+        "font_size": "medium"
+      },
+      {
+        "content": "BABY-G",
+        "position": "bottom",
+        "color": "pink",
+        "font_size": "medium"
+      },
+      {
+        "content": "WR10BAR",
+        "position": "below_screen",
+        "color": "black",
+        "font_size": "small"
+      }
+    ],
+    "watch_elements": [
+      {
+        "type": "digital_display",
+        "position": "center",
+        "text": [
+          "SUN",
+          "G-30",
+          "10:58"
+        ],
+        "font_size": "large",
+        "color": "black"
+      }
+    ]
+  },
+  "character_position": {
+    "object": "watch",
+    "position": "center",
+    "size_percentage": 70
+  },
+  "text_style": {
+    "font": "digital",
+    "color": [
+      "pink",
+      "black"
+    ],
+    "placement": "inside",
+    "alignment": "center"
+  },
+  "content_structure": {
+    "type": "product_advertisement",
+    "elements": [
+      "branding",
+      "functionality",
+      "design_feature"
+    ]
+  },
+  "description": "Image of a pink Casio Baby-G watch with digital display showing time and date, featuring text elements for branding and functionality."
+}

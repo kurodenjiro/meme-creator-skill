@@ -1,0 +1,28 @@
+{
+  "layout": {
+    "panels": "2-panel comic",
+    "text_bubbles": "Top left in each panel",
+    "characters": "Left panel - character facing light; Right panel - character facing the audience",
+    "background": "Dark with stars, yellow light in each panel"
+  },
+  "character_position": {
+    "panel_1": {
+      "position": "Left side, looking at the light",
+      "size_percentage": "Approximately 30%"
+    },
+    "panel_2": {
+      "position": "Right side, holding a phone",
+      "size_percentage": "Approximately 25%"
+    }
+  },
+  "text_style": {
+    "font": "Bold, sans-serif",
+    "color": "White with black outline",
+    "position": "Within speech bubbles on the left top corner of each panel"
+  },
+  "content_structure": {
+    "type": "Comparison or irony",
+    "message": "Contrasts human behavior with that of a moth"
+  },
+  "description": "A two-panel comic meme where the first panel shows a wizard-looking character observing a moth at a lamp and commenting on its confusion. The second panel shows the same character looking at a phone, making an ironic comparison."
+}

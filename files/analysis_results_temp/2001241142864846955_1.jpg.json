@@ -1,0 +1,11 @@
+{
+  "layout": "The image consists of a grid layout with two columns and four rows. Each grid slot contains a rectangle with text.",
+  "character_position": "There are no characters in the image. It primarily features textual data.",
+  "text_style": {
+    "font_estimate": "Sans-serif (e.g., Arial or Helvetica)",
+    "color": "White text on a dark background",
+    "position": "Centered within each rectangle"
+  },
+  "content_structure": "The meme showcases a statistical representation, typically used to highlight social media metrics in a comparative or factual manner.",
+  "description": "This image displays various social media statistics such as followers, impressions, engagement rate, profile visits, etc., presented in a clean grid format."
+}

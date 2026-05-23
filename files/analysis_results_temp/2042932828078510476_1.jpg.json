@@ -1,0 +1,56 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "ERR... SHOULD WE CHECK HIS PULSE?",
+        "position": "left",
+        "style": "speech bubble"
+      },
+      {
+        "content": "MEGAETH TGE WAITING AREA",
+        "position": "top right",
+        "style": "sign"
+      }
+    ],
+    "main_characters": [
+      {
+        "description": "wizard-like character",
+        "position": "bottom left"
+      },
+      {
+        "description": "green humanoid character",
+        "position": "bottom left"
+      },
+      {
+        "description": "skeleton on bench",
+        "position": "bottom right"
+      }
+    ],
+    "background": "gray with white border for elements"
+  },
+  "character_position": {
+    "wizard_like": {
+      "position": "left",
+      "size_percentage": 20
+    },
+    "green_humanoid": {
+      "position": "left",
+      "size_percentage": 20
+    },
+    "skeleton": {
+      "position": "right",
+      "size_percentage": 20
+    }
+  },
+  "text_style": {
+    "font": "cartoon-like, bold",
+    "color": "black with white border",
+    "position_speech": "above characters",
+    "position_sign": "above skeleton"
+  },
+  "content_structure": {
+    "format": "reaction meme",
+    "theme": "humor about waiting times"
+  },
+  "description": "This meme humorously depicts a scene where two characters are concerned about checking the pulse of a skeleton waiting in a 'MEGAETH TGE WAITING AREA'. The setting suggests a humorous take on long waiting times."
+}

@@ -1,0 +1,52 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "You got paid!",
+        "position": "upper right",
+        "style": "white font"
+      },
+      {
+        "content": "1,000,000",
+        "position": "upper left",
+        "style": "black on white block"
+      },
+      {
+        "content": "has been deposited into your account",
+        "position": "middle right",
+        "style": "light gray font"
+      }
+    ],
+    "character": {
+      "position": "lower left",
+      "bubble_text": {
+        "content": "THANK YOU ELON.",
+        "position": "above character",
+        "style": "white on black speech bubble"
+      }
+    },
+    "background": "dark gray"
+  },
+  "character_position": {
+    "location": "lower left",
+    "size_percentage": 20
+  },
+  "text_style": {
+    "font_style": "handwritten",
+    "dominant_colors": [
+      "white",
+      "black",
+      "light gray"
+    ],
+    "text_positions": [
+      "upper left",
+      "upper right",
+      "middle right"
+    ]
+  },
+  "content_structure": {
+    "format": "reaction",
+    "context": "humorous financial situation"
+  },
+  "description": "A meme featuring a frog character reacting positively to receiving a large sum of money, with celebratory elements."
+}

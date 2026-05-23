@@ -1,0 +1,7 @@
+{
+  "layout": "Nhân vật chính nằm ở phía bên trái của hình ảnh với kích thước lớn. Nhân vật phụ đang rơi từ phía trên bên phải xuống góc dưới bên phải. Một nhân vật nhỏ khác ở phía dưới bên trái. Văn bản nằm trong một hộp thoại trên đầu nhân vật chính.",
+  "character_position": "Nhân vật chính chiếm khoảng 40% khung hình và nằm ở phía bên trái. Nhân vật đang rơi chiếm khoảng 20% và ở góc trên bên phải. Nhân vật nhỏ khác chiếm khoảng 10% và nằm phía dưới bên trái.",
+  "text_style": "Phông chữ đậm, viết hoa với màu đen trên nền trắng. Văn bản nằm trong hộp thoại phía trên nhân vật chính.",
+  "content_structure": "Reaction. Nhân vật chính phản ứng lại sự kiện được đề cập trong văn bản hội thoại.",
+  "description": "Meme này thể hiện sự ngạc nhiên và bối rối của nhân vật chính khi giá trị đang giảm dù chỉ có một trạng thái đơn giản được đăng trên mạng xã hội."
+}

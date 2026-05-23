@@ -1,0 +1,41 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "SPACE X CREW MEMBER",
+        "position": "center-right on the space suit",
+        "font_style": "handwritten",
+        "color": "black"
+      },
+      {
+        "content": "ASTEROID",
+        "position": "neck piece",
+        "font_style": "bold",
+        "color": "white"
+      }
+    ],
+    "character": "center",
+    "background": "space theme with stars"
+  },
+  "character_position": {
+    "location": "center of the image",
+    "size_percentage": "about 60% of the image"
+  },
+  "text_style": {
+    "font": "handwritten and bold font for different texts",
+    "size": "medium",
+    "color": [
+      "black",
+      "white"
+    ],
+    "position": [
+      "center-right",
+      "neck piece"
+    ]
+  },
+  "content_structure": {
+    "format": "reaction",
+    "theme": "humorous space exploration with a dog character"
+  },
+  "description": "The image features a cartoon dog in an astronaut suit with text elements indicating space exploration themes, creating a humorous and cute representation of a space adventure."
+}

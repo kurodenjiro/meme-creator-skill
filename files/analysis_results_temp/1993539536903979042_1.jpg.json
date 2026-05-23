@@ -1,0 +1,39 @@
+{
+  "layout": {
+    "panels": 2,
+    "top_panel": {
+      "text": "TRADING 2021",
+      "text_position": "top_left",
+      "character": "left",
+      "chart": "right"
+    },
+    "bottom_panel": {
+      "text": "TRADING 2025",
+      "text_position": "top_left",
+      "character": "left",
+      "chart": "right"
+    }
+  },
+  "character_position": {
+    "top_panel": {
+      "position": "left",
+      "size_percentage": 40
+    },
+    "bottom_panel": {
+      "position": "left",
+      "size_percentage": 40
+    }
+  },
+  "text_style": {
+    "font": "handwritten",
+    "color": "black",
+    "position": "top_left"
+  },
+  "content_structure": {
+    "type": "comparison",
+    "themes": [
+      "trading conditions over time"
+    ]
+  },
+  "description": "The meme consists of two panels. The top panel represents trading in 2021, showing confusion with a complex chart, and the bottom panel shows a simplified and successful trading scenario in 2025. It uses a cartoonish character to depict the evolution in trading experience."
+}

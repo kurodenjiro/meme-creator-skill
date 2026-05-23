@@ -1,0 +1,40 @@
+{
+  "layout": {
+    "text": [
+      {
+        "content": "IT'S THE CLAIM PORTAL!",
+        "position": "top left",
+        "background": "white rectangle with black border"
+      },
+      {
+        "content": "WE CAN FINALLY ESCAPE!",
+        "position": "top right",
+        "background": "white rectangle with black border"
+      }
+    ],
+    "characters": [
+      {
+        "type": "character",
+        "position": "left",
+        "holding": "lantern"
+      },
+      {
+        "type": "character",
+        "position": "right",
+        "holding": "candle"
+      }
+    ],
+    "background": "dark environment with glowing elements"
+  },
+  "character_position": {
+    "left_character": "occupies approximately 30% of the image width",
+    "right_character": "occupies approximately 30% of the image width"
+  },
+  "text_style": {
+    "font": "bold, hand-drawn style",
+    "color": "black",
+    "positioning": "top left and top right, inside speech bubbles"
+  },
+  "content_structure": "reaction format",
+  "description": "The meme depicts two characters discovering a glowing 'claim portal' with excitement, featuring dialogue in speech bubbles to express their realization of the portal as a means of escape."
+}

@@ -1,0 +1,64 @@
+{
+  "layout": {
+    "panels": 2,
+    "elements": [
+      {
+        "type": "character",
+        "position": "left",
+        "size_percentage": 30
+      },
+      {
+        "type": "character",
+        "position": "right",
+        "size_percentage": 30
+      },
+      {
+        "type": "text",
+        "position": "top_left",
+        "panel": 1
+      },
+      {
+        "type": "text",
+        "position": "top_right",
+        "panel": 1
+      },
+      {
+        "type": "text",
+        "position": "bottom_left",
+        "panel": 2
+      },
+      {
+        "type": "text",
+        "position": "bottom_right",
+        "panel": 2
+      }
+    ]
+  },
+  "character_position": {
+    "left_character": {
+      "panel": "both",
+      "position_ratio": "middle_left"
+    },
+    "right_character": {
+      "panel": "both",
+      "position_ratio": "middle_right"
+    }
+  },
+  "text_style": {
+    "font": "sans-serif",
+    "style": "bold",
+    "color": "black",
+    "text_box": {
+      "border_color": "black",
+      "background_color": "white"
+    }
+  },
+  "content_structure": {
+    "type": "conversation",
+    "format": [
+      "Question and Explanation",
+      "Question and Punchline"
+    ]
+  },
+  "description": "The meme presents a humorous take on DeFi through a dialog between two characters. The dialogue is structured as a sequence of questions and answers that reveal an ironic twist."
+}

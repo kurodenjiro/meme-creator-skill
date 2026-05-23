@@ -1,0 +1,11 @@
+{
+  "layout": "The meme features a cartoon character prominently in the foreground, holding a bell and a sign. There are smaller characters in the background to the left and right. The background is simple and gray, helping the characters stand out.",
+  "character_position": "The main character is on the right side of the image, taking up approximately 50% of the width and height. Smaller background characters occupy far less space, each around 10-15%.",
+  "text_style": {
+    "font": "Bold, blocky, similar to a hand-drawn style.",
+    "color": "Black text on a white background.",
+    "position": "Centered on the sign held by the main character."
+  },
+  "content_structure": "The meme follows a 'reaction' format, with the text conveying an alarming or apocalyptic message using humor.",
+  "description": "A cartoon character is urgently ringing a bell and holding a sign that says 'THE END IS NEAR,' while other characters look on. This setup humorously plays on the trope of 'The End is Near' street preachers."
+}

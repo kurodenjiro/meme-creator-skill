@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "elements": {
+      "characters": "Two characters are seated on a flying saucer in the upper right quadrant of the image.",
+      "background": "A grayscale landscape with a sunburst effect in the center.",
+      "text": "Text is at the bottom of the image, with additional text on the bottom left corner."
+    }
+  },
+  "character_position": {
+    "position": "Top right quadrant",
+    "size_percentage": "Approximately 15% of the image"
+  },
+  "text_style": {
+    "font": "Handwritten style, sans-serif",
+    "color": "White",
+    "position": "Bottom right for main text, bottom left for date"
+  },
+  "content_structure": {
+    "format": "Humorous statement about the image's authenticity"
+  },
+  "description": "The meme features two cartoon characters on a UFO in a grayscale landscape, with humorous text commenting on the 'authenticity' of the sketch."
+}

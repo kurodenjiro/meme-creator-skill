@@ -1,0 +1,54 @@
+{
+  "layout": {
+    "text_elements": {
+      "dialogue_box": {
+        "position": "top_center",
+        "text": "YOU DID IT BOLD."
+      },
+      "badge_text": {
+        "position": "center_right",
+        "text": "I SURVIVED A POTENTIAL COBIE RATIO"
+      }
+    },
+    "characters": {
+      "left_character": {
+        "position": "left",
+        "interaction": "talking"
+      },
+      "right_character": {
+        "position": "right",
+        "holding": "badge"
+      }
+    },
+    "background": "white"
+  },
+  "character_position": {
+    "left_character": {
+      "position": "left",
+      "size_percentage": "40%"
+    },
+    "right_character": {
+      "position": "right",
+      "size_percentage": "50%"
+    }
+  },
+  "text_style": {
+    "dialogue_box": {
+      "font": "handwritten",
+      "style": "bold",
+      "color": "black",
+      "background": "white",
+      "border": "black"
+    },
+    "badge_text": {
+      "font": "bold",
+      "style": "cartoonish",
+      "color": "white",
+      "background": "blue with yellow border"
+    }
+  },
+  "content_structure": {
+    "format": "reaction"
+  },
+  "description": "The meme features a dialogue between two cartoon characters, with emphasis on congratulations and achievement, as denoted by a badge."
+}

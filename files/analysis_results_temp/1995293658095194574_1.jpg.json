@@ -1,0 +1,12 @@
+{
+  "layout": "The image features two main characters on a plain gray background. The character on the left is a cartoon-like wizard, and the character on the right resembles a coin with a symbol associated with cryptocurrency. A text bubble emanates from the wizard character.",
+  "character_position": "The wizard is positioned on the left side, taking up about 30% of the image width, while the coin character is on the right, also taking up around 30%.",
+  "text_style": {
+    "font": "Comic-like, handwritten style",
+    "color": "Black",
+    "position": "Text bubble near the top middle of the image coming from the wizard's mouth",
+    "content": "I SAID NO MORE DIPS!"
+  },
+  "content_structure": "The meme uses a humorous reaction format referencing cryptocurrency market behavior, indicated by the wordplay with 'dips' and 'hummus'.",
+  "description": "The meme depicts a wizard character refusing 'dips' (associated with market decline) humorously, with a pun involving 'hummus', creating a comedic take on cryptocurrency market reactions."
+}

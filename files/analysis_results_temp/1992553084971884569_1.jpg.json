@@ -1,0 +1,46 @@
+{
+  "layout": {
+    "text_components": [
+      {
+        "text": "LITERALLY NO ONE:",
+        "position": "top",
+        "alignment": "left"
+      },
+      {
+        "text": "ABSOLUTELY NO ONE EVER:",
+        "position": "upper middle",
+        "alignment": "left"
+      }
+    ],
+    "image_component": {
+      "type": "comic strip",
+      "position": "bottom",
+      "details": "features one main character speaking and other characters seated at a table"
+    }
+  },
+  "character_position": {
+    "main_character": {
+      "position": "left in comic strip",
+      "size_percentage": "approximately 20% of comic strip"
+    },
+    "additional_characters": {
+      "position": "right in comic strip",
+      "size_percentage": "approximately 60% of comic strip, seated behind a table"
+    }
+  },
+  "text_style": {
+    "font": "bold, uppercase, resembling comic sans",
+    "color": "black",
+    "speech_bubble_text": {
+      "content": "LET'S DOX EVERYONE'S LOCATION!",
+      "font_style": "bold",
+      "bubble_style": "rectangular with arrow pointing towards main character",
+      "color": "black"
+    }
+  },
+  "content_structure": {
+    "type": "reaction joke",
+    "format": "no one asks for something, but it's done anyway"
+  },
+  "description": "The meme is structured with set-up texts positioning at the top, followed by a comic strip illustrating an unexpected action made by the main character. The humor lies in the surprise action despite nobody asking for it."
+}

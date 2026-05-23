@@ -1,0 +1,45 @@
+{
+  "layout": {
+    "text_components": [
+      {
+        "text": "Wallet Analysis",
+        "position": "top_center",
+        "font_size": "large"
+      },
+      {
+        "text": "WALKING",
+        "position": "top_mid_image",
+        "font_size": "medium"
+      },
+      {
+        "text": "Score: 0 - 99",
+        "position": "bottom_mid_image",
+        "font_size": "medium"
+      },
+      {
+        "text": "Just touched grass, not bags yet.",
+        "position": "bottom_center",
+        "font_size": "medium"
+      }
+    ],
+    "character": {
+      "position": "center",
+      "size_percentage": 40
+    },
+    "background": "dark with slight texture"
+  },
+  "character_position": {
+    "position_within_frame": "center",
+    "size_percentage": 40
+  },
+  "text_style": {
+    "font": "sans-serif",
+    "color": "white",
+    "capitalization": "uppercase for titles, sentence case for message"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "element": "humorous take on being frugal or starting out"
+  },
+  "description": "This meme humorously represents the idea of starting a journey or habit with humor, using a character walking on a dark themed background. Text at the top denotes an analysis theme, followed by a status 'WALKING' suggesting simplicity or initiation. At the bottom, a score is displayed, followed by a witty commentary about a frugal or modest beginning."
+}

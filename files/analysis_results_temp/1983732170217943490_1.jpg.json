@@ -1,0 +1,11 @@
+{
+  "layout": "The meme is divided into three panels arranged in a 2x2 grid-like format, with the first panel on the top left, the second panel on the top right, and the third panel spanning the bottom row.",
+  "character_position": "The first panel features a bear character on the left side, occupying about 40% of the panel. The second panel has a fox character on the right side, occupying about 30% of the panel. The third panel has both characters, with the bear on the left and the fox on the right holding a sign.",
+  "text_style": {
+    "font": "Handwritten style",
+    "first_panel_text": "Black text in uppercase inside a speech bubble on the top left",
+    "third_panel_text": "Black text in uppercase on a sign held by the fox on the bottom right"
+  },
+  "content_structure": "This meme uses a reaction format, with the bear character initially excited and asking a question, then shown skeptical, while the fox reveals the anticipated, yet humorous, twist.",
+  "description": "A comic-style meme depicting a conversation between a bear and a fox, using a comic strip layout. The bear initially expresses excitement about an event ('Airdrop') and asks the fox not to make them 'farm points,' to which the fox humorously responds by revealing that 'Season 1 starts now,' suggesting there will indeed be point farming required."
+}

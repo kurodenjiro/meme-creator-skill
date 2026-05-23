@@ -1,0 +1,43 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "characters": "left side, center",
+      "text_position": "above characters with speech bubbles",
+      "background": "grey with white borders"
+    },
+    "panel_2": {
+      "characters": "center",
+      "text_position": "right of left character with speech bubble",
+      "background": "grey with white borders"
+    }
+  },
+  "character_position": {
+    "panel_1": {
+      "character_1": "left, small, ~30%",
+      "character_2": "center-left, medium, ~40%",
+      "character_3": "right, medium, ~30%"
+    },
+    "panel_2": {
+      "character_1": "left, medium, ~40%",
+      "character_2": "right, medium, ~40%"
+    }
+  },
+  "text_style": {
+    "font": "bold, stylized, comic-like",
+    "color": "black on white speech bubbles",
+    "panel_1": {
+      "text_1": "center-left bubble",
+      "text_2": "right bubble"
+    },
+    "panel_2": {
+      "text": "left bubble"
+    }
+  },
+  "content_structure": {
+    "format": "reaction",
+    "panel_1": "set up request or introduction",
+    "panel_2": "reaction to request with rejection"
+  },
+  "description": "The meme consists of two panels. The first panel has two characters encouraging and another responding neutrally. In the second panel, the character from the right is rejected by a new character introduced."
+}

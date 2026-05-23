@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh được chia làm hai phần ngang. Ở phần trên, hai nhân vật đứng cạnh nhau vui vẻ. Ở phần dưới, hai nhân vật có biểu cảm khác nhau với khoảng cách lớn hơn.",
+  "character_position": "Nhân vật luôn nằm ở trung tâm các khung hình, chiếm khoảng 70% diện tích khung. Trong đoạn trên, họ đứng gần nhau. Trong đoạn dưới, họ đứng cách xa nhau hơn.",
+  "text_style": "Chữ được viết bằng phông chữ đậm, tay vẽ, màu đen, nằm giữa hai khung hình: 'ONE TWEET LATER:'.",
+  "content_structure": "Sử dụng định dạng so sánh/phản ứng với phần trên và phần dưới khi biểu cảm và trạng thái của nhân vật thay đổi sau một sự kiện (một dòng tweet).",
+  "description": "Meme có hai phần: đầu tiên là trạng thái vui vẻ, sau đó chuyển sang trạng thái ngạc nhiên hoặc bối rối sau một dòng tweet."
+}

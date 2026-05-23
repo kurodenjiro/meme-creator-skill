@@ -1,0 +1,11 @@
+{
+  "layout": "The meme is divided into two panels stacked vertically. Each panel contains a character on the left and text on the right.",
+  "character_position": "The character is located on the left side of each panel, occupying approximately 40% of the width.",
+  "text_style": {
+    "font": "Handwritten style, bold",
+    "color": "Black",
+    "position": "Top-right in each panel"
+  },
+  "content_structure": "Comparison format with two scenarios depicted: one with high percentage gain and one with small dollar gain.",
+  "description": "This meme humorously contrasts two outcomes of a 'BTC long' scenario. In the top panel, the investment yields a high percentage gain, while in the bottom panel, the gain is small when expressed in dollars, reflecting a humorous disappointment."
+}

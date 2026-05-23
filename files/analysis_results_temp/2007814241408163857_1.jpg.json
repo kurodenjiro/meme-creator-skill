@@ -1,0 +1,26 @@
+{
+  "layout": {
+    "character_1": "Left side, holding a can with text 'OIL'",
+    "character_2": "Right side, drinking from the can via a straw",
+    "text": "Onomatopoeia '*SLURPPP*' near the mouth of character 2"
+  },
+  "character_position": {
+    "character_1": {
+      "position": "left",
+      "size_percentage": 50
+    },
+    "character_2": {
+      "position": "right",
+      "size_percentage": 50
+    }
+  },
+  "text_style": {
+    "onomatopoeia": {
+      "font": "comic-style",
+      "color": "black",
+      "position": "near character 2's mouth"
+    }
+  },
+  "content_structure": "Reaction",
+  "description": "The meme humorously implies a comment on the consumption or dependency on oil, represented by the act of drinking from an oil can."
+}

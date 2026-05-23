@@ -1,0 +1,10 @@
+{
+  "layout": "Bức ảnh chia thành hai khung hình nằm chồng lên nhau. Khung trên có nhân vật chính và hộp thoại. Khung dưới có một chiếc hộp mở và nhân vật chính.",
+  "character_position": "Nhân vật nằm ở bên trái trong khung trên và bên phải trong khung dưới. Nhân vật chiếm khoảng 25% mỗi khung.",
+  "text_style": {
+    "font": "Comic sans (ước đoán)",
+    "color": "Chữ 'NOT SELLING.' màu đen trên nền bong bóng thoại trắng. Chữ '$500,000' màu trắng trên nền đỏ và '$10,000' màu trắng trên nền xanh."
+  },
+  "content_structure": "Meme tuân theo format so sánh giá trị: giá trị dự kiến so với giá trị thực.",
+  "description": "Meme sử dụng sự đối lập giữa giá trị mong muốn và giá trị thực tế. Nhân vật thể hiện thái độ không muốn bán ở giá trị cao, nhưng thực tế lại thấp hơn."
+}

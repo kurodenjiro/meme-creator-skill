@@ -1,0 +1,38 @@
+{
+  "layout": {
+    "elements": [
+      {
+        "type": "line",
+        "color": "green",
+        "position": "left"
+      },
+      {
+        "type": "bitcoin_symbol",
+        "color": "gold",
+        "position": "center"
+      },
+      {
+        "type": "character",
+        "color": "purple",
+        "position": "right"
+      },
+      {
+        "type": "line",
+        "color": "red",
+        "position": "right"
+      }
+    ]
+  },
+  "character_position": {
+    "location": "right",
+    "percentage": "approximately 20%"
+  },
+  "text_style": {
+    "font": "unknown",
+    "style": "handwritten",
+    "color": "black",
+    "position": "bottom right"
+  },
+  "content_structure": "comparison",
+  "description": "A meme showing a comparison between green and red lines with a bitcoin symbol in the center and a purple character on the right, signed by 'boldleonidas' at the bottom right."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "The meme consists of a 2x2 comic panel layout. Each panel features characters and dialogue.",
+  "character_position": "Characters are placed in the center of each panel, occupying roughly 60-70% of the space. The left two panels contain a bear and a character in a red cloak. The right panel in the first row features a wizard.",
+  "text_style": {
+    "font_guess": "Handwritten, bold style",
+    "color": "Black text on white speech bubble",
+    "position": "Text appears in speech bubbles, top right corner in the first panel."
+  },
+  "content_structure": "The meme uses a reaction format with a comic-style depiction of a scenario involving the contrast between an expectation and a reaction.",
+  "description": "This meme includes characters reacting humorously to an offer of free money, depicting typical reactions to unexpected generosity across four panels."
+}

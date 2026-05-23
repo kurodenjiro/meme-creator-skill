@@ -1,0 +1,7 @@
+{
+  "layout": "Phần trên của bức ảnh là câu hỏi và biểu đồ với các lựa chọn. Dưới là hai nhân vật hoạt hình nhìn lên biểu đồ.",
+  "character_position": "Hai nhân vật nằm ở góc dưới bên trái, chiếm khoảng 20% khung hình.",
+  "text_style": "Text sử dụng font chữ đậm và có kiểu chữ tay, màu đen. Chữ 'YES', 'MAYBE', 'NO' có màu xanh lá, xanh dương và đen. Vị trí text ở đầu và cuối biểu đồ, cùng với hội thoại 'OH.' phía dưới.",
+  "content_structure": "So sánh và reaction. Biểu đồ thể hiện các lựa chọn và phản ứng của nhân vật.",
+  "description": "Một bức ảnh biếm họa đặt câu hỏi về bản chất của Kalshi thông qua một biểu đồ và phản ứng của nhân vật hoạt hình."
+}

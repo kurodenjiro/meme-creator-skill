@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text_placement": "Upper left corner, large text occupying approximately 25% of the image",
+    "character_placement": "Lower right corner"
+  },
+  "character_position": {
+    "location": "Bottom right",
+    "size_percentage": "Approximately 20% of the image"
+  },
+  "text_style": {
+    "font_guess": "Handwritten style font",
+    "appearance": "Bold, textured",
+    "color": "Black",
+    "position": "Two lines, left aligned"
+  },
+  "content_structure": {
+    "format": "Contrast between two elements"
+  },
+  "description": "The meme features large, bold text on the upper left stating 'GOVERNMENT DOWN. COINS UP.' A character holding a coin is placed on the lower right, suggesting a narrative of economic or financial commentary involving cryptocurrencies."
+}

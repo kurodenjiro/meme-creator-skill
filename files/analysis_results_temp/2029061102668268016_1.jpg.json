@@ -1,0 +1,53 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_bubbles": [
+      {
+        "panel": 1,
+        "position": "left",
+        "text": "EW. AN NFT."
+      },
+      {
+        "panel": 2,
+        "position": "left",
+        "text": "OMG\nIT'S A\nGRADE 10!"
+      }
+    ],
+    "images": [
+      {
+        "panel": 1,
+        "position": "right"
+      },
+      {
+        "panel": 2,
+        "position": "right"
+      }
+    ]
+  },
+  "character_position": {
+    "panel_1_character": {
+      "position": "left",
+      "size_percentage": "50%"
+    },
+    "panel_2_character": {
+      "position": "left",
+      "size_percentage": "50%"
+    }
+  },
+  "text_style": {
+    "font": "bold, comic-style",
+    "colors": "black for regular text, white and red for card text",
+    "positions": [
+      {
+        "panel": 1,
+        "text_position": "top-left"
+      },
+      {
+        "panel": 2,
+        "text_position": "top-left"
+      }
+    ]
+  },
+  "content_structure": "comparison, contrast, humor",
+  "description": "A two-panel meme comparing initial disdain for NFTs with excitement over finding a rare graded card."
+}

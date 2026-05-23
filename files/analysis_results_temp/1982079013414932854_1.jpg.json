@@ -1,0 +1,23 @@
+{
+  "layout": {
+    "text_top": true,
+    "text_bottom": true,
+    "character_center": true,
+    "background": "plain white"
+  },
+  "character_position": {
+    "location": "center",
+    "size_percentage": 50
+  },
+  "text_style": {
+    "font": "bold, comic-style",
+    "color": "black",
+    "position_top": "centered at top edge",
+    "position_bottom": "centered at bottom edge"
+  },
+  "content_structure": {
+    "format": "sarcastic advice",
+    "theme": "irony"
+  },
+  "description": "The meme features a cartoon character centered in the middle, with bold, black text above and below on a plain white background, conveying an ironic or sarcastic message."
+}

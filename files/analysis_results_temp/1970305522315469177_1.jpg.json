@@ -1,0 +1,24 @@
+{
+  "layout": {
+    "elements": [
+      "canvas with painting",
+      "character holding paintbrush",
+      "background: simple room setting"
+    ],
+    "composition": "The painting is on the left side while the character is on the right, holding a paintbrush toward the canvas."
+  },
+  "character_position": {
+    "location": "right side of the image",
+    "size_percentage": "approximately 40%"
+  },
+  "text_style": {
+    "font_guess": "comic sans-like (without seeing the actual font)",
+    "appearance": "none in image",
+    "color": "none"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "theme": "financial or stock market humor"
+  },
+  "description": "A cartoon character with glasses and a paintbrush is painting a mountain landscape on a canvas, with the mountain peak resembling a stock market chart."
+}

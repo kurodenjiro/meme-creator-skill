@@ -1,0 +1,11 @@
+{
+  "layout": "The meme is divided into two separate panels, arranged vertically. Each panel includes a character on the right and text on the left. The panels are bordered with thick lines.",
+  "character_position": "The characters are positioned to the right in both panels, occupying roughly 50% of each panel's width. The characters appear in the center vertically in their respective panels.",
+  "text_style": {
+    "font": "The font appears to be hand-drawn, bold, and all-caps.",
+    "color": "Black text on a light gray background.",
+    "position": "Text is placed on the left side of each panel."
+  },
+  "content_structure": "The meme follows a comparison structure, contrasting two scenarios: 'James Wynn with mouth closed' and 'James Wynn with mouth open'.",
+  "description": "The meme humorously depicts the character 'James Wynn' in two different states: one with sunglasses and an intense expression, and the other with a more relaxed demeanor and a headset, alongside everyday objects like a drink and computer."
+}

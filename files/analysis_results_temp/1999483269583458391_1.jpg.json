@@ -1,0 +1,68 @@
+{
+  "layout": {
+    "panels": 2,
+    "top_panel": {
+      "text_bubble_1": {
+        "position": "top left",
+        "content": "A PENNY!"
+      },
+      "text_bubble_2": {
+        "position": "top right",
+        "content": "OHH NICE!"
+      },
+      "characters": {
+        "left_character": "green creature on the sidewalk",
+        "right_character": "purple creature with 'PRO' cap"
+      },
+      "background": "sidewalk with bushes on the right"
+    },
+    "bottom_panel": {
+      "text_bubble": {
+        "position": "left",
+        "content": "I'VE NOW OUTPERFORMED BITCOIN FOR THE LAST 12 MONTHS."
+      },
+      "characters": {
+        "left_character": "green creature holding a penny",
+        "right_character": "purple creature looking surprised"
+      },
+      "background": "continues with sidewalk"
+    }
+  },
+  "character_position": {
+    "top_panel": {
+      "green_character": {
+        "location": "left",
+        "size_percentage": "small"
+      },
+      "purple_character": {
+        "location": "right",
+        "size_percentage": "small"
+      }
+    },
+    "bottom_panel": {
+      "green_character": {
+        "location": "left",
+        "size_percentage": "medium"
+      },
+      "purple_character": {
+        "location": "right",
+        "size_percentage": "medium"
+      }
+    }
+  },
+  "text_style": {
+    "font": "handwritten style",
+    "color": "black",
+    "bubble_color": "white with black outline",
+    "uppercase": true
+  },
+  "content_structure": {
+    "type": "comparison",
+    "comparison_subjects": [
+      "penny",
+      "bitcoin"
+    ],
+    "format": "reaction"
+  },
+  "description": "The meme features two panels with a green and a purple character on a sidewalk. In the first panel, the green character exclaims excitement over picking up a penny, while the purple character reacts positively. In the second panel, the green character humorously claims financial success, leaving the purple character surprised."
+}

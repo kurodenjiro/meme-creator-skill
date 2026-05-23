@@ -1,0 +1,38 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "THE FIRST 20 MILLION\nBITCOIN TOOK 17 YEARS TO MINE.",
+        "position": "top-left",
+        "alignment": "left"
+      },
+      {
+        "content": "THE LAST MILLION\nWILL TAKE 114 YEARS",
+        "position": "top-right",
+        "alignment": "right"
+      }
+    ],
+    "progress_bar": {
+      "location": "center",
+      "length_comparison": "longer on the left, shorter on the right"
+    },
+    "character": {
+      "location": "bottom-left"
+    }
+  },
+  "character_position": {
+    "location": "bottom-left",
+    "size_percentage": "approximately 15%"
+  },
+  "text_style": {
+    "font": "block-style, bold",
+    "color": "black",
+    "font_size": "medium",
+    "positioning": "top-left and top-right"
+  },
+  "content_structure": {
+    "format": "comparison",
+    "context": "time to mine Bitcoin"
+  },
+  "description": "The meme conveys a humorous comparison of the time it takes to mine the first 20 million bitcoins versus the last million, illustrated with a character observing a progress bar."
+}

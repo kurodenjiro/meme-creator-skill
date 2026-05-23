@@ -1,0 +1,12 @@
+{
+  "layout": "The image is divided into two main sections. The top section includes the boldleonidas icon, an arrow, the text 'Receiving', and the amount '0.200 ZEC'. The bottom section contains a message box with additional text.",
+  "character_position": "There are no human characters in this image. The key visual elements (icons and text) are centered horizontally. The ZEC amount takes up a significant portion of the top section.",
+  "text_style": {
+    "font_guess": "Sans-serif",
+    "style": "Bold for the amount, regular for other text",
+    "color": "White text on a dark background",
+    "position": "Text is centered and aligned towards the top and bottom sections of the image"
+  },
+  "content_structure": "This image combines visual elements and text in a format resembling an app notification or transfer confirmation screen, using the structure for informational sharing or gratitude expression.",
+  "description": "The image shows a transaction notification with 0.200 ZEC being received. A personal message below thanks boldleonidas for their efforts, expressing appreciation and happiness."
+}

@@ -1,0 +1,43 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "characters": [
+        "coin_character",
+        "purple_character"
+      ],
+      "text": {
+        "content": "You feeling OK buddy?",
+        "position": "top_right"
+      }
+    },
+    "panel_2": {
+      "characters": [
+        "coin_character",
+        "purple_character"
+      ],
+      "action": "coin_character vomiting"
+    }
+  },
+  "character_position": {
+    "coin_character": {
+      "panel_1": "center_left, 30%",
+      "panel_2": "center_right, 30%"
+    },
+    "purple_character": {
+      "panel_1": "center_right, 35%",
+      "panel_2": "center_left, 35%"
+    }
+  },
+  "text_style": {
+    "font_guess": "handwritten",
+    "color": "black",
+    "speech_bubble": true,
+    "panel_1_text": {
+      "position": "top_right",
+      "style": "speech bubble"
+    }
+  },
+  "content_structure": "reaction",
+  "description": "The meme features two panels. In the first, a purple character wearing a 'PRO' cap asks a coin character if it's feeling okay. In the second panel, the coin character is shown vomiting, indicating it's not okay."
+}

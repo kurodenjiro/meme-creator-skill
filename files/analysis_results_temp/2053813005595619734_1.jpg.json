@@ -1,0 +1,35 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel1": {
+      "elements": [
+        "greeting card front",
+        "hands"
+      ],
+      "text": "Top half of the card"
+    },
+    "panel2": {
+      "elements": [
+        "greeting card inside",
+        "hands"
+      ],
+      "text": "Bottom half of the card"
+    }
+  },
+  "character_position": {
+    "hands": {
+      "position": "bottom center",
+      "size_percentage": "15%"
+    }
+  },
+  "text_style": {
+    "font_guess": "bold, hand-drawn style",
+    "color": "black on light background",
+    "text_position": {
+      "panel1": "center",
+      "panel2": "center"
+    }
+  },
+  "content_structure": "reaction, apology",
+  "description": "A two-panel comic with a Mother's Day card. The front says 'HAPPY MOTHERS DAY!' with a flower, and inside it says 'SORRY FOR TELLING YOU TO BUY BITCOIN AT $120K. LOVE YOU BOLD xxx'."
+}

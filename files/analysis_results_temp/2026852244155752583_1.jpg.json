@@ -1,0 +1,14 @@
+{
+  "layout": "The image contains two characters. The character on the left is speaking and holding a document, while the character on the right is listening. There are like counts above each character.",
+  "character_position": "The left character occupies about 30% of the image width, positioned in the lower left. The right character occupies about 25%, positioned in the lower right.",
+  "text_style": {
+    "font": "Handwritten, bold",
+    "color": "Black text inside white speech bubbles",
+    "positions": {
+      "left_character": "Upper left, large speech bubble",
+      "right_character": "Upper right, smaller speech bubble"
+    }
+  },
+  "content_structure": "Comparison",
+  "description": "The meme illustrates the difference in likes received for effortful research versus a simple reaction, using exaggerated like counts."
+}

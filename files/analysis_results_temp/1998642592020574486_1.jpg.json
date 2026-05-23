@@ -1,0 +1,7 @@
+{
+  "layout": "Bức ảnh có hai nhân vật: một ở bên trái và một ở bên phải. Nhân vật bên trái đứng, cử chỉ hoạt hình, và có hộp thoại xuất hiện từ trên đầu. Nhân vật bên phải ngồi trước máy tính, có hộp thoại khác phía trên. Nền là màu trung tính, có một chiếc bàn và máy tính. Phía dưới là biểu tượng tương tác xã hội.",
+  "character_position": "Nhân vật bên trái chiếm khoảng 30% khung hình, ở phía trên bên trái. Nhân vật bên phải chiếm khoảng 40% khung hình, ngồi trước máy tính ở giữa bên phải.",
+  "text_style": "Chữ trong các hộp thoại có kiểu chữ dạng tay viết, màu đen. Vị trí chữ nằm trong các bong bóng thoại với viền đen. Phía dưới có các biểu tượng màu trắng, xám, đỏ cho bình luận, chia sẻ, lượt thích và lượt xem.",
+  "content_structure": "Meme theo cấu trúc đối thoại hài hước, thể hiện phản ứng của hai nhân vật với nhau qua lời thoại. Có thêm phần chỉ số tương tác mạng xã hội để tăng thêm tính hài hước.",
+  "description": "Meme miêu tả cuộc trò chuyện giữa hai nhân vật, một người phản ứng lại một nội dung khác trên máy tính, kèm theo yếu tố mạng xã hội như lượt thích, thời gian."
+}

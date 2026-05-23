@@ -1,0 +1,49 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "Now: EXTREME FEAR",
+        "position": "top left",
+        "font_style": "bold, uppercase",
+        "color": "black (Now:) and red-orange (EXTREME FEAR)"
+      }
+    ],
+    "graphic_elements": [
+      {
+        "description": "A semi-circular fear meter",
+        "position": "center-right"
+      },
+      {
+        "description": "Bitcoin character on the meter",
+        "position": "bottom-center of the meter"
+      },
+      {
+        "description": "Two characters hanging on the meter needle",
+        "position": "bottom-left of the meter"
+      }
+    ]
+  },
+  "character_position": {
+    "bitcoin_character": {
+      "location": "center",
+      "size_percentage": "approximately 10%"
+    },
+    "hanging_characters": {
+      "location": "bottom",
+      "size_percentage": "approximately 5% combined"
+    }
+  },
+  "text_style": {
+    "font_style": "handwritten, bold",
+    "font_color": {
+      "now": "black",
+      "extreme_fear": "red-orange"
+    },
+    "position": "top left of the image"
+  },
+  "content_structure": {
+    "format": "status update with a reaction graphic",
+    "message": "Graphically depicts the current status of fear using a fear meter"
+  },
+  "description": "This meme visually represents the concept of 'extreme fear' in the market using a fear meter graphic, with Bitcoin and other characters showing humor and exaggeration."
+}

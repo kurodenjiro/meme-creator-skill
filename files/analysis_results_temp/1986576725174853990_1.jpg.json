@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text_elements": "Có một dòng chữ '@Boldleonidas X' ở trên cùng.",
+    "characters": "Hai nhân vật được đặt gần nhau ở trung tâm khung hình.",
+    "background": "Nền trắng đơn giản, không có chi tiết thừa."
+  },
+  "character_position": {
+    "left_character": "Nhân vật bên trái chiếm khoảng 30% diện tích và đang cười.",
+    "right_character": "Nhân vật bên phải chiếm khoảng 30% diện tích, mặc vest và đội mũ."
+  },
+  "text_style": {
+    "font_guess": "Chữ viết tay hoặc script đơn giản.",
+    "color": "Màu đen.",
+    "placement": "Đặt ở giữa phía trên hai nhân vật."
+  },
+  "content_structure": {
+    "format": "Reaction - Tương tác giữa hai nhân vật với biểu cảm đối lập."
+  },
+  "description": "Bức ảnh có hai nhân vật khác biệt về biểu cảm, một tươi cười và một nghiêm túc. Chữ ký 'Boldleonidas X' phía trên tạo dấu ấn cá nhân."
+}

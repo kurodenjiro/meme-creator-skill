@@ -1,0 +1,40 @@
+{
+  "layout": {
+    "panels": 2,
+    "elements": [
+      {
+        "type": "character",
+        "position": "left",
+        "size_percentage": "50%"
+      },
+      {
+        "type": "table",
+        "position": "center",
+        "text_box_position": "front",
+        "text_box_size": "100%"
+      }
+    ]
+  },
+  "character_position": {
+    "first_panel": {
+      "character": "left",
+      "size_percentage": "50%"
+    },
+    "second_panel": {
+      "character1": "left",
+      "character2": "right",
+      "size_percentage_character1": "40%",
+      "size_percentage_character2": "40%"
+    }
+  },
+  "text_style": {
+    "font_guess": "comic_style_font",
+    "color": "black",
+    "position": "front_center_of_table",
+    "style": "handwritten"
+  },
+  "content_structure": {
+    "format": "change_my_mind"
+  },
+  "description": "The meme is a two-panel comic featuring a dog character sitting at a table with the text 'Zora is a stupid idea. Change my mind' in the first panel. In the second panel, the text is changed to 'Zora is the best. Change my mind' with an additional human character engaging with the dog."
+}

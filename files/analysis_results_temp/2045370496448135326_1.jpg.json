@@ -1,0 +1,11 @@
+{
+  "layout": "Nhân vật nằm ở góc trái, chiếm khoảng 25% khung hình. Bên phải là hộp thoại bao bọc chữ 'SIDELINED?' với nền trắng chủ đạo.",
+  "character_position": "Nhân vật nằm ở góc trái dưới, tỉ lệ chiếm khoảng 25% diện tích khung hình.",
+  "text_style": {
+    "font": "Phông chữ giống kiểu tay viết, in hoa.",
+    "color": "Màu đen",
+    "position": "Nằm trong hộp thoại bật ra từ nhân vật, nằm ở phía trên bên phải."
+  },
+  "content_structure": "Hội thoại đơn giản dưới dạng hỏi đáp (reaction).",
+  "description": "Một nhân vật hoạt hình dạng đồng xu đang hỏi với dòng chữ 'SIDELINED?' thể hiện sự bỡ ngỡ hoặc đặt câu hỏi."
+}

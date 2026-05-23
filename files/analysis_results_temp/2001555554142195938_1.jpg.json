@@ -1,0 +1,11 @@
+{
+  "layout": "The image has a three-part layout. At the top, there's a question with a graphic icon. Below, there's a poll-like graph with options and percentages. The bottom part features two characters facing the graph, with dialogue.",
+  "character_position": "The characters are positioned at the bottom of the image, occupying about 20% of the height and centered horizontally.",
+  "text_style": {
+    "font": "Handwritten style (exact font not specified)",
+    "color": "Black for primary text, different colors for graph options (green, blue, black)",
+    "position": "Top for question text, above graph for options, near characters for dialogue."
+  },
+  "content_structure": "The meme uses a reaction format. It poses a question with multiple-choice answers displayed graphically and concludes with characters reacting to the data presented.",
+  "description": "A meme featuring a question about Kalshi being gambling, with graph options 'YES,' 'MAYBE,' 'NO' and a 100% indication next to 'Kalshi'. At the bottom, two characters react with 'OH.'"
+}

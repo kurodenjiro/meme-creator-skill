@@ -1,0 +1,26 @@
+{
+  "layout": {
+    "background": "The background features a swirling black and white vortex with dynamic wave-like patterns.",
+    "characters": {
+      "character_1": "Left side, facing center, moving with the vortex.",
+      "character_2": "Right side, also facing center, following character 1."
+    }
+  },
+  "character_position": {
+    "character_1": {
+      "position": "bottom-left quadrant",
+      "size_percentage": 20
+    },
+    "character_2": {
+      "position": "center-right",
+      "size_percentage": 15
+    }
+  },
+  "text_style": {
+    "font": "unknown",
+    "style": "none visible",
+    "color": "none"
+  },
+  "content_structure": "reaction",
+  "description": "The scene depicts two cartoon characters being pulled into a vortex with expressions that suggest surprise or excitement."
+}

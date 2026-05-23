@@ -1,0 +1,50 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "SO I BASICALLY BOUGHT HYPE AT $30 WATCHED IT GO TO $60, THEN SOLD IT AT $25.",
+        "position": "top left",
+        "background": "speech bubble",
+        "font_color": "black",
+        "border_color": "black"
+      },
+      {
+        "content": "HMM... OK",
+        "position": "middle right",
+        "background": "speech bubble",
+        "font_color": "black",
+        "border_color": "black"
+      }
+    ],
+    "character_elements": [
+      {
+        "position": "left",
+        "description": "A green character lying on a couch"
+      },
+      {
+        "position": "right",
+        "description": "A character sitting in a chair, holding a notepad"
+      }
+    ]
+  },
+  "character_position": {
+    "main_character": {
+      "position": "left",
+      "approximate_size_percentage": 40
+    },
+    "secondary_character": {
+      "position": "right",
+      "approximate_size_percentage": 35
+    }
+  },
+  "text_style": {
+    "font": "handwritten",
+    "text_color": "black",
+    "bubble_color": "white with black border"
+  },
+  "content_structure": {
+    "type": "conversation",
+    "theme": "humorous financial mishap"
+  },
+  "description": "A humorous comic depicting a character recounting a failed financial decision to a therapist, while the therapist responds dismissively."
+}

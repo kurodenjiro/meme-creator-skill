@@ -1,0 +1,23 @@
+{
+  "layout": {
+    "panels": 4,
+    "text_bubbles": "Contained within speech balloons; bold, black outline.",
+    "character_position": "Characters predominantly in the bottom half of each panel, with text above."
+  },
+  "character_position": {
+    "Panel 1": "Two characters in the center, left and right of each other, occupying about 60% of the panel.",
+    "Panel 2": "Three characters, with two in the center-left, and one on the right, occupying about 70% of the panel.",
+    "Panel 3": "Two characters on the left side, occupy about 50% of the panel.",
+    "Panel 4": "Close-up of hands holding an envelope, central in frame, occupying nearly full panel width."
+  },
+  "text_style": {
+    "font": "Hand-drawn style with bold outlines.",
+    "color": "Black text for speech, blue for title.",
+    "position": "Text placed above characters or adjacent."
+  },
+  "content_structure": {
+    "format": "Reaction meme with a twist at the end.",
+    "setting": "Award ceremony with an unexpected conclusion."
+  },
+  "description": "This meme portrays a story of an award ceremony setting where 'KOL Awards' are announced. The characters are eagerly anticipating the winner, which leads to a humorous twist revealing a '54% Tax Bill' instead of a traditional award."
+}

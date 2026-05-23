@@ -1,0 +1,12 @@
+{
+  "layout": "The meme is composed of a character centered in the middle, occupying most of the vertical space. A speech bubble is positioned towards the top, with the text inside.",
+  "character_position": "The character is centrally placed in the image, taking up about 60-70% of the total height.",
+  "text_style": {
+    "font": "Comic/cartoon style",
+    "color": "Black",
+    "position": "Inside a speech bubble at the top",
+    "alignment": "Center of the bubble"
+  },
+  "content_structure": "Reaction format, where the character expresses surprise or disbelief in text.",
+  "description": "A cartoon character with a surprised expression, accompanied by a speech bubble that contains humorous, sarcastic text reflecting a reaction."
+}

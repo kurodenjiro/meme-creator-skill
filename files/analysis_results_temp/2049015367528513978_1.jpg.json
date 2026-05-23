@@ -1,0 +1,32 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_position": "Top of each panel",
+    "character_position": "On the left and right sides",
+    "background": "Gray with comic-style bold outlines"
+  },
+  "character_position": {
+    "left_character": {
+      "panel_1": "Left side, approximately 20% of the panel",
+      "panel_2": "Left side, approximately 20% of the panel"
+    },
+    "right_character": {
+      "panel_1": "Right side, approximately 20% of the panel",
+      "panel_2": "Right side, approximately 20% of the panel"
+    }
+  },
+  "text_style": {
+    "font": "Bold, hand-drawn style",
+    "color": "Black",
+    "panel_1": "DEFI BAILOUT",
+    "panel_2": "DEFI UNITED",
+    "text_background": {
+      "panel_2": "Boxed 'UNITED'"
+    }
+  },
+  "content_structure": {
+    "format": "Comparison or transformation",
+    "theme": "Finance, possibly humorous or satirical"
+  },
+  "description": "The meme consists of two panels, each with a simple character interaction and text indicating a transformation from 'DEFI BAILOUT' to 'DEFI UNITED'. Characters are on opposite sides in each panel, reacting to the change in the text content."
+}

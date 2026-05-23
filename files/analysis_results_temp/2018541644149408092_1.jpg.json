@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "panel_count": 2,
+    "elements": [
+      {
+        "panel": 1,
+        "character": "left side",
+        "book": "center-right"
+      },
+      {
+        "panel": 2,
+        "text_on_page": "center-left",
+        "blank_page": "center-right"
+      }
+    ]
+  },
+  "character_position": {
+    "location": "left in the first panel",
+    "size_percentage": "approximately 30%"
+  },
+  "text_style": {
+    "font_guess": "handwritten style",
+    "color": "black",
+    "locations": [
+      "on book cover in the first panel",
+      "on page in the second panel"
+    ]
+  },
+  "content_structure": {
+    "format": "instructional with steps and humor"
+  },
+  "description": "This meme consists of two panels. In the first panel, a character on the left is holding a book titled 'How to be Saylor.' In the second panel, the open book reveals humorous instructions, with text on the left page and a blank right page."
+}

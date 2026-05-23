@@ -1,0 +1,12 @@
+{
+  "layout": "The meme has a simple, cartoon-style layout. The text is enclosed in a speech bubble in the top left corner. The character is positioned on the right side of the image, standing on a mountaintop, with a flag bearing 'NFTs' in the middle right.",
+  "character_position": "The character is located on the right side, occupying approximately 25% of the image. The character is the focal point, standing on a peak.",
+  "text_style": {
+    "font": "Cartoonish, handwritten style",
+    "color": "Black",
+    "background": "White speech bubble",
+    "position": "Top left corner"
+  },
+  "content_structure": "Reaction format, expressing a desire or demand related to NFTs.",
+  "description": "A cartoon character stands assertively on a mountain peak, holding a flag with 'NFTs' and declaring, 'We must bring back NFTs.'"
+}

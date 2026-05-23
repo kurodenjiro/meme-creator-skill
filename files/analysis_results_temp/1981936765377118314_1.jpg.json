@@ -1,0 +1,62 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "text": "$33,921.31",
+        "position": "top center",
+        "font_size": "large"
+      },
+      {
+        "text": "Total revenue",
+        "position": "below main amount",
+        "font_size": "medium"
+      },
+      {
+        "text": "Payouts",
+        "position": "left under total revenue",
+        "font_size": "medium"
+      },
+      {
+        "text": "$1,131.95",
+        "position": "center, first payout box",
+        "font_size": "medium"
+      },
+      {
+        "text": "Oct 10, 2025 - Oct 25, 2025",
+        "position": "below first payout amount",
+        "font_size": "small"
+      },
+      {
+        "text": "$1,004.69",
+        "position": "center, second payout box",
+        "font_size": "medium"
+      },
+      {
+        "text": "Sep 27, 2025 - Oct 10, 2025",
+        "position": "below second payout amount",
+        "font_size": "small"
+      }
+    ],
+    "background_color": "black",
+    "payout_boxes": [
+      {
+        "shape": "rectangle",
+        "border_radius": "small",
+        "color": "dark gray"
+      }
+    ]
+  },
+  "character_position": {
+    "presence": "none, image is text-based"
+  },
+  "text_style": {
+    "font": "sans-serif (approximation)",
+    "color": "white for main text, light gray for secondary text",
+    "alignment": "centered for main, left for sections"
+  },
+  "content_structure": {
+    "format": "informational",
+    "theme": "financial summary, income report"
+  },
+  "description": "This image shows a summary of total revenue and payouts for certain dates with a clean, financial-themed layout. Large, centered figures show the total amount, followed by detailed payout information below."
+}

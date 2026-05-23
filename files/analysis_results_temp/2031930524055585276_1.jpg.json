@@ -1,0 +1,48 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "Wow. CT is down so bad. They think a privy wallet aggregator is an airdrop...",
+        "position": "top left",
+        "bounding_box": "large"
+      },
+      {
+        "content": "Guys! I got $5.86! We are so back!",
+        "position": "top right",
+        "bounding_box": "medium"
+      }
+    ],
+    "character_positions": [
+      {
+        "description": "Left character holding a phone",
+        "position": "bottom left",
+        "size_percent": 20
+      },
+      {
+        "description": "Middle character walking",
+        "position": "center",
+        "size_percent": 20
+      },
+      {
+        "description": "Right character excited with phone",
+        "position": "bottom right",
+        "size_percent": 20
+      }
+    ],
+    "background": "gray with white character outlines"
+  },
+  "character_position": [
+    "Left: 20%",
+    "Middle: 20%",
+    "Right: 20%"
+  ],
+  "text_style": {
+    "font": "bold, sans-serif-like",
+    "color": "black",
+    "outline": "white",
+    "position": "speech bubbles at top",
+    "alignment": "left aligned"
+  },
+  "content_structure": "reaction to cryptocurrency market situation with humorous punchline",
+  "description": "A meme with three characters reacting to a crypto market downturn and celebrating small gains."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "Biểu đồ cột với các cột màu khác nhau, có vạch đánh dấu mục tiêu bằng màu vàng.",
+  "character_position": "Biểu đồ cột chiếm đến 60% chiều cao hình ảnh, nằm chính giữa và lệch về phía dưới một chút.",
+  "text_style": {
+    "font": "Sans-serif (dự đoán)",
+    "color": "Trắng cho văn bản trong các cột, đỏ cho phần trăm thay đổi, vàng trên nền đỏ cho số mới",
+    "position": "Giữa các cột và bên cạnh cột để hiển thị sự thay đổi."
+  },
+  "content_structure": "So sánh giá trị, với nhấn mạnh vào thay đổi % và vượt mục tiêu (bằng màu sắc và con số).",
+  "description": "Biểu đồ cột với hai cột nhỏ đầu có giá trị như nhau ($100,000), cột thứ ba lớn hơn với giá trị $105,668, có kèm thay đổi +5.67% và vạch vàng chỉ mục tiêu."
+}

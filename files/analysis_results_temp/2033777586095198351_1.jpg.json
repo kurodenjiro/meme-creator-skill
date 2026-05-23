@@ -1,0 +1,47 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "\"Average tweet\"",
+        "position": "top left of each tweet box"
+      },
+      {
+        "content": "5 ❤️",
+        "position": "bottom left of the upper tweet box"
+      },
+      {
+        "content": "*RANDOM POPULAR BARELY RELEVANT VIDEO OR GIF TO KEEP ATTENTION",
+        "position": "center in lower tweet box"
+      },
+      {
+        "content": "143k ❤️",
+        "position": "bottom left of the lower tweet box"
+      }
+    ],
+    "characters": [
+      {
+        "side": "left",
+        "position": "bottom left, outside tweet boxes"
+      },
+      {
+        "side": "right",
+        "position": "bottom right, outside tweet boxes"
+      }
+    ],
+    "background": "grey with white tweet boxes"
+  },
+  "character_position": {
+    "left_character": "occupies roughly 10%",
+    "right_character": "occupies roughly 10%"
+  },
+  "text_style": {
+    "font": "cartoon-style, handwritten (estimated)",
+    "color": {
+      "average_tweet": "black",
+      "dialogue": "red"
+    },
+    "alignment": "left-aligned in boxes"
+  },
+  "content_structure": "comparison between two tweets with different engagements",
+  "description": "The meme illustrates the disparity in engagement between average tweets and tweets with catchy media using a simple side-by-side box comparison, accompanied by two characters observing."
+}

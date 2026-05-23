@@ -1,0 +1,12 @@
+{
+  "layout": "Hai phần ngang với đường chia rõ ràng ở giữa. Mỗi phần có một nhân vật và đi kèm với văn bản.",
+  "character_position": "Nhân vật nằm bên phải trong cả hai phần. Trong phần trên, nhân vật đang ngồi làm việc với máy tính. Trong phần dưới, nhân vật nằm trên ghế sofa với thiết bị di động. Nhân vật chiếm khoảng 40% khung hình trong mỗi phần.",
+  "text_style": {
+    "font": "Kiểu chữ có vẻ tay ngang, giống kiểu chữ viết tay",
+    "style": "In hoa, đậm",
+    "colors": "Chữ thường màu đen, nhấn mạnh bằng chữ 'BAD' màu đỏ và 'GOOD' màu xanh lá cây.",
+    "position": "Văn bản nằm phía bên trái của mỗi phần."
+  },
+  "content_structure": "So sánh giữa hai tình huống: một tình huống tiêu cực và một tình huống tích cực.",
+  "description": "Bức tranh meme so sánh giữa cảm giác chán nản khi làm việc với màn hình xấu và sự hào hứng khi về nhà với màn hình tốt hơn."
+}

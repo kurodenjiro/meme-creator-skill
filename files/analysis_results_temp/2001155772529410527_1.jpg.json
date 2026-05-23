@@ -1,0 +1,11 @@
+{
+  "layout": "Image consists of two main blue folders with labels underneath. It has a plain white background.",
+  "character_position": "The folders are positioned side by side in the center of the image. Each folder occupies about 30% of the image width.",
+  "text_style": {
+    "font": "Bold, sans-serif style.",
+    "color": "Black",
+    "location": "Text labels are placed below each folder."
+  },
+  "content_structure": "Comparison format, contrasting two scenarios: one folder labeled 'COINS UP THIS WEEK' is empty and another labeled 'JOB APPLICATIONS' is full.",
+  "description": "The meme humorously compares the frequency of certain events by showing an empty folder for lesser events and a full folder for more frequent ones."
+}

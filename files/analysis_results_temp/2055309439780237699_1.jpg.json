@@ -1,0 +1,14 @@
+{
+  "layout": "The image is divided into two main sections. On the left, there's a larger, muscular character labeled 'STOCKS,' and on the right, there's a smaller, sad-looking character labeled 'CRYPTO.' Both characters are centered within their respective sections. The text is below each character.",
+  "character_position": {
+    "STOCKS": "Left side, taking up about 40% of the image height.",
+    "CRYPTO": "Right side, taking up about 30% of the image height."
+  },
+  "text_style": {
+    "font": "A bold, playful, all-caps font.",
+    "color": "Black.",
+    "position": "Below each respective character."
+  },
+  "content_structure": "Comparison format illustrating 'STOCKS' as strong and 'CRYPTO' as weak or sad.",
+  "description": "A humorous meme comparing the strength and stability of stocks versus the volatility and perceived weakness of cryptocurrency, depicted through anthropomorphic dog characters."
+}

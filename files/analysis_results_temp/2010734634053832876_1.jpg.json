@@ -1,0 +1,49 @@
+{
+  "layout": {
+    "text": {
+      "position": "top left",
+      "style": "speech bubble",
+      "content": "I WAS JUST\nDOING CORRECT\nMATH!"
+    },
+    "characters": [
+      {
+        "position": "left",
+        "size_percentage": 15
+      },
+      {
+        "position": "right",
+        "size_percentage": 20
+      }
+    ],
+    "background": {
+      "components": "police car, siren lights"
+    }
+  },
+  "character_position": {
+    "main_character": {
+      "position": "right, being handcuffed",
+      "size_percentage": 20
+    },
+    "side_characters": [
+      {
+        "position": "left",
+        "size_percentage": 15
+      },
+      {
+        "position": "left",
+        "size_percentage": 15
+      }
+    ]
+  },
+  "text_style": {
+    "font": "handwritten",
+    "color": "black",
+    "positioning": "within speech bubble"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "context": "arresting scene for doing math",
+    "tone": "humorous, ironic"
+  },
+  "description": "The meme displays a humorous arrest scene in which a character is handcuffed next to a police car. The speech bubble suggests an ironic twist, as the character claims they were just doing correct math. The visual elements include colorful character designs and a police car with flashing lights, emphasizing the comedic and dramatic tone."
+}

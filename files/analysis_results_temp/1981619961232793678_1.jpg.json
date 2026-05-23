@@ -1,0 +1,36 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "characters": "Top half with owl and wizard at a poker table, frog waiter in the background",
+      "text": "Top left in a speech bubble"
+    },
+    "panel_2": {
+      "characters": "Bottom half shows an X-ray view of the characters",
+      "text": "Bottom right in a speech bubble"
+    }
+  },
+  "character_position": {
+    "panel_1": {
+      "owl": "Left side, occupying about 30% of space",
+      "wizard": "Center, occupying about 30% of space",
+      "frog waiter": "Right side, occupying about 20% of space"
+    },
+    "panel_2": {
+      "owl": "Left side, occupying about 30% of space",
+      "wizard": "Center, in X-ray, occupying about 30% of space",
+      "frog waiter": "Right side, in X-ray, occupying 20% of space"
+    }
+  },
+  "text_style": {
+    "font_guess": "Bold, handwritten style",
+    "color": "Black in panel 1, white in panel 2",
+    "bubble_style": "Speech bubbles with black outline",
+    "placement": "Panel 1: Top left; Panel 2: Bottom right"
+  },
+  "content_structure": {
+    "format": "Comparison",
+    "elements": "Setup in Panel 1, reveal in Panel 2"
+  },
+  "description": "The meme depicts a humorous scene at a poker table. In the first panel, characters question integrity using a speech bubble. The second panel amusingly reveals the truth with an X-ray view, showing hidden details."
+}

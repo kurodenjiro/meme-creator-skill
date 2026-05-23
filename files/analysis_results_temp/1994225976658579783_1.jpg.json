@@ -1,0 +1,87 @@
+{
+  "layout": {
+    "panels": 2,
+    "panel_1": {
+      "elements": [
+        {
+          "type": "text",
+          "content": "WE'RE BACK!",
+          "position": "top_right"
+        },
+        {
+          "type": "character",
+          "position": "top_right",
+          "size_percentage": 10
+        },
+        {
+          "type": "text",
+          "content": "IT'S OVER.",
+          "position": "middle_right"
+        },
+        {
+          "type": "character",
+          "position": "middle_right",
+          "size_percentage": 10
+        },
+        {
+          "type": "graph",
+          "color": [
+            "red",
+            "green"
+          ],
+          "position": "center"
+        }
+      ]
+    },
+    "panel_2": {
+      "elements": [
+        {
+          "type": "text",
+          "content": "WE'RE BACK!",
+          "repeated": true
+        },
+        {
+          "type": "character",
+          "repeated": true,
+          "size_percentage": 5
+        },
+        {
+          "type": "text",
+          "content": "IT'S OVER.",
+          "repeated": true
+        },
+        {
+          "type": "character",
+          "repeated": true,
+          "size_percentage": 5
+        },
+        {
+          "type": "graph",
+          "color": [
+            "red",
+            "green"
+          ],
+          "position": "center"
+        }
+      ]
+    }
+  },
+  "character_position": {
+    "panel_1": {
+      "first_character": "top_right",
+      "second_character": "middle_right"
+    },
+    "panel_2": {
+      "pattern": "alternating along graph"
+    }
+  },
+  "text_style": {
+    "font": "handwritten",
+    "style": "comic",
+    "color": "black",
+    "outline": "white",
+    "position": "next to characters"
+  },
+  "content_structure": "contrast in sentiment (optimism vs. pessimism) displayed in repeated pattern",
+  "description": "The meme uses a graph to illustrate contrasting attitudes between two characters, one being optimistic and the other pessimistic, with repetitive panels to emphasize the cyclical nature of reactions."
+}

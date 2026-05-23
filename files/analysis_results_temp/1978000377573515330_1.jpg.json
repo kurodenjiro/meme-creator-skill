@@ -1,0 +1,42 @@
+{
+  "layout": {
+    "background": "Màu đỏ với hình ảnh một sản phẩm thức ăn nhanh nổi bật ở giữa.",
+    "text_elements": [
+      {
+        "text": "KFC DOUBLE DOWN DOG",
+        "position": "góc trên bên phải",
+        "font_style": "đậm, nổi bật",
+        "color": "đỏ và trắng"
+      },
+      {
+        "text": "Tender Juicy",
+        "position": "bên trái, gần đáy",
+        "font_style": "tròn, vui nhộn",
+        "color": "xanh và vàng"
+      }
+    ]
+  },
+  "character_position": {
+    "main_item": "Ở giữa, chiếm khoảng 70% khung hình",
+    "product_emphasis": "sản phẩm là trung tâm của hình ảnh"
+  },
+  "text_style": {
+    "font": "Không xác định rõ, nhưng có vẻ là sans-serif",
+    "style": "đậm, kỹ lưỡng",
+    "colors": [
+      {
+        "primary": "Đỏ",
+        "secondary": "Trắng"
+      },
+      {
+        "primary": "Xanh",
+        "secondary": "Vàng"
+      }
+    ],
+    "placement": "trên cùng và góc"
+  },
+  "content_structure": {
+    "format": "Quảng cáo sản phẩm, gây bất ngờ bởi hình thức chế biến"
+  },
+  "description": "Hình ảnh quảng cáo cho sản phẩm thức ăn nhanh của KFC với sự nhấn mạnh vào vẻ ngoài độc đáo và chỉ dẫn thương hiệu rõ ràng."
+}

@@ -1,0 +1,25 @@
+{
+  "layout": {
+    "text_position": "Top of each panel",
+    "character_position": "Left side of each panel",
+    "object_position": "Right side of each panel"
+  },
+  "character_position": {
+    "location": "Left side",
+    "size_percentage": "Approximately 20% of each panel's width"
+  },
+  "text_style": {
+    "font": "Bold, sans-serif",
+    "color": "Black",
+    "position": "Centered at the top of each panel"
+  },
+  "content_structure": {
+    "format": "Comparison",
+    "elements": [
+      "Hantavirus representation",
+      "Comic character with pointer",
+      "Contrasting image with 'Hentaivirus'"
+    ]
+  },
+  "description": "This meme consists of two panels with a comic character on the left, pointing at two different objects on the right. The text at the top of each panel indicates the comparison theme, while the visual contrast underlines the humorous twist."
+}

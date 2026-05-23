@@ -1,0 +1,11 @@
+{
+  "layout": "The image is divided into two panels arranged vertically. Each panel contains a character on the left side and a computer setup on the right. Text is present on the computer screen and above the character in the second panel.",
+  "character_position": "The character is situated on the left side of each panel, occupying about 30% of the frame. The character is sitting in a chair, facing the computer.",
+  "text_style": {
+    "font": "Cartoon-style, bold",
+    "color": "Black in the first panel, black and orange in the second panel",
+    "position": "Text is shown on the computer screen in both panels. 'WOAH!' text is above the character in the second panel."
+  },
+  "content_structure": "The meme compares two time periods, 1996 and 2026, to show a humorous evolution in technology and communication.",
+  "description": "A two-panel comic contrasting an old and new way of receiving emails. In 1996, the character is calmly looking at a computer screen that says 'YOU'VE GOT MAIL', whereas in 2026, the character reacts with surprise to the message 'OPENCLAW: YOU'VE GOT AN EMAIL'."
+}

@@ -1,0 +1,54 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "PSYCHIATRIC HELP 5¢",
+        "position": "top of the booth",
+        "font": "bold, uppercase",
+        "color": "black",
+        "background": "pink"
+      },
+      {
+        "content": "THE DOCTOR IS IN",
+        "position": "front of the booth",
+        "font": "bold, uppercase",
+        "color": "black",
+        "background": "light brown"
+      },
+      {
+        "content": "QUEUE HERE",
+        "position": "on a sign next to the character",
+        "font": "bold, uppercase",
+        "color": "black",
+        "background": "white"
+      }
+    ],
+    "background": "outdoor sky with clouds"
+  },
+  "character_position": {
+    "main_character": {
+      "location": "inside the booth, right side",
+      "size_percentage": "approximately 25%"
+    },
+    "secondary_characters": {
+      "location": "left, forming a queue",
+      "size_percentage": "approximately 15%"
+    },
+    "other_element": {
+      "location": "front of the main character",
+      "size_percentage": "small stool"
+    }
+  },
+  "text_style": {
+    "main_text": {
+      "font": "bold, uppercase",
+      "color": "black"
+    },
+    "other_text": {
+      "font": "bold, uppercase",
+      "color": "black"
+    }
+  },
+  "content_structure": "dialog around an unusual business offer, humor",
+  "description": "The image features a booth labeled 'PSYCHIATRIC HELP 5¢' with a character inside, resembling a therapist ready to offer help. A queue of characters forms to the left. The setting is outdoors with a clear sky."
+}

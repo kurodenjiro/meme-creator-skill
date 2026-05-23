@@ -1,0 +1,38 @@
+{
+  "layout": {
+    "elements": [
+      "Top Section: Banner with 'Sponsor' labels and 'Live on Pump' text.",
+      "Middle Section: Window view with missiles in the sky as background.",
+      "Bottom Section: Character on the right and dialogue box on the left."
+    ]
+  },
+  "character_position": {
+    "location": "Right side of the image",
+    "size_percentage": "Approximately 30-40% of the image"
+  },
+  "text_style": {
+    "font": "Handwritten-style, bold",
+    "color": [
+      {
+        "text": "SPONSOR",
+        "color": "Red and orange on blue and orange backgrounds"
+      },
+      {
+        "text": "Live on Pump",
+        "color": "Red and black"
+      },
+      {
+        "dialogue": "Yeah. I used to have 9 figures",
+        "color": "Black on white speech bubble"
+      }
+    ],
+    "position": [
+      "Top banner",
+      "Speech bubble near character"
+    ]
+  },
+  "content_structure": {
+    "format": "Humorous Commentary"
+  },
+  "description": "The meme uses a humorous layout with a character on the right side, looking towards a scene of disaster through a window, and commenting on their past financial status. The top section includes sponsor ads in a style similar to streaming overlays."
+}

@@ -1,0 +1,24 @@
+{
+  "layout": {
+    "header": "Top section with white text on black background containing a name and description.",
+    "message_box": "Centered below the header, dark chat bubble containing the main text.",
+    "footer": "Bottom timestamp aligned to the left."
+  },
+  "character_position": {
+    "location": "Header section",
+    "size_percentage": "Approximately 10% of the image height."
+  },
+  "text_style": {
+    "font_guess": "Sans-serif, similar to Arial or Helvetica.",
+    "style": "White text on black and dark grey backgrounds.",
+    "position": [
+      "Header: centered at the top.",
+      "Message: centered in frame.",
+      "Timestamp: bottom left."
+    ]
+  },
+  "content_structure": {
+    "format": "Message text in a mock chat format, positioned as a received message with a timestamp."
+  },
+  "description": "An image simulating a social media direct message from a public figure, complete with profile description and timestamp."
+}

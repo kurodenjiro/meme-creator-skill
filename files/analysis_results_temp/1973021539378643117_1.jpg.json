@@ -1,0 +1,11 @@
+{
+  "layout": "The meme is structured in a 2-column layout. On the left, there are character images with their associated titles and descriptions. On the right, complimentary or contrasting characters are displayed, also accompanied by text.",
+  "character_position": "Characters are placed in square frames, with each taking about 10% of the total space individually. They are evenly distributed from top to bottom in two columns.",
+  "text_style": {
+    "font": "Handwritten style font, possibly a digital brush font",
+    "color": "White",
+    "position": "Text is positioned next to each character frame, slightly above, below, or beside according to available space."
+  },
+  "content_structure": "Comparison format, showcasing awards or recognitions given to different characters.",
+  "description": "The meme presents a satirical or humorous awards event 'DEGEN SUMMIT 2025' showcasing fictional awards and titles given to various illustrated characters."
+}

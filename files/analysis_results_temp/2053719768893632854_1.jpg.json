@@ -1,0 +1,11 @@
+{
+  "layout": "The meme is divided into three horizontal panels of equal size. Each panel features a green character on the left, speaking through a speech bubble. The character interacts with a gray character on the right in the second and third panels. The background is gray with a minimalistic style.",
+  "character_position": "The green character is positioned on the left side taking up approximately 30% of each panel. The gray character appears on the right side in the second and third panels, occupying about 20% of the frame.",
+  "text_style": {
+    "font": "Hand-drawn, bold style",
+    "color": "Black text on white speech bubbles with black borders",
+    "position": "Speech bubbles are placed to the right of the green character in each panel. The first panel has a small bubble, while the second and third panels have larger, emphasized bubbles with spiky outlines."
+  },
+  "content_structure": "The meme uses a progression format. It starts with a normal announcement, escalates to shouting with a megaphone, and ends with a surprising confession.",
+  "description": "This meme uses a three-panel structure with a green character gradually increasing the volume of their message. The first two panels show the character saying 'HEY EVERYONE,' while the third panel delivers the punchline 'I'M BUYING PRIVACY COINS,' suggesting a humorous or unexpected situation."
+}

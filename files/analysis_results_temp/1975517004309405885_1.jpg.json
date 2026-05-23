@@ -1,0 +1,25 @@
+{
+  "layout": {
+    "panels": 4,
+    "text_position": "top left or top center",
+    "character_alignment": "left side for action, right side for result",
+    "background": "brown and white alternating sections"
+  },
+  "character_position": {
+    "common_placement": "characters are usually on the left in each panel",
+    "size_percentage": "10-20%"
+  },
+  "text_style": {
+    "font_guess": "bold sans-serif",
+    "color": "black",
+    "position": "top left of each panel"
+  },
+  "content_structure": {
+    "format": "comparison with sequential progress",
+    "elements": [
+      "actions in different stages",
+      "resulting outcomes"
+    ]
+  },
+  "description": "The meme uses a four-panel layout to depict different projects (labeled as HYPERLIQUID S1, HYPERLIQUID S2, ASTER, MONAD) with characters digging for diamonds. Each panel shows varying levels of progress or success, suggesting a comparison of efficiency or achievement."
+}

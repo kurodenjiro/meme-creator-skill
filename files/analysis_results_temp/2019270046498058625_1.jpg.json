@@ -1,0 +1,46 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "SOLANAAAAAA!",
+        "position": "center-right",
+        "orientation": "diagonal from left to right",
+        "size": "large"
+      }
+    ],
+    "characters": [
+      {
+        "position": "top-left",
+        "on_edge": true
+      }
+    ],
+    "background": {
+      "color": "white",
+      "elements": [
+        {
+          "type": "cliff",
+          "position": "left"
+        },
+        {
+          "type": "Solana logo",
+          "position": "bottom-right"
+        }
+      ]
+    }
+  },
+  "character_position": {
+    "position": "top-left corner",
+    "size_percentage": "approximately 15%"
+  },
+  "text_style": {
+    "font": "bold, cartoonish",
+    "color": "black",
+    "alignment": "diagonal from character to bottom-right",
+    "style": "capitalized, elongated letters"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "message": "Expression of distress or alert about Solana (SOL)"
+  },
+  "description": "The meme shows a character on a cliff shouting 'SOLANAAAAAA!' as the Solana logo falls, implying a dramatic drop in value or situation involving Solana."
+}

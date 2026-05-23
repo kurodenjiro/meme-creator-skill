@@ -1,0 +1,27 @@
+{
+  "layout": {
+    "text_elements": [
+      "speech bubble",
+      "sign with text"
+    ],
+    "characters": "two characters in front of a door",
+    "background": "brick wall with a sign above"
+  },
+  "character_position": {
+    "location": "bottom left corner in front of a door",
+    "size_percentage": "approximately 30% of image width"
+  },
+  "text_style": {
+    "font": "cartoonish, handwritten style",
+    "speech_bubble_text": {
+      "color": "black on white background",
+      "position": "above and to the left of characters"
+    },
+    "sign_text": {
+      "colors": "various colors including green, blue, yellow, black",
+      "position": "center top"
+    }
+  },
+  "content_structure": "reaction format with humorous spelling error in dialogue",
+  "description": "The meme shows two cartoon characters outside a 'Quality LEARING Center', with a character expressing they 'LEARED so much', playing on the humorous misspelling."
+}

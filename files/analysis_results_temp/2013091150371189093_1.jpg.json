@@ -1,0 +1,11 @@
+{
+  "layout": "Bố cục gồm ba khung: khung đầu tiên và thứ ba có nhân vật, khung giữa có hình ảnh điện thoại với thông báo. Văn bản tiêu đề ở phía trên khung hình, ngang định dạng comic.",
+  "character_position": "Nhân vật xuất hiện trong khung đầu tiên và thứ ba, chiếm khoảng 40% mỗi khung, nằm ở trung tâm và rất dễ thấy.",
+  "text_style": {
+    "font": "Phong cách comic, chữ in đậm.",
+    "color": "Màu đen và đỏ nổi bật.",
+    "position": "Văn bản tiêu đề ở trên cùng, câu hỏi và nút ở giữa màn hình ở khung giữa."
+  },
+  "content_structure": "Meme sử dụng dạng reaction với thông điệp hài hước về việc xoá một ứng dụng để cải thiện cuộc sống.",
+  "description": "Meme gồm một nhân vật đội mũ xanh kiểm tra điện thoại, chọn xoá ứng dụng TikTok, với dòng tiêu đề gây chú ý ở trên cùng: 'HOW TO FIX YOUR ENTIRE LIFE IN ONE SECOND.'"
+}

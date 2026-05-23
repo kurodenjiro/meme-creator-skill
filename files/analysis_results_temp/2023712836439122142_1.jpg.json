@@ -1,0 +1,36 @@
+{
+  "layout": {
+    "panels": 2,
+    "texts": [
+      "ORIGINAL POSTER",
+      "END USER",
+      "*CLUNK*",
+      "*WHIRR*"
+    ],
+    "elements": [
+      "AI machine",
+      "characters",
+      "conveyor belt with boxes labeled 'ARTICLE' and 'SENTENCE'"
+    ]
+  },
+  "character_position": {
+    "character_1": {
+      "location": "top panel, right side",
+      "size_percentage": 15
+    },
+    "character_2": {
+      "location": "bottom panel, right side",
+      "size_percentage": 15
+    }
+  },
+  "text_style": {
+    "font": "bold, handwritten style",
+    "color": "black",
+    "position": "top-left for panel titles, around machine for sound effects"
+  },
+  "content_structure": {
+    "format": "comparison",
+    "idea": "contrasting perspectives of 'original poster' and 'end user' interacting with AI"
+  },
+  "description": "The meme has a two-panel comic strip format with each panel showing different characters labeled 'ORIGINAL POSTER' and 'END USER' interacting with an AI machine. The top panel depicts a 'PRO' original poster using the machine efficiently, while the bottom panel shows an end user confused. Boxes on a conveyor belt are labeled 'ARTICLE' and 'SENTENCE', illustrating a process."
+}

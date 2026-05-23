@@ -1,0 +1,51 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "CT",
+        "position": "top center",
+        "alignment": "above character"
+      },
+      {
+        "content": "SAYLOR",
+        "position": "middle center",
+        "alignment": "next to character"
+      },
+      {
+        "content": "TOM LEE",
+        "position": "bottom center",
+        "alignment": "above an arrow pointing to character"
+      }
+    ],
+    "characters": [
+      {
+        "name": "Diver (CT)",
+        "position": "top center",
+        "size_percentage": 10
+      },
+      {
+        "name": "Saylor",
+        "position": "middle center",
+        "size_percentage": 15
+      },
+      {
+        "name": "Tom Lee",
+        "position": "bottom center, underwater",
+        "size_percentage": 5
+      }
+    ],
+    "background": "sky and ocean"
+  },
+  "character_position": {
+    "CT": "Top center, diving into water",
+    "Saylor": "Center, partially submerged",
+    "Tom Lee": "Bottom, underwater"
+  },
+  "text_style": {
+    "font": "Bold, cartoonish (exact font not determined)",
+    "color": "White with black outline",
+    "placement_relation": "Near respective characters"
+  },
+  "content_structure": "Comparison and reaction",
+  "description": "This meme illustrates a scene where a character labeled 'CT' is diving into water, a partially submerged 'Saylor' is holding a Bitcoin, and 'Tom Lee' is deep underwater. It uses humor to depict different perspectives or situations related to cryptocurrency."
+}

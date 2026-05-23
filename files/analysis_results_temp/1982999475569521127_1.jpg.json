@@ -1,0 +1,21 @@
+{
+  "layout": {
+    "text_elements": [
+      "There is a watermark '@boldleonidas' at the bottom right corner."
+    ],
+    "character": {
+      "position": "center",
+      "size_percentage": 70
+    },
+    "background": "plain white"
+  },
+  "character_position": "center, occupying about 70% of the image",
+  "text_style": {
+    "font": "unknown",
+    "style": "comic-like",
+    "color": "black",
+    "position": "bottom right for watermark"
+  },
+  "content_structure": "reaction with a humorous twist involving a character design",
+  "description": "The meme features a cartoon character with a water cooler jug on its head, giving a humorous and quirky impression. The watermark '@boldleonidas' is present in the bottom right corner."
+}

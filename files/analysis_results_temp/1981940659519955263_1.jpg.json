@@ -1,0 +1,12 @@
+{
+  "layout": "The image is divided into three horizontal panels. Each panel contains characters and text in speech bubbles.",
+  "character_position": "Characters are positioned on the left of each panel, taking up around 50% of the space. The first panel shows two characters from the chest up, the second panel focuses on their faces, and the third panel shows them sitting on a bench.",
+  "text_style": {
+    "font": "Handwritten style",
+    "style": "Black font with speech bubbles",
+    "color": "Black",
+    "position": "Top left of the first panel, middle of the second panel, bottom left of the third panel"
+  },
+  "content_structure": "The meme uses a reaction format showing a humorous response to an online situation.",
+  "description": "The meme depicts two characters reacting to an online interaction. The first panel shows a green character crying and saying 'But... it was a good tweet...', with a large character comforting them. The second panel displays the word '... RATIO' indicating a social media context. The third panel shows them sitting together with contrasting 'likes' counts, emphasizing the humorous 'ratio' concept."
+}

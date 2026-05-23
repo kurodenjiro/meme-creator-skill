@@ -1,0 +1,11 @@
+{
+  "layout": "Bức ảnh chia thành hai khung hình, khung trên và khung dưới. Mỗi khung có hộp thoại riêng.",
+  "character_position": "Ở khung trên, nhân vật ở bên phải, chiếm khoảng 25% diện tích khung hình. Trong khung dưới, hai nhân vật đối diện nhau, mỗi nhân vật chiếm khoảng 25% diện tích.",
+  "text_style": {
+    "font": "Phông chữ có thể là kiểu chữ viết tay hoặc in đậm.",
+    "color": "Màu sắc chữ là đen, nằm trong các hộp thoại màu trắng với viền đen.",
+    "placement": "Văn bản nằm trong hộp thoại ở phía trên nhân vật trong cả hai khung."
+  },
+  "content_structure": "Sử dụng dạng đối thoại để truyền tải thông điệp hài hước.",
+  "description": "Meme này có hai nhân vật nói chuyện với nhau về chủ đề chữa trị ung thư. Cách thể hiện qua biểu cảm của nhân vật và nội dung hội thoại tạo nên yếu tố hài hước."
+}

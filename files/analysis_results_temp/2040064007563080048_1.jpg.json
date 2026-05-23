@@ -1,0 +1,12 @@
+{
+  "layout": "Bức ảnh được chia thành hai phần chính: phần trên là cảnh nhân vật hoạt hình với biểu đồ và phần dưới là thông tin mô phỏng như video trên mạng. Trên cùng là dòng chữ lớn, bên trái là nhân vật hoạt hình chính, bên phải là nhân vật thứ hai nhỏ hơn với hội thoại.",
+  "character_position": "Nhân vật chính nằm bên trái, chiếm khoảng 40% chiều ngang. Nhân vật thứ hai nhỏ hơn bên phải, khoảng 10%, trong một khung hình riêng.",
+  "text_style": {
+    "font": "Phông chữ in hoa, không chân",
+    "style": "Thô, vẽ tay",
+    "color": "Màu trắng và đen, chữ 'EVERYTIME' nổi bật màu vàng với chữ đen",
+    "position": "Dòng chữ chính trên cùng. Bên dưới, hội thoại của nhân vật thứ hai được biểu diễn trong bong bóng thoại."
+  },
+  "content_structure": "Meme dạng reaction, sử dụng sự trớ trêu của một tình huống tài chính hài hước.",
+  "description": "Meme mô tả một tình huống đầu tư hài hước với nhân vật hoạt hình, sử dụng biểu đồ và hội thoại để tạo phản ứng."
+}

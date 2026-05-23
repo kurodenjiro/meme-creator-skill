@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "text_box": "Top left, speech bubble style",
+    "characters": "Two main characters side by side in bed",
+    "background": "Simple with a grey wall, two candles on side tables"
+  },
+  "character_position": {
+    "position": "Centered horizontally, lower half of the image",
+    "size_percentage": "Approximately 40% of image height"
+  },
+  "text_style": {
+    "font_guess": "Bold, handwritten style",
+    "color": "Black text with white background for the speech bubble",
+    "location": "Top left within speech bubble"
+  },
+  "content_structure": {
+    "format": "Reaction, humor"
+  },
+  "description": "A humorous comic-style meme featuring a character resembling a well-known mascot in bed with a bucket of fried chicken, using a playful dialogue."
+}

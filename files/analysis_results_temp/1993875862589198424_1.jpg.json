@@ -1,0 +1,47 @@
+{
+  "layout": {
+    "type": "split",
+    "columns": 2,
+    "left_column": {
+      "background": "cartoon style",
+      "elements": [
+        "text",
+        "cartoon character",
+        "background elements"
+      ]
+    },
+    "right_column": {
+      "background": "photographic style",
+      "elements": [
+        "text",
+        "real person",
+        "background elements"
+      ]
+    }
+  },
+  "character_position": {
+    "left_character": {
+      "location": "center left",
+      "size_percentage": "approximately 70%"
+    },
+    "right_character": {
+      "location": "center right",
+      "size_percentage": "approximately 70%"
+    }
+  },
+  "text_style": {
+    "font": "bold, hand-drawn style",
+    "text_left": "NANO BANANA",
+    "text_right": "NANO BANANA PRO",
+    "color": "black",
+    "position": "top center of each column"
+  },
+  "content_structure": {
+    "format": "comparison",
+    "elements_compared": [
+      "simplistic cartoon vs realistic photo",
+      "basic item vs pro version"
+    ]
+  },
+  "description": "The meme uses side-by-side comparison with a cartoon character on the left and a real person on the right, labeling them as 'NANO BANANA' and 'NANO BANANA PRO' to humorously highlight the difference between a basic and a 'pro' version."
+}

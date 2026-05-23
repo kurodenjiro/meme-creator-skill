@@ -1,0 +1,31 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "content": "@cburniske has blocked you",
+        "position": "top",
+        "font_size": "large"
+      },
+      {
+        "content": "You can view public posts from @cburniske, but you are blocked from engaging with them. You also cannot follow or message @cburniske.",
+        "position": "below main text",
+        "font_size": "medium"
+      }
+    ],
+    "background": "solid black"
+  },
+  "character_position": {
+    "presence": "none",
+    "size_percentage": "0%"
+  },
+  "text_style": {
+    "font": "bold for main text",
+    "color": "white for main text, gray for secondary text",
+    "alignment": "center"
+  },
+  "content_structure": {
+    "format": "informative notice",
+    "type": "social media interaction notification"
+  },
+  "description": "The meme is a social media styled notification informing the user that they have been blocked by another user, using a simple and clear layout with a black background and white, gray text."
+}

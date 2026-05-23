@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "title": "Two Characters Meme",
+    "text_bubble": {
+      "position": "top right",
+      "shape": "rectangular with rounded corners",
+      "border": "black"
+    },
+    "characters": "two in foreground",
+    "background": "solid gray with a light border"
+  },
+  "character_position": {
+    "left_character": {
+      "position": "left",
+      "size_percentage": "approximately 30%"
+    },
+    "right_character": {
+      "position": "right",
+      "size_percentage": "approximately 30%"
+    }
+  },
+  "text_style": {
+    "font": "bold handwritten style",
+    "color": "black",
+    "text_position": "inside speech bubble",
+    "alignment": "left"
+  },
+  "content_structure": {
+    "type": "dialogue",
+    "format": "reaction and humor"
+  },
+  "description": "The meme features a humorous dialogue between two cartoon characters, with one character complaining about something mundane. The text is in a speech bubble pointing from the right character."
+}

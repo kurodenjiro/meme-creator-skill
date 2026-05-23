@@ -1,0 +1,15 @@
+{
+  "layout": "The meme is divided into two panels stacked vertically. Each panel contains the same character on the right side, with a speech bubble. The left side depicts a chalkboard with illustrations and space elements.",
+  "character_position": "The character is positioned on the right side in both panels, taking up about 30% of each panel's width. The character points towards the chalkboard with a pointer.",
+  "text_style": {
+    "font": "Handwritten-style, bold",
+    "color": "Black",
+    "position": "Top right speech bubble in each panel",
+    "text_content": [
+      "OK CLASS. SO TODAY WE LEARNED THAT ASTEROIDS GO UP ON ETH",
+      "AND DOWN ON SOLANA"
+    ]
+  },
+  "content_structure": "The meme uses a humorous comparison format, with the top panel setting up an expectation and the bottom panel delivering the punchline.",
+  "description": "This meme humorously compares the cryptocurrency Ethereum (ETH) with Solana in terms of performance, using a classroom and chalkboard setting with a cartoon dog character as the teacher."
+}

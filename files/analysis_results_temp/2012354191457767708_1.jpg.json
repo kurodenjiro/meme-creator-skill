@@ -1,0 +1,47 @@
+{
+  "layout": {
+    "elements": [
+      {
+        "type": "header",
+        "content": "Notifications",
+        "position": "top center"
+      },
+      {
+        "type": "tabs",
+        "content": [
+          "All",
+          "Priority",
+          "Mentions"
+        ],
+        "highlighted": "All",
+        "position": "below header"
+      },
+      {
+        "type": "notification",
+        "content": {
+          "icon": "celebration emoji",
+          "text": "You got paid! • 26s\n$1653.04 has been deposited into your account."
+        },
+        "position": "center"
+      }
+    ],
+    "background": "black"
+  },
+  "character_position": {
+    "character": "celebration emoji",
+    "position": "left of notification text",
+    "size_percentage": "small, approximately 10%"
+  },
+  "text_style": {
+    "font": "sans-serif, typical of social media notifications",
+    "style": "bold for notification title, regular below",
+    "color": "white text on black background",
+    "position": "center, aligned left with icon"
+  },
+  "content_structure": {
+    "format": "reaction",
+    "message": "Notification of receiving money",
+    "tone": "positive, celebratory"
+  },
+  "description": "A meme styled as a screenshot of a social media notification, humorously depicting the scenario of receiving a significant payment with a celebratory emoji to emphasize the excitement."
+}

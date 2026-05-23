@@ -1,0 +1,53 @@
+{
+  "layout": {
+    "text_elements": [
+      {
+        "position": "bottom left",
+        "content": "WHAT'S THIS?"
+      },
+      {
+        "position": "bottom right",
+        "content": "IT'S MY 2026 AIRDROP TIER LIST."
+      }
+    ],
+    "characters": [
+      {
+        "position": "bottom left",
+        "description": "A character with a wizard hat"
+      },
+      {
+        "position": "bottom right",
+        "description": "A green character with a smiling expression"
+      }
+    ],
+    "background": {
+      "main_element": "tier list with labels S, A, B, C, D",
+      "position": "top",
+      "description": "color-coded tier list"
+    }
+  },
+  "character_position": {
+    "wizard": {
+      "position": "bottom left",
+      "approx_size_percentage": 15
+    },
+    "green_character": {
+      "position": "bottom right",
+      "approx_size_percentage": 15
+    }
+  },
+  "text_style": {
+    "font": "bold, cartoon-like",
+    "color": "black",
+    "speech_bubble": true,
+    "text_position": [
+      "bottom left",
+      "bottom right"
+    ]
+  },
+  "content_structure": {
+    "type": "conversation meme",
+    "format": "reaction to a visual list"
+  },
+  "description": "A humorous meme showcasing a tier list with characters discussing its content through speech bubbles, with a modern, cartoon-like style."
+}

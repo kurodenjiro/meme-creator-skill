@@ -1,0 +1,58 @@
+{
+  "layout": {
+    "panels": [
+      {
+        "position": "top-left",
+        "text": "I'm about to sell my Pokemon card for 10 million",
+        "text_bubble": true,
+        "character": "human",
+        "text_position": "top"
+      },
+      {
+        "position": "top-right",
+        "text": "Oh nice! And you'll share profits with the fractional owners right?",
+        "text_bubble": true,
+        "character": "dog",
+        "text_position": "top"
+      },
+      {
+        "position": "bottom-left",
+        "text": "Block",
+        "text_bubble": false,
+        "character": "human",
+        "text_position": "app"
+      },
+      {
+        "position": "bottom-right",
+        "character": "dog",
+        "expression": "surprised"
+      }
+    ]
+  },
+  "character_position": {
+    "human": {
+      "panel": "left",
+      "percentage_of_frame": 40
+    },
+    "dog": {
+      "panel": "right",
+      "percentage_of_frame": 40
+    }
+  },
+  "text_style": {
+    "font": "handwritten",
+    "color": "black",
+    "text_bubble_color": "white",
+    "font_size": "medium",
+    "bold": false
+  },
+  "content_structure": {
+    "format": "reaction",
+    "elements": [
+      "setup",
+      "punchline",
+      "reaction"
+    ]
+  },
+  "description": "The meme depicts a humorous interaction between a human and a dog character discussing the sale of a Pokemon card, followed by a sarcastic reminder to share profits. The final reaction captures surprise."
+}

@@ -1,0 +1,11 @@
+{
+  "layout": "The meme consists of two panels stacked vertically. Each panel contains a character on the right side and text on the left side.",
+  "character_position": "The character is positioned on the right side of each panel, occupying approximately 30-40% of the panel width.",
+  "text_style": {
+    "font": "Bold, uppercase, hand-drawn style",
+    "color": "Black",
+    "position": "Left side of each panel, occupying the majority of the left space."
+  },
+  "content_structure": "Comparison format, highlighting the contrasting reactions to spending different amounts of money on different items.",
+  "description": "The meme portrays a character reacting positively to spending $1,000 on 'chain' in the first panel, and then reactively worried about spending $100 on 'groceries' in the second panel."
+}

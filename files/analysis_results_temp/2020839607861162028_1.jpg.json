@@ -1,0 +1,46 @@
+{
+  "layout": {
+    "panels": 2,
+    "text_positions": [
+      {
+        "panel": 1,
+        "position": "top_left",
+        "text_box": "top"
+      },
+      {
+        "panel": 2,
+        "position": "right",
+        "text_box": "middle"
+      }
+    ],
+    "characters_positions": [
+      {
+        "panel": 1,
+        "percent": 60,
+        "position": "left"
+      },
+      {
+        "panel": 2,
+        "percent": 80,
+        "position": "left"
+      }
+    ]
+  },
+  "character_position": {
+    "usual_position": "left",
+    "size_percentage": "50-80"
+  },
+  "text_style": {
+    "font_guess": "handwritten",
+    "style": "bold",
+    "color": "black",
+    "position": "speech bubble"
+  },
+  "content_structure": {
+    "format": "conversation",
+    "type": "humor",
+    "setup": "concern/question",
+    "punchline": "realization/response"
+  },
+  "description": "Meme gồm hai cảnh. Cảnh một, có hai nhân vật hình viên thuốc đứng bên trái với nền đơn giản xám, đang nói chuyện với nội dung hỏi về việc biểu diễn. Cảnh hai, một trong hai nhân vật đứng bên cạnh một đám cỏ, đáp lại rằng mình đã ở đó suốt, chữ được cách điệu trong hộp thoại với phông chữ viết tay đậm màu đen."
+}

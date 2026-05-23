@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "banner": {
+      "text": "SPEED DATING",
+      "position": "top center"
+    },
+    "dialogue_box": {
+      "position": "center right",
+      "shape": "speech bubble",
+      "border": "black outline"
+    },
+    "characters": {
+      "total": 3,
+      "positions": [
+        "left back",
+        "front left",
+        "front right"
+      ]
+    }
+  },
+  "character_position": {
+    "back_left_character": "20%",
+    "front_left_character": "30%",
+    "front_right_character": "30%"
+  },
+  "text_style": {
+    "font": "handwritten style",
+    "color": "black",
+    "dialogue_position": "inside speech bubble"
+  },
+  "content_structure": {
+    "format": "conversation",
+    "theme": "humor, blockchain technology",
+    "type": "ironic statement"
+  },
+  "description": "The meme shows a speed dating setting with three characters. The main dialogue is a humorous statement about blockchain technology, emphasizing the character's achievements in a casual setting. The contrast between the high-level tech content and the everyday scenario creates irony."
+}

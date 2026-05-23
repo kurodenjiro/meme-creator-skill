@@ -1,0 +1,12 @@
+{
+  "layout": "The image is divided into four quadrants, each showcasing a character with matching text below. The title text 'TYPES OF HEADACHES' is at the top. Each quadrant is evenly spaced, maintaining a clean and organized look.",
+  "character_position": "Characters are positioned in the center of each quadrant, occupying approximately 20-25% of each quadrant. Their hats and expressions are a key focus.",
+  "text_style": {
+    "font": "Hand-drawn, bold sans-serif",
+    "style": "All uppercase, strong outline",
+    "color": "Black",
+    "position": "Title at the top, descriptive text below each character"
+  },
+  "content_structure": "Comparison format, humorously illustrating different 'types of headaches' using varying expressions and colors to depict each type visually.",
+  "description": "The meme humorously compares different 'types of headaches' through cartoon characters with exaggerated expressions and color variations, highlighting common experiences with humor."
+}

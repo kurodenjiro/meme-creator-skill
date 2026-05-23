@@ -1,0 +1,34 @@
+{
+  "layout": {
+    "panels": 3,
+    "elements": [
+      "top_text",
+      "characters",
+      "bottom_text"
+    ],
+    "description": "Three-panel comic strip. Each panel has a top text label indicating the 'waiting room' price and two characters interacting."
+  },
+  "character_position": {
+    "left_character": {
+      "position": "left_half",
+      "size_percentage": 20
+    },
+    "right_character": {
+      "position": "right_half",
+      "size_percentage": 15
+    },
+    "action": "Left character is holding a ladder and a paint bucket, interacting with the text."
+  },
+  "text_style": {
+    "font": "handwritten-style",
+    "size": "large",
+    "color": "black",
+    "highlight": "red highlight on '$4k'",
+    "position": "top of each panel"
+  },
+  "content_structure": {
+    "format": "Reaction/Progression",
+    "flow": "The comic depicts a shift from $5k to $4k 'waiting room' as the left character alters the text."
+  },
+  "description": "A humorous comic depicting a bear character changing the 'waiting room' sign price from $5k to $4k while another character looks on."
+}
