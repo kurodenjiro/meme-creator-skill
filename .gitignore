@@ -4,9 +4,6 @@
 .env
 .env.*
 !.env.example
-website/.env
-website/.env.*
-!website/.env.example
 
 # Python
 venv/
@@ -15,10 +12,16 @@ __pycache__/
 *.py[cod]
 
 # Website
-website/node_modules/
-website/.svelte-kit/
-website/build/
-website/.vite/
+node_modules/
+.svelte-kit/
+build/
+.vite/
+.output/
+.vercel/
+.netlify/
+.wrangler/
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
 
 # Logs and local runtime output
 *.log
