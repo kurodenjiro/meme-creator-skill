@@ -33,6 +33,27 @@ python python/server.py
 
 Note: the image archive is ~220MB in git, which can approach Vercel deployment size limits on smaller plans.
 
+## Tạo meme (web UI)
+
+Trang **`/create`** — luồng đầy đủ:
+
+1. Nhập **trend** và chọn **nhân vật** (có thể thêm nhân vật mới).
+2. **Tạo kịch bản** — GPT-4o đọc `files/style.md`, `SKILL.md`, tìm ảnh tham khảo trong Supabase, trả về blueprint + image prompt.
+3. **Tạo ảnh** — GPT-4o vision phân tích ảnh tham khảo + kịch bản, gửi prompt lên `OPENAI_IMAGE_MODEL` (mặc định `gpt-image-1`).
+
+API:
+
+- `GET/POST /api/characters`
+- `POST /api/generate/script` — `{ trend, characterIds, hint? }`
+- `POST /api/generate/image` — `{ script, characterIds, referenceIds }`
+
+CLI (Python, cần `python server.py`):
+
+```sh
+python python/generate_meme_concept.py "trend text" "Wizard"
+python python/generate_with_references.py "wizard pig crypto panic"
+```
+
 ## Common Commands
 
 ```sh

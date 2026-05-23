@@ -83,6 +83,11 @@
 </svelte:head>
 
 <main class="shell">
+	<nav class="site-nav" aria-label="Main">
+		<a href="/" class="active">Tìm kiếm</a>
+		<a href="/create">Tạo meme</a>
+	</nav>
+
 	<section class="hero">
 		<div class="hero-copy">
 			<p class="eyebrow">Boldleonidas archive</p>
@@ -232,6 +237,28 @@
 		width: min(1480px, 100%);
 		margin: 0 auto;
 		padding: 28px;
+	}
+
+	.site-nav {
+		display: flex;
+		gap: 10px;
+		margin-bottom: 20px;
+	}
+
+	.site-nav a {
+		color: #f8f3e6;
+		text-decoration: none;
+		padding: 8px 14px;
+		border: 1px solid rgba(248, 243, 230, 0.2);
+		border-radius: 6px;
+		font-weight: 800;
+		font-size: 0.9rem;
+	}
+
+	.site-nav a.active {
+		background: #e8ff65;
+		color: #111;
+		border-color: #e8ff65;
 	}
 
 	.hero {

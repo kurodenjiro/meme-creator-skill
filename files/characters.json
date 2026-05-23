@@ -1,0 +1,70 @@
+{
+	"characters": [
+		{
+			"id": "wizard",
+			"name": "Wizard / Mage",
+			"nameVi": "Phù thủy",
+			"description": "Purple robe with yellow stars and moon patterns, pointed wizard hat, long white beard, expressive white eyebrows.",
+			"archetype": "Sage, advisor, smart money / dev representative. Often warns or explains.",
+			"visualPrompt": "cartoon purple wizard with star-patterned robe, pointed hat, long white beard, hand-drawn boldleonidas style",
+			"usagePercent": 37.9,
+			"referenceMemeId": null,
+			"builtin": true
+		},
+		{
+			"id": "frog",
+			"name": "Green Frog",
+			"nameVi": "Ếch xanh",
+			"description": "Green skin, large expressive eyes, Pepe-like frog, occasionally simple shirt or hat.",
+			"archetype": "Retail investor, skeptic, worried speculator, average crypto user.",
+			"visualPrompt": "green cartoon frog with big expressive eyes, pepe-like, hand-drawn comic style",
+			"usagePercent": 11.1,
+			"referenceMemeId": null,
+			"builtin": true
+		},
+		{
+			"id": "bitcoin",
+			"name": "Orange Bitcoin Coin",
+			"nameVi": "Đồng Bitcoin cam",
+			"description": "Round orange coin with BTC symbol, cartoon arms, legs, and face.",
+			"archetype": "Bitcoin itself, market dominance, crypto market force.",
+			"visualPrompt": "anthropomorphic orange bitcoin coin character with face and limbs, cartoon style",
+			"usagePercent": 5.1,
+			"referenceMemeId": null,
+			"builtin": true
+		},
+		{
+			"id": "pro-hat",
+			"name": "Purple PRO Hat",
+			"nameVi": "Nhân vật mũ PRO",
+			"description": "Purple body/face, black baseball cap with bold white PRO letters.",
+			"archetype": "Professional developer, experienced trader, confident builder.",
+			"visualPrompt": "purple cartoon character wearing black cap with white PRO text, hand-drawn style",
+			"usagePercent": 4.7,
+			"referenceMemeId": null,
+			"builtin": true
+		},
+		{
+			"id": "pig",
+			"name": "Pig",
+			"nameVi": "Heo",
+			"description": "Pink round pig with wide expressive eyes and simple features.",
+			"archetype": "Naive counterpoint in dialogues, victim of bad trades, comic foil.",
+			"visualPrompt": "pink round cartoon pig with wide eyes, simple hand-drawn features",
+			"usagePercent": 2.9,
+			"referenceMemeId": null,
+			"builtin": true
+		},
+		{
+			"id": "sui-drop",
+			"name": "Blue Drop (Sui)",
+			"nameVi": "Giọt nước Sui",
+			"description": "Water-drop shaped blue character with eyes and hands.",
+			"archetype": "Project collaboration memes, often beside the Wizard.",
+			"visualPrompt": "blue water drop mascot character with eyes and hands, cartoon style",
+			"usagePercent": 2.4,
+			"referenceMemeId": null,
+			"builtin": true
+		}
+	]
+}
