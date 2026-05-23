@@ -40,19 +40,28 @@ export function slugifyId(name: string): string {
 		.slice(0, 48);
 }
 
-export function addCharacter(input: Omit<Character, 'id' | 'builtin'> & { id?: string }): Character {
+export type AddCharacterInput = {
+	name: string;
+	description: string;
+	referenceImageUrl: string;
+	id?: string;
+};
+
+export function addCharacter(input: AddCharacterInput): Character {
 	const id = input.id?.trim() || slugifyId(input.name);
 	if (!id) throw new Error('Invalid character name');
+
+	const description = input.description.trim();
+	const referenceImageUrl = input.referenceImageUrl.trim();
+	if (!referenceImageUrl) throw new Error('referenceImageUrl is required');
 
 	const character: Character = {
 		id,
 		name: input.name.trim(),
-		nameVi: input.nameVi?.trim(),
-		description: input.description.trim(),
-		archetype: input.archetype?.trim(),
-		visualPrompt: input.visualPrompt.trim(),
-		referenceMemeId: input.referenceMemeId ?? null,
-		referenceImagePath: input.referenceImagePath ?? null,
+		description,
+		visualPrompt: description,
+		referenceImageUrl,
+		referenceMemeId: null,
 		builtin: false
 	};
 

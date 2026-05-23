@@ -4,7 +4,7 @@ import type { RequestHandler } from './$types';
 
 export const POST: RequestHandler = async ({ request }) => {
 	const body = await request.json();
-	const { trend, characterIds, hint, referenceCount } = body;
+	const { trend, characterIds, hint, referenceCount, references } = body;
 
 	if (!trend?.trim()) {
 		return json({ error: 'trend is required' }, { status: 400 });
@@ -18,7 +18,8 @@ export const POST: RequestHandler = async ({ request }) => {
 			trend: trend.trim(),
 			characterIds,
 			hint: hint?.trim(),
-			referenceCount: referenceCount ?? 3
+			referenceCount: referenceCount ?? 3,
+			references: Array.isArray(references) ? references : undefined
 		});
 		return json(result);
 	} catch (e: unknown) {

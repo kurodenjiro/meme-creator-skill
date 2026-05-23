@@ -8,11 +8,11 @@ export const GET: RequestHandler = async () => {
 
 export const POST: RequestHandler = async ({ request }) => {
 	const body = await request.json();
-	const { name, nameVi, description, archetype, visualPrompt, referenceMemeId, id } = body;
+	const { name, description, referenceImageUrl, id } = body;
 
-	if (!name?.trim() || !description?.trim() || !visualPrompt?.trim()) {
+	if (!name?.trim() || !description?.trim() || !referenceImageUrl?.trim()) {
 		return json(
-			{ error: 'name, description, and visualPrompt are required' },
+			{ error: 'name, description, and referenceImageUrl are required' },
 			{ status: 400 }
 		);
 	}
@@ -21,11 +21,8 @@ export const POST: RequestHandler = async ({ request }) => {
 		const character = addCharacter({
 			id,
 			name,
-			nameVi,
 			description,
-			archetype,
-			visualPrompt,
-			referenceMemeId
+			referenceImageUrl
 		});
 		return json({ character, persisted: true });
 	} catch (e: unknown) {

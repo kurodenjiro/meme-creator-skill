@@ -4,9 +4,10 @@ export type Character = {
 	nameVi?: string;
 	description: string;
 	archetype?: string;
-	visualPrompt: string;
+	visualPrompt?: string;
 	usagePercent?: number;
 	referenceMemeId?: string | null;
+	referenceImageUrl?: string | null;
 	referenceImagePath?: string | null;
 	builtin?: boolean;
 };
@@ -45,6 +46,8 @@ export type GenerateScriptRequest = {
 	characterIds: string[];
 	hint?: string;
 	referenceCount?: number;
+	/** Pre-fetched references from live trend suggestions (skips server search). */
+	references?: MemeReference[];
 };
 
 export type GenerateScriptResponse = {

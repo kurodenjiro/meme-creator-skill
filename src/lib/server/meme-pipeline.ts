@@ -79,13 +79,18 @@ function buildSearchQuery(trend: string, characters: Character[]): string {
 export async function generateMemeScript(
 	req: GenerateScriptRequest
 ): Promise<GenerateScriptResponse> {
-	const { trend, characterIds, hint, referenceCount = 3 } = req;
+	const { trend, characterIds, hint, referenceCount = 3, references: presetRefs } = req;
 	const characters = getCharactersByIds(characterIds);
 	if (!characters.length) throw new Error('Select at least one character');
 
 	const searchQuery = buildSearchQuery(trend, characters);
-	const searchResults = await searchMemes(searchQuery, referenceCount);
-	const references = searchResults.map(toReference);
+	let references: MemeReference[];
+	if (presetRefs?.length) {
+		references = presetRefs;
+	} else {
+		const searchResults = await searchMemes(searchQuery, referenceCount);
+		references = searchResults.map(toReference);
+	}
 
 	const styleGuide = readGuide(STYLE_FILE);
 	const skillGuide = readGuide(SKILL_FILE);
@@ -93,7 +98,7 @@ export async function generateMemeScript(
 	const characterBlock = characters
 		.map(
 			(c) =>
-				`- ${c.name} (${c.id}): ${c.description}. Archetype: ${c.archetype || 'n/a'}. Visual: ${c.visualPrompt}`
+				`- ${c.name} (${c.id}): ${c.description}. Visual: ${c.visualPrompt || c.description}`
 		)
 		.join('\n');
 
@@ -204,7 +209,7 @@ Meme blueprint:
 ${panelsToMarkdown(script)}
 
 Characters:
-${characters.map((c) => `${c.name}: ${c.visualPrompt}`).join('\n')}
+${characters.map((c) => `${c.name}: ${c.visualPrompt || c.description}`).join('\n')}
 
 Study the attached reference memes for layout, bubble placement, and proportions.
 Output ONLY the final English prompt (max 1200 chars), no markdown, no explanation.`
@@ -222,7 +227,12 @@ Output ONLY the final English prompt (max 1200 chars), no markdown, no explanati
 	}
 
 	for (const c of characters) {
-		if (c.referenceMemeId) {
+		if (c.referenceImageUrl) {
+			content.push({
+				type: 'image_url',
+				image_url: { url: c.referenceImageUrl, detail: 'high' }
+			});
+		} else if (c.referenceMemeId) {
 			const b64 = loadImageBase64(c.referenceMemeId);
 			if (b64) {
 				content.push({
