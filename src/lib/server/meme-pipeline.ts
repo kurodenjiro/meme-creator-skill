@@ -127,8 +127,8 @@ export async function generateMemeScript(
 	if (presetRefs?.length) {
 		references = presetRefs;
 	} else {
-		const searchResults = await searchMemes(searchQuery, referenceCount);
-		references = searchResults.map(toReference);
+		const { results } = await searchMemes(searchQuery, referenceCount);
+		references = results.map(toReference);
 	}
 
 	const styleGuide = readGuide(STYLE_FILE).slice(0, 3500);

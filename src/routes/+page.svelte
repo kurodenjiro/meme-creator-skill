@@ -2,7 +2,7 @@
 	import type { Character, GenerateScriptResponse, MemeReference } from '$lib/types/meme';
 
 	const SUGGEST_DEBOUNCE_MS = 450;
-	const SUGGEST_MIN_CHARS = 4;
+	const SUGGEST_MIN_CHARS = 2;
 	const SUGGEST_COUNT = 6;
 
 	let trend = $state('');
@@ -15,6 +15,8 @@
 	let selectedRefIds = $state<string[]>([]);
 	let loadingSuggestions = $state(false);
 	let suggestionQuery = $state('');
+	let suggestionError = $state('');
+	let suggestionWarning = $state('');
 
 	let scriptResult = $state<GenerateScriptResponse | null>(null);
 	let generatedImageUrl = $state('');
@@ -74,6 +76,8 @@
 	async function fetchSuggestions(query: string) {
 		loadingSuggestions = true;
 		suggestionQuery = query;
+		suggestionError = '';
+		suggestionWarning = '';
 		try {
 			const res = await fetch('/api/search', {
 				method: 'POST',
@@ -81,15 +85,20 @@
 				body: JSON.stringify({ query, k: SUGGEST_COUNT })
 			});
 			const data = await res.json();
-			if (!res.ok) throw new Error(data.error || 'Search failed');
 			if (suggestionQuery !== query) return;
+			if (!res.ok) throw new Error(data.error || 'Search failed');
 			suggestions = (data.results ?? []).map((r: MemeReference) => ({
 				...r,
 				similarity: r.similarity ?? r.score
 			}));
 			selectedRefIds = suggestions.slice(0, 3).map((r) => r.id);
-		} catch {
-			if (suggestionQuery === query) suggestions = [];
+			if (data.warning) suggestionWarning = data.warning;
+		} catch (e) {
+			if (suggestionQuery === query) {
+				suggestions = [];
+				selectedRefIds = [];
+				suggestionError = e instanceof Error ? e.message : String(e);
+			}
 		} finally {
 			if (suggestionQuery === query) loadingSuggestions = false;
 		}
@@ -191,18 +200,21 @@
 	});
 
 	$effect(() => {
-		const query = buildSuggestQuery();
+		const trimmedTrend = trend.trim();
 		trend;
 		selectedIds;
 		allCharacters;
 
-		if (query.length < SUGGEST_MIN_CHARS) {
+		if (trimmedTrend.length < SUGGEST_MIN_CHARS) {
 			suggestions = [];
 			selectedRefIds = [];
+			suggestionError = '';
+			suggestionWarning = '';
 			loadingSuggestions = false;
 			return;
 		}
 
+		const query = buildSuggestQuery();
 		const timer = setTimeout(() => fetchSuggestions(query), SUGGEST_DEBOUNCE_MS);
 		return () => clearTimeout(timer);
 	});
@@ -249,10 +261,14 @@
 						<span class="suggest-status">Chọn tham chiếu cho kịch bản</span>
 					{/if}
 				</div>
-
-				{#if !loadingSuggestions && suggestions.length === 0}
-					<p class="suggest-empty">Chưa có kết quả — thử mô tả trend cụ thể hơn.</p>
-				{:else}
+				{#if suggestionWarning}
+					<p class="suggest-warn">{suggestionWarning} — đang dùng tìm theo từ khóa.</p>
+				{/if}
+				{#if suggestionError}
+					<p class="suggest-error">{suggestionError}</p>
+				{:else if !loadingSuggestions && suggestions.length === 0}
+					<p class="suggest-empty">Chưa có kết quả — thử trend bằng tiếng Anh hoặc từ khóa crypto cụ thể hơn.</p>
+				{:else if suggestions.length}
 					<div class="suggest-grid">
 						{#each suggestions as ref}
 							<button
@@ -536,10 +552,24 @@
 	}
 
 	.suggest-hint,
-	.suggest-empty {
+	.suggest-empty,
+	.suggest-warn,
+	.suggest-error {
 		margin: 10px 0 0;
 		font-size: 0.88rem;
+	}
+
+	.suggest-empty,
+	.suggest-hint {
 		color: #9a9588;
+	}
+
+	.suggest-warn {
+		color: #e8c765;
+	}
+
+	.suggest-error {
+		color: #ffb4a8;
 	}
 
 	.suggest-grid {
